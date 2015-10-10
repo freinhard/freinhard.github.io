@@ -5,7 +5,7 @@ title: Über mich
 
 Unternehmer, lic. phil., M A [UZH](http://www.uzh.ch)
 
-- e-Mail: fabian@reinhard.ch
+- e-Mail: [fabian@reinhard.ch](mailto:fabian@reinhard.ch)
 - Telefon: +41 41 511 22 50
 
 ## Beruflich
