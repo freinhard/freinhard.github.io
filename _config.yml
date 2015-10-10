@@ -10,7 +10,7 @@ tagline:             'Liberalers über alles'
 description:         'Fabian Reinhard: IT-Unternehmer, Grossstadtrat Luzern, Präsident FDP.die Liberalen Stadt Luzern'
 url:                 http://freinhard.github.io
 baseurl:             ''
-paginate:            5
+paginate:            3
 
 # About/contact
 author:
