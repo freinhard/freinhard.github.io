@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               BLOG Fabian Reinhard
 tagline:             'Liberalers über alles'
-description:         'Fabian Reinhard: IT-Unternehmer, Grossstadtrat Luzern, Präsident FDP.die Liberalen Stadt Luzern'
+description:         'Fabian Reinhard: IT-Unternehmer, Grossstadtrat Luzern, Präsident FDP.Die Liberalen Stadt Luzern'
 url:                 http://freinhard.github.io/
 baseurl:             ''
 paginate:            3
