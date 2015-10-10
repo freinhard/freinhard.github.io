@@ -22,7 +22,7 @@ Und was für die Verkehrspolitik gilt, gilt für die Stadtpolitik generell. Im V
 
 Die FDP will in der Verkehrspolitik ein lösungsorientiertes Nebeneinander von MIV, ÖV und Langsamverkehr. Was wir nicht wollen, ist ein starres Korsett in der Verkehrspolitik! Wir wollen eine Stadt, die sich weiterentwickeln kann! Die Stadt kann sich eine einseitige Verkehrspolitik mit einer starren Planierung nicht leisten!
 
-[**Bericht und Antrag Initiative "Für einen flüssigen Verkehr"**»](http://www.stadtluzern.ch/de/politik/ggr/polgeschaefte/?action=showinfo&info_id=b683)
+[**Bericht und Antrag Initiative "Für einen flüssigen Verkehr"**](http://www.stadtluzern.ch/de/politik/ggr/polgeschaefte/?action=showinfo&info_id=b683)
 
 ![Neubad]({{ site.url }}/public/assets/luzern-luftbild.jpg)
 *Das Luzerner Zentrum aus der Luft*
