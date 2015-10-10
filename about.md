@@ -3,11 +3,13 @@ layout: page
 title: Über mich
 ---
 
+Unternehmer, lic. phil., M A [UZH](http://www.uzh.ch) 
+
 ## Beruflich
-Unternehmer, lic. phil., Gründer und Geschäftsführer der Luzerner Softwareschmiede [seantis gmbh](https://seantis.ch)
+Gründer und Geschäftsführer der Luzerner Softwareschmiede [seantis gmbh](https://seantis.ch)
 
 ## Politisch
-[FDP Stadt Luzern](http://www.fdp-stadtluzern.ch), Grossstadtrat Luzern
+Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Grossstadtrat Luzern
 
 ## Privat
 [Maskenliebhaber-Gesellschaft der Stadt Luzern](http://www.mlg.ch), [Ruppigonia Solodorensis](http://ruppigonia.ch)
