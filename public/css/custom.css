@@ -8,7 +8,8 @@
         margin: auto;
     }
     .masthead-title a {
-        padding-top: 0.7rem;
+        display: auto;
+        margin-top: 0.7rem;
     }
     .masthead-title small {
         padding-top: 0.5rem;
