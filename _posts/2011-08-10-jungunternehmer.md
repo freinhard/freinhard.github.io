@@ -3,8 +3,7 @@ layout: post
 title: Die Leiden des jungen Unternehmers
 ---
 
-## Unternehmertum
-Gedanken zum Unternehmertum aus der Software-Manufaktur von seantis
+**Gedanken zum Unternehmertum aus der Software-Manufaktur von seantis**
 
 ## Wann gründe ich ein Unternehmen?
 Gleich vorweg: Dies ist keine Gebrauchanweisung zum Unternehmertum. Davon gibt es schon zu viele und wohl keine davon ist brauchbar, weil sie dem Umstand, dass das Glück der am meisten unterschätze Erfolgsfaktor ist, nicht Rechnung tragen. Dinge entwickeln sich nie so, wie man es sich vorgestellt hat.
