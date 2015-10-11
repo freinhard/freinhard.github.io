@@ -8,7 +8,7 @@
         margin: auto;
     }
     .masthead-title a {
-        display: auto;
+        display: block;
         margin-top: 0.7rem;
     }
     .masthead-title small {
