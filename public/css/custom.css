@@ -6,9 +6,9 @@
 @media (max-width: 48em) {
     .masthead-title img {
         margin: auto;
-        padding-bottom: 0.5rem;
     }
     .masthead-title small {
+        padding-top: 0.7rem;
         display: block;
     }
 }
