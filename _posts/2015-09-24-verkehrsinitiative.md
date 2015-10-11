@@ -25,5 +25,5 @@ Die FDP will in der Verkehrspolitik ein lösungsorientiertes Nebeneinander von M
 ### Mehr Informationen
 [**Bericht und Antrag Initiative "Für einen flüssigen Verkehr"**](http://www.stadtluzern.ch/de/politik/ggr/polgeschaefte/?action=showinfo&info_id=b683)
 
-![Neubad]({{ site.url }}/public/assets/luzern-luftbild.jpg)
+![Luftbild Luzern]({{ site.url }}/public/assets/luzern-luftbild.jpg)
 *Das Luzerner Zentrum aus der Luft*

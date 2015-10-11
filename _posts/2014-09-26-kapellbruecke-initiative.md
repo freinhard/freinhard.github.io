@@ -23,5 +23,5 @@ Die Stadtregierung und das Parlament haben es in den letzen Jahren verpasst, den
 ## Die Bilder gehören auf die Brücke!
 Mit der Annahme der Initiative «Die Bilder gehören auf die Kapellbrücke» werden die Weichen gestellt, damit die „Kapellbrücken-Bilder“ tatsächlich auf die Brücke kommen.
 
-![Kiss & Ride]({{ site.url }}/public/assets/kapellbruecken-initiative.jpg)
+![Initiativkomitee]({{ site.url }}/public/assets/kapellbruecken-initiative.jpg)
 *Initiativkomitee der Kapellbrücken-Initiative (v. l. n. r.): Maurus Zeier, Julia Bachmann, Yvonne Ruckli, Fabian Reinhard*
