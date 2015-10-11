@@ -24,4 +24,4 @@ Bereits nach geltendem Recht dürfen Gebäude in Zentrumslagen erst abgerissen w
 Solange Zwischennutzungen freiwillig sind und nicht auf Zwang basieren, habe ich nichts dagegen. Im Falle des Hallenbades sage ich ja zur Zwischennutzung unter zwei klaren Bedingungen. Erstens: keine zusätzliche Finanzierung durch die Stadt. Zweitens darf aus dem Provisorium kein «Providurium» werden!
 
 ![Neubad]({{ site.url }}/public/assets/neubad.jpg)
-*Bild Neubau.org*
+*Bild neubau.org*
