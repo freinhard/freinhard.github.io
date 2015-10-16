@@ -10,5 +10,5 @@ Doch ohne Einschränkungen wird der Haushalt der Stadt nicht im Gleichgewicht se
 
 Wie zu erwarten war, wehren sich einzelne Interessenvertreter gegen einzelne Massnahmen aus dem Gesamtpaket, die sie betreffen. Sie fordern, dass ihr Bereich aus dem Sparpaket genommen werden soll. Doch wenn man das Paket nun aufschnürt, hat das kein Ende. Es ist nur fair, dass alle ihren Sparbeitrag leisten. Und die Stadtverwaltung ist da besonders gefragt. Ihre Effizienz zu steigern, darf nicht ein einmaligen Projektes sein; es ist eine Daueraufgabe. Wir wissen es ja eigentlich alle: Sparen kann auch gesundes Abspecken sein.
 
-![Neubad]({{ site.url }}/public/assets/quartierbuero.jpg)
-*Gespart werden soll unter anderem bei den Quartierbüros*
+![Quartierbüro]({{ site.url }}/public/assets/quartierbuero.jpg)
+*Bild: Gespart werden soll unter anderem bei den Quartierbüros*
