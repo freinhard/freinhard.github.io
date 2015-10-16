@@ -1,4 +1,7 @@
-# Das Sparpaket nicht aufschnüren
+---
+layout: post
+title: Das Sparpaket nicht aufschnüren
+---
 
 ## Haushalt im Gleichgewicht
 Die Stadt Luzern muss sparen. Mit dem Projekt „Haushalt im Gleichgewicht“ hat der Stadtrat ein Sparpaket ausgearbeitet. Das Sparpaket ist nötig, weil die Stadt Luzern auf Dauer nicht über ihren Verhältnissen leben kann. Wer mehr ausgibt, als zur Verfügung steht, gerät in eine böse Schieflage. Dies darf nicht geschehen. Darum hat der Stadtrat das Sparpaket mit 83 Massnahmen geschnürt. Die davon Betroffenen freut dies kaum; denn: wer lässt sich gerne einschränken?
