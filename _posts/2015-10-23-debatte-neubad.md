@@ -3,14 +3,14 @@ layout: post
 title: Die wunderliche Debatte im Stadtparlament zum „Neubad“
 ---
 
-## 70 000 Franken fürs «Neubad»
+## 70’000 Franken fürs «Neubad»
 
 1. Die Bürgerlichen werfen der Stadtregierung Wortbruch vor. Diese hatte mehrmals versprochen, dem „Neubad“ kein Geld zukommen zu lassen. Entgegen diesen Versprechungen tut sie es doch.
 Die Reaktion der FDP im Wortlauf: „Die Versprechen des Stadtrates gehen im Neubad baden!“
 
 2. Die zuständige SP-Stadträtin Ursula Stämmer entschuldigt sich: „Die 70'000 Franken sind versehentlich im Voranschlag für 2016 gelandet. […] Im Budget wurde dann nicht mehr detailliert hingeschaut. Ich kann aber noch immer ruhig schlafen. Es ist ein ‹Tolggen› in meinem Heft und ich bitte das Parlament um Verzeihung.“
 
-3. Die Bürgerlichen sind echt sauer und fluchen. Wortlaut Thomas Gmür (CVP): „Ich fühle mich verarscht.“ Offenbar gingen noch weitere öffentliche Gelder ans „Neubad“. Auch das wird kritisiert, denn die Transparenz fehle und auch das verstosse klar gegen die Abmachungen.
+3. Die Bürgerlichen sind echt sauer und fluchen. Wortlaut Thomas Gmür (CVP): „Ich fühle mich verarscht.“ Offenbar gingen noch weitere öffentliche Gelder ans „Neubad“. Dank Nachfragen von Peter With (SVP) weiss die Öffentlichkeit nun auch von einer Bürgschaft der Stadt über 150’000 Franken ans „Neubad“. Auch das wird kritisiert, denn die Transparenz fehle und auch das verstosse klar gegen die Abmachungen.
 
 4. Die Linken und Grünen reden von der Erfolgsstory „Neubad“. Das „Neubad“ sei aus Luzern nicht mehr  wegzudenken.
 
