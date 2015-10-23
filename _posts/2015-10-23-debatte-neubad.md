@@ -12,11 +12,11 @@ Die Reaktion der FDP im Wortlauf: „Die Versprechen des Stadtrates gehen im Neu
 
 3. Die Bürgerlichen sind echt sauer und fluchen. Wortlaut Thomas Gmür (CVP): „Ich fühle mich verarscht.“ Offenbar gingen noch weitere öffentliche Gelder ans „Neubad“. Auch das wird kritisiert, denn die Transparenz fehle und auch das verstosse klar gegen die Abmachungen.
 
-4. Die Linken und Grünen reden von der Erfolgsstory „Neubad“. Das “ Neubad“ sei aus Luzern nicht mehr  wegzudenken.
+4. Die Linken und Grünen reden von der Erfolgsstory „Neubad“. Das „Neubad“ sei aus Luzern nicht mehr  wegzudenken.
 
-5. Die FDP erinnert, das “Neubad“ sei ein Provisorium, es dürfe nicht zum Providurium werden. Darum müsse man es wegdenken können; denn: nach der Zwischennutzung muss es weg. (Das ist  ein Versprechen der Regierung und von Links/Grün). Auch die Start-ups („Neubad-Google“) aus dem “ Neubad“ seien wohl eher eine links-grüne Wunschvorstellung.
+5. Die FDP erinnert, das „Neubad“ sei ein Provisorium, es dürfe nicht zum Providurium werden. Darum müsse man es wegdenken können; denn: nach der Zwischennutzung muss es weg. (Das ist  ein Versprechen der Regierung und von Links/Grün). Auch die Start-ups („Neubad-Google“) aus dem „Neubad“ seien wohl eher eine links-grüne Wunschvorstellung.
 
-6. Finanzdirektor Stefan Roth (CVP) stellt sich schützend vor seine Stadtratskollegin Stämmer: «Wir müssen den Fehler auf unsere Kappe nehmen. Die Kritik richtet sich in gleichem Masse auch an mich.»
+6. Finanzdirektor Stefan Roth (CVP) stellt sich schützend vor seine Stadtratskollegin Stämmer: „Wir müssen den Fehler auf unsere Kappe nehmen. Die Kritik richtet sich in gleichem Masse auch an mich.“
 
 7. Und siehe da und wundere dich: Teile der CVP (Wortlaut „Ich fühle mich verarscht“) sowie die GLP stimmen zusammen mit den Grünen und Linken für den Beitrag ans Neubad.
 
