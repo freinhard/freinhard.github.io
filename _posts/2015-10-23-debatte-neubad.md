@@ -7,7 +7,7 @@ title: Die wunderliche Debatte im Stadtparlament zum „Neubad“
 
 2. Die zuständige SP-Stadträtin Ursula Stämmer entschuldigt sich: „Die 70'000 Franken sind versehentlich im Voranschlag für 2016 gelandet.“
 
-3. Die Bürgerlichen fluchen. Wortlaut Thomas Gmür (CVP): „Ich fühle mich verarscht.“. Offenbar gingen noch weitere öffentliche Gelder ans „Neubad“. Auch das wird kritisiert, denn die Transparenz fehle und auch das verstosse klar gegen die Abmachungen.
+3. Die Bürgerlichen fluchen. Wortlaut Thomas Gmür (CVP): „Ich fühle mich verarscht.“ Offenbar gingen noch weitere öffentliche Gelder ans „Neubad“. Auch das wird kritisiert, denn die Transparenz fehle und auch das verstosse klar gegen die Abmachungen.
 
 4. Die Linken und Grünen reden von der Erfolgsstory „Neubad“. Das Neubad sei nicht mehr aus Luzern wegzudenken.
 
