@@ -3,6 +3,9 @@ layout: post
 title: Die wunderliche Debatte im Stadtparlament zum „Neubad“
 ---
 
+![Hallenbad]({{ site.url }}/public/assets/neubad-geld.jpg)
+*Bild: Das ehemalige Hallenbad Biregg (Quelle neubad.org)*
+
 1. Die Bürgerlichen werfen der Stadtregierung Wortbruch vor (kein Geld fürs „Neubad“). Wortlauf FDP: „Die Versprechen des Stadtrates gehen im Neubad baden!“
 
 2. Die zuständige SP-Stadträtin Ursula Stämmer entschuldigt sich: „Die 70'000 Franken sind versehentlich im Voranschlag für 2016 gelandet.“
@@ -23,6 +26,3 @@ title: Die wunderliche Debatte im Stadtparlament zum „Neubad“
 [«**Neubad: Fluchen & Zittern um 70'000 Franken**»](http://www.zentralplus.ch/de/news/politik/4444592/Neubad-Fluchen--Zittern-um-70'000-Franken.htm), zentral+, 23. Oktober 2015
 
 [**70 000 Franken für «Neubad**»](http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/lu/abo/70-000-Franken-fuer-Neubad;art9647,602518), Neue Luzerner Zeitung Online, 29. September 2015
-
-![Hallenbad]({{ site.url }}/public/assets/hallenbad-geld.jpg)
-*Bild: Das ehemalige Hallenbad Biregg (Quelle neubad.org)*
