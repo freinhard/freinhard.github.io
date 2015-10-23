@@ -11,7 +11,7 @@ title: Die wunderliche Debatte im Stadtparlament zum „Neubad“
 
 4. Die Linken und Grünen reden von der Erfolgsstory „Neubad“. Das Neubad sei nicht mehr aus Luzern wegzudenken.
 
-5. Die FDP betont, das Neubad sei ein Provisorium und kein Providurium. Darum muss man es wegdenken: nach der Zwischennutzung muss es weg (auch das ein Versprechen der Regierung und von Links/Grün). Auch die Start-ups („Neubad-Google“) aus dem Neubad sei wohl eher eine links-grüne Wunschvorstellung.
+5. Die FDP betont, das Neubad sei ein Provisorium und kein Providurium. Darum muss man es wegdenken: nach der Zwischennutzung muss es weg (auch das ein Versprechen der Regierung und von Links/Grün). Auch die Start-ups („Neubad-Google“) aus dem Neubad seien wohl eher eine links-grüne Wunschvorstellung.
 
 6. Finanzdirektor Stefan Roth (CVP) stellt sich schützend vor seine Stadtratskollegin Stämmer: «Wir müssen den Fehler auf unsere Kappe nehmen. Die Kritik richtet sich in gleichem Masse auch an mich.»
 
