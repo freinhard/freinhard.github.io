@@ -3,6 +3,8 @@ layout: post
 title: Die wunderliche Debatte im Stadtparlament zum „Neubad“
 ---
 
+## 70 000 Franken für «Neubad»
+
 1. Die Bürgerlichen werfen der Stadtregierung Wortbruch vor (kein Geld fürs „Neubad“). Wortlauf FDP: „Die Versprechen des Stadtrates gehen im Neubad baden!“
 
 2. Die zuständige SP-Stadträtin Ursula Stämmer entschuldigt sich: „Die 70'000 Franken sind versehentlich im Voranschlag für 2016 gelandet.“
