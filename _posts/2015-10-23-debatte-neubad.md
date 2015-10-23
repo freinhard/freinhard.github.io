@@ -3,9 +3,6 @@ layout: post
 title: Die wunderliche Debatte im Stadtparlament zum „Neubad“
 ---
 
-![Hallenbad]({{ site.url }}/public/assets/neubad-geld.jpg)
-*Bild: Das ehemalige Hallenbad Biregg (Quelle neubad.org)*
-
 1. Die Bürgerlichen werfen der Stadtregierung Wortbruch vor (kein Geld fürs „Neubad“). Wortlauf FDP: „Die Versprechen des Stadtrates gehen im Neubad baden!“
 
 2. Die zuständige SP-Stadträtin Ursula Stämmer entschuldigt sich: „Die 70'000 Franken sind versehentlich im Voranschlag für 2016 gelandet.“
@@ -21,6 +18,9 @@ title: Die wunderliche Debatte im Stadtparlament zum „Neubad“
 7. Teile der CVP (Wortlaut „Ich fühle mich verarscht.“) sowie die GLP stimmen für den Beitrag ans Neubad.
 
 8. Die Linken jubeln. Ich reibe mir verwundert die Augen.
+
+![Hallenbad]({{ site.url }}/public/assets/neubad-geld.jpg)
+*Bild: Das ehemalige Hallenbad Biregg (Quelle neubad.org)*
 
 ### Mehr Informationen
 [«**Neubad: Fluchen & Zittern um 70'000 Franken**»](http://www.zentralplus.ch/de/news/politik/4444592/Neubad-Fluchen--Zittern-um-70'000-Franken.htm), zentral+, 23. Oktober 2015
