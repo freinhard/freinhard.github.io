@@ -25,6 +25,8 @@ Die Reaktion der FDP im Wortlauf: „Die Versprechen des Stadtrates gehen im Neu
 ![Hallenbad]({{ site.url }}/public/assets/neubad-geld.jpg)
 *Bild: Das ehemalige Hallenbad Biregg (Quelle neubad.org)*
 
+Alle Zitate gemäss zentral+
+
 ### Mehr Informationen
 [«**Neubad: Fluchen & Zittern um 70'000 Franken**»](http://www.zentralplus.ch/de/news/politik/4444592/Neubad-Fluchen--Zittern-um-70'000-Franken.htm), zentral+, 23. Oktober 2015
 
