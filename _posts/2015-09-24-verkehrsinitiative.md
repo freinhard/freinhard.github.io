@@ -20,7 +20,7 @@ Die aktuelle Verkehrspolitik der Stadt Luzern trägt dem zu wenig Rechnung. Die 
 
 Und was für die Verkehrspolitik gilt, gilt für die Stadtpolitik generell. Im Verkehrsstau bleibt man stehen, durch den Entwicklungsstau wird die notwenige Weiterentwicklung der Stadt gebremst.
 
-Die FDP will in der Verkehrspolitik ein lösungsorientiertes Nebeneinander von MIV, ÖV und Langsamverkehr. Was wir nicht wollen, ist ein starres Korsett in der Verkehrspolitik! Wir wollen eine Stadt, die sich weiterentwickeln kann! Die Stadt kann sich eine einseitige Verkehrspolitik mit einer starren Planierung nicht leisten!
+Die FDP will in der Verkehrspolitik ein lösungsorientiertes Nebeneinander von MIV, ÖV und Langsamverkehr. Was wir nicht wollen, ist ein starres Korsett in der Verkehrspolitik! Wir wollen eine Stadt, die sich weiterentwickeln kann! Die Stadt kann sich eine einseitige Verkehrspolitik mit einer starren Plafonierung nicht leisten!
 
 ### Mehr Informationen
 [**Bericht und Antrag Initiative "Für einen flüssigen Verkehr"**](http://www.stadtluzern.ch/de/politik/ggr/polgeschaefte/?action=showinfo&info_id=b683)
