@@ -1,14 +1,18 @@
 ---
 layout: post
-title: Wirtschaftsflüchtlinge gibt es nicht: wie die Schweiz mehr Flüchtlinge aufnimmt und von der Migration profitiert
+title: Wirtschaftsflüchtlinge gibt es nicht
 ---
+
+## Wie die Schweiz mehr Flüchtlinge aufnimmt und von der Migration profitiert
 
 **Für eine humanitäre Flüchtlings- und eine liberale Migrationspolitik ist die Unterscheidung zwischen Flüchtlingen und Arbeitsmigranten dringend notwenig.**
 
-Die Gefahren und das grosse Leid, welchem die Menschen auf der Flucht ausgesetzt sind, macht uns alle betroffen. Besonders dramatisch ist die Lage für Menschen aus Syrien; dort herrscht brutaler Bürgerkrieg. Das UNHCR schätzt, dass mehr als neun Millionen Flüchtlinge ihr Land seit dem Ausbruch des Bürgerkriegs im Frühling 2011 verlassen mussten (http://syrianrefugees.eu).
+Die Gefahren und das grosse Leid, welchem die Menschen auf der Flucht ausgesetzt sind, macht uns alle betroffen. Besonders dramatisch ist die Lage für Menschen aus Syrien; dort herrscht brutaler Bürgerkrieg. Das UNHCR schätzt, dass mehr als neun Millionen Flüchtlinge ihr Land seit dem Ausbruch des Bürgerkriegs im Frühling 2011 verlassen mussten [http://syrianrefugees.eu](http://syrianrefugees.eu).
 
 ## Migration bringt Fortschritt und Konflikte
-Es gibt aber auch die viel weniger dramatische Seite der Migration. Menschen bewegen sich aus verschiedensten Gründen über Landesgrenzen hinweg. Migration ist so alt wie die Menschheit und damit älter als die Landesgrenzen. „Migrationsbewegungen und Kulturkontakte trugen im Laufe der Geschichte zu Fortschritt, Wandel und Handel bei, führten aber auch zu unzähligen Konflikten.“ (http://www.nzz.ch/meinung/kommentare/liebe-fremde-boese-fremde–1.18614447)
+Es gibt aber auch die viel weniger dramatische Seite der Migration. Menschen bewegen sich aus verschiedensten Gründen über Landesgrenzen hinweg. Migration ist so alt wie die Menschheit und damit älter als die Landesgrenzen. 
+> „Migrationsbewegungen und Kulturkontakte trugen im Laufe der Geschichte zu Fortschritt, Wandel und Handel bei, führten aber auch zu unzähligen Konflikten.“ 
+[http://www.nzz.ch/meinung/kommentare/liebe-fremde-boese-fremde–1.18614447](http://www.nzz.ch/meinung/kommentare/liebe-fremde-boese-fremde–1.18614447)
 
 Als Liberaler bin ich durch das Thema Migration herausgefordert. Was macht eine liberale Flüchtlings- beziehungsweise Migrationspolitik aus?
 
@@ -46,7 +50,7 @@ Es ist sehr wahrscheinlich, dass der Effekt gesamtwirtschaftlich positiv ist (al
 
 Dies spricht für Migration. Ein Land wie die Schweiz wäre wirtschaftlich (und kulturell) ohne Immigration niemals das, was dieses Land ist! Die Argumentation nationalkonservativer Kreise gegen alles Fremde und für eine kulturelle Homogenität („Kinder satt Inder“) kann der Liberale auf keinen Fall gelten lassen.
 
-Für die Aufnahme von Flüchtlingen gibt es Kriterien. Für die Arbeitsmigration gibt es auch Kriterien, aber es sind andere. Ein Land soll so viele Migranten aufnehmen, wie es dem Land nützt (win-win für den Migrant und das Einwanderungsland). Die Migranten werden nach dem Utilitaritätsprinzip aufgenommen. Die Kriterien der Nützlichkeit (für die Wirtschaft, Wissenschaft, Kultur) sind über den politischen Prozess zu definieren. Die vertraglich mit der EU geregelte Personenfreizügigkeit kann als eine _kollektive_ Vereinbarung zum gegenseitigen Nutzen aller (win-win) gesehen werden.
+Für die Aufnahme von Flüchtlingen gibt es Kriterien. Für die Arbeitsmigration gibt es auch Kriterien, aber es sind andere. Ein Land soll so viele Migranten aufnehmen, wie es dem Land nützt (win-win für den Migrant und das Einwanderungsland). Die Migranten werden nach dem Utilitaritätsprinzip aufgenommen. Die Kriterien der Nützlichkeit (für die Wirtschaft, Wissenschaft, Kultur) sind über den politischen Prozess zu definieren.
 
 ## Migration gefährdet den Sozialstaat
 Die Migration des Faktors Arbeit führt also nach Marktlogik zu einer Angleichung der Löhne. Gleiches gilt für den Sozialstaat. Bietet ein Land viel höhere sozialstaatliche Leistungen als der globale Durchschnitt, so schafft es damit einen Anreiz zur Immigration. Dies stört den Liberalen weniger als den Sozialdemokraten; denn die Migration aus ärmeren Ländern senkt die Löhne und gefährdet den Sozialstaat. Vor diesem Hintergrund muss es erstaunen, wie offen die SP für Migration eintritt. Offenbar vertraut sie darauf, dass sie mittels der flankierenden Massnahmen am Arbeitsmark den Schutz der Arbeitnehmer gewährleisten kann. Und sie denkt wohl gemäss der “Internationalen” in globalen Dimensionen über den Nationalstaat hinaus. Dies ist aus liberaler Optik zwar löblich, aber gleichzeitig auch naiv: die Schweiz kann nicht der ganzen Welt helfen.
