@@ -52,10 +52,12 @@ Dies spricht für Migration. Ein Land wie die Schweiz wäre wirtschaftlich (und 
 
 **Für die Aufnahme von Flüchtlingen gibt es Kriterien. Für die Arbeitsmigration gibt es auch Kriterien, aber es sind andere. Ein Land soll so viele Migranten aufnehmen, wie es dem Land nützt (win-win für den Migrant und das Einwanderungsland). Die Migranten werden nach dem Utilitaritätsprinzip aufgenommen. Die Kriterien der Nützlichkeit (für die Wirtschaft, Wissenschaft, Kultur) sind über den politischen Prozess zu definieren**.
 
-## Migration gefährdet den Sozialstaat
+## Migration und der Sozialstaat
 Die Migration des Faktors Arbeit führt also nach Marktlogik zu einer Angleichung der Löhne. Gleiches gilt für den Sozialstaat. Bietet ein Land viel höhere sozialstaatliche Leistungen als der globale Durchschnitt, so schafft es damit einen Anreiz zur Immigration. Dies stört den Liberalen weniger als den Sozialdemokraten; denn die Migration aus ärmeren Ländern senkt die Löhne und gefährdet den Sozialstaat. Vor diesem Hintergrund muss es erstaunen, wie offen die SP für Migration eintritt. Offenbar vertraut sie darauf, dass sie mittels der flankierenden Massnahmen am Arbeitsmark den Schutz der Arbeitnehmer gewährleisten kann. Und sie denkt wohl gemäss der „Internationalen” in globalen Dimensionen über den Nationalstaat hinaus. Dies ist aus liberaler postnationaler Optik zwar löblich, aber gleichzeitig auch naiv: die Schweiz kann nicht der ganzen Welt helfen.
 
 Freie Migration ist - aus liberalem Gesichtswinkel - ein Gebot; denn der Ort der Geburt ist keine individuelle Leistung, sondern reiner Zufall. Für Länder mit einem stark ausgebauten Sozialstaat ist freie Migration aber wohl kaum eine realistische Option: der Anreiz für Millionen niedrig-qualifizierter Personen, in ein Land mit stark ausgebautem Sozialstaat einzuwandern, wäre viel zu gross. Die übergrosse und damit unverkraftbare Migration würde zum Kollaps des Sozialstaates führen. Der Ausschluss von Migranten vom Sozialstaat (als Sicherheitsnetz) ist nach liberalen Überlegungen diskriminierend und damit nicht zulässig.
+
+Es kann durchaus sein, dass die Bilanz der Immigration im Bezug auf die Sozialwerke für ein Land positiv ausfällt. In der Schweiz scheint dies gemäss einer Studie OECD der Fall zu sein. Es stellt sich bei Sozialwerken aber immer die Frage der Nachhaltigkeit über den gesamten Zeitverlauf (die jetzigen jungen Nettozahler sind die alten Nettoempfänger von morgen).
 
 ## Naivität oder Lebenslüge der Linken?
 Ich fürchte, wir werden in ein paar Jahren im Rückblick bedauern, dass wir nicht viel mehr Flüchtlinge aus Syrien aufgenommen haben. Wir sind als Bürger unserer moralischen Verpflichtung nicht nachgekommen. Warum nicht?
