@@ -7,19 +7,21 @@ title: Wirtschaftsflüchtlinge gibt es nicht
 
 **Für eine humanitäre Flüchtlings- und eine liberale Migrationspolitik ist die Unterscheidung zwischen Flüchtlingen und Arbeitsmigranten dringend notwenig.**
 
-Die Gefahren und das grosse Leid, welchem die Menschen auf der Flucht ausgesetzt sind, macht uns alle betroffen. Besonders dramatisch ist die Lage für Menschen aus Syrien; dort herrscht brutaler Bürgerkrieg. Das UNHCR schätzt, dass mehr als neun Millionen Flüchtlinge ihr Land seit dem Ausbruch des Bürgerkriegs im Frühling 2011 verlassen mussten [http://syrianrefugees.eu](http://syrianrefugees.eu).
+Die Gefahren und das grosse Leid, welchem die Menschen auf der Flucht ausgesetzt sind, macht uns alle betroffen. Besonders dramatisch ist die Lage für Menschen aus Syrien; dort herrscht brutaler Bürgerkrieg. Das UNHCR schätzt, dass mehr als neun Millionen Flüchtlinge ihr Land seit dem Ausbruch des Bürgerkriegs im Frühling 2011 verlassen mussten ([http://syrianrefugees.eu](http://syrianrefugees.eu)).
 
 ## Migration bringt Fortschritt und Konflikte
 Es gibt aber auch die viel weniger dramatische Seite der Migration. Menschen bewegen sich aus verschiedensten Gründen über Landesgrenzen hinweg. Migration ist so alt wie die Menschheit und damit älter als die Landesgrenzen. 
+
 > „Migrationsbewegungen und Kulturkontakte trugen im Laufe der Geschichte zu Fortschritt, Wandel und Handel bei, führten aber auch zu unzähligen Konflikten.“ 
-[http://www.nzz.ch/meinung/kommentare/liebe-fremde-boese-fremde–1.18614447](http://www.nzz.ch/meinung/kommentare/liebe-fremde-boese-fremde–1.18614447)
+
+([http://www.nzz.ch/meinung/kommentare/liebe-fremde-boese-fremde–1.18614447](http://www.nzz.ch/meinung/kommentare/liebe-fremde-boese-fremde–1.18614447))
 
 Als Liberaler bin ich durch das Thema Migration herausgefordert. Was macht eine liberale Flüchtlings- beziehungsweise Migrationspolitik aus?
 
 ## Nicht jeder Migrant ist ein Flüchtling
-Gemäss Genfer Flüchtlingskonvention (https://de.wikipedia.org/wiki/Flüchtling) ist ein Flüchtling definiert als eine Person, die
+Gemäss Genfer Flüchtlingskonvention ist ein Flüchtling definiert als eine Person, die
 
-> „… aus der begründeten Furcht vor Verfolgung wegen ihrer Rasse, Religion, Nationalität, Zugehörigkeit zu einer bestimmten sozialen Gruppe oder wegen ihrer politischen Überzeugung sich außerhalb des Landes befindet, dessen Staatsangehörigkeit sie besitzt, und den Schutz dieses Landes nicht in Anspruch nehmen kann oder wegen dieser Befürchtungen nicht in Anspruch nehmen will ….“ (Genfer Flüchtlingskonvention von 1951)
+> „… aus der begründeten Furcht vor Verfolgung wegen ihrer Rasse, Religion, Nationalität, Zugehörigkeit zu einer bestimmten sozialen Gruppe oder wegen ihrer politischen Überzeugung sich außerhalb des Landes befindet, dessen Staatsangehörigkeit sie besitzt, und den Schutz dieses Landes nicht in Anspruch nehmen kann oder wegen dieser Befürchtungen nicht in Anspruch nehmen will ….“ ([https://de.wikipedia.org/wiki/Flüchtling](https://de.wikipedia.org/wiki/Flüchtling), Genfer Flüchtlingskonvention von 1951)
 
 Die Definition ist wichtig. Auch das UNHCR unterscheidet klar zwischen zwischen Flüchtling und Migrant.
 
@@ -68,5 +70,3 @@ Mit der Unbedarftheit oder gar Lebenslüge der Linken könnte ich mich als Liber
 
 ![Hallenbad]({{ site.url }}/public/assets/emigration.jpg)
 *MARSHALL, Thomas Falcon: Emigration - the parting day "Good Heaven! what sorrows gloom'd that parting day etc" Goldsmith (Quelle https://commons.wikimedia.org)*
-
-
