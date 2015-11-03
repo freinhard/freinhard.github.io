@@ -3,7 +3,7 @@ html {
   line-height: 1.5;
 }
 
-img {margin: 2rem: 0}
+img {margin: 2rem: 0 !important}
 
 @media (min-width: 38em) {
   html {
