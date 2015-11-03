@@ -34,7 +34,7 @@ Menschen, die aus einem Land mit Bürgerkrieg wie Syrien flüchten, weil sie unm
 
 Als relativ kleines Land können wir allerdings nicht alle Menschen aus Syrien aufnehmen, aber wir müssen so viele Menschen aufnehmen, wie es möglich ist.
 
-Für die Aufnahme von Flüchtlinge gelten zwei Regeln. Erstens: ein Land soll so viele Flüchtlinge aufnehmen, wie es kann. Zweitens: Flüchtlinge sollen nach dem Grad an Schutzbedürftigkeit aufgenommen werden. Personen mit einer höheren Schutzbedürftigkeit (Kinder und Frauen) sind prioritär aufzunehmen.
+**Für die Aufnahme von Flüchtlinge gelten zwei Regeln. Erstens: ein Land soll so viele Flüchtlinge aufnehmen, wie es kann. Zweitens: Flüchtlinge sollen nach dem Grad an Schutzbedürftigkeit aufgenommen werden. Personen mit einer höheren Schutzbedürftigkeit (Kinder und Frauen) sind prioritär aufzunehmen**.
 
 ## Migranten sind Menschen, die Entscheidungen treffen
 Menschen treffen ihre Entscheidungen aufgrund von Anreizen. Den Entscheid, das eigene Land zu verlassen, wird - wegen der schwerwiegenden Konsequenzen und wegen der grossen Kosten - sicher kein Migrant leichtfertig treffen. Ein Anreiz zur Migration ist die Möglichkeit und die Wahrscheinlichkeit, in einem fremden Land Arbeit und damit ein Auskommen zu finden.
@@ -50,7 +50,7 @@ Es ist sehr wahrscheinlich, dass der Effekt gesamtwirtschaftlich positiv ist (al
 
 Dies spricht für Migration. Ein Land wie die Schweiz wäre wirtschaftlich (und kulturell) ohne Immigration niemals das, was dieses Land ist! Die Argumentation nationalkonservativer Kreise gegen alles Fremde und für eine kulturelle Homogenität („Kinder satt Inder“) kann der Liberale auf keinen Fall gelten lassen.
 
-Für die Aufnahme von Flüchtlingen gibt es Kriterien. Für die Arbeitsmigration gibt es auch Kriterien, aber es sind andere. Ein Land soll so viele Migranten aufnehmen, wie es dem Land nützt (win-win für den Migrant und das Einwanderungsland). Die Migranten werden nach dem Utilitaritätsprinzip aufgenommen. Die Kriterien der Nützlichkeit (für die Wirtschaft, Wissenschaft, Kultur) sind über den politischen Prozess zu definieren.
+**Für die Aufnahme von Flüchtlingen gibt es Kriterien. Für die Arbeitsmigration gibt es auch Kriterien, aber es sind andere. Ein Land soll so viele Migranten aufnehmen, wie es dem Land nützt (win-win für den Migrant und das Einwanderungsland). Die Migranten werden nach dem Utilitaritätsprinzip aufgenommen. Die Kriterien der Nützlichkeit (für die Wirtschaft, Wissenschaft, Kultur) sind über den politischen Prozess zu definieren**.
 
 ## Migration gefährdet den Sozialstaat
 Die Migration des Faktors Arbeit führt also nach Marktlogik zu einer Angleichung der Löhne. Gleiches gilt für den Sozialstaat. Bietet ein Land viel höhere sozialstaatliche Leistungen als der globale Durchschnitt, so schafft es damit einen Anreiz zur Immigration. Dies stört den Liberalen weniger als den Sozialdemokraten; denn die Migration aus ärmeren Ländern senkt die Löhne und gefährdet den Sozialstaat. Vor diesem Hintergrund muss es erstaunen, wie offen die SP für Migration eintritt. Offenbar vertraut sie darauf, dass sie mittels der flankierenden Massnahmen am Arbeitsmark den Schutz der Arbeitnehmer gewährleisten kann. Und sie denkt wohl gemäss der „Internationalen” in globalen Dimensionen über den Nationalstaat hinaus. Dies ist aus liberaler postnationaler Optik zwar löblich, aber gleichzeitig auch naiv: die Schweiz kann nicht der ganzen Welt helfen.
