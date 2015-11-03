@@ -25,7 +25,7 @@ Die Definition ist wichtig. Auch das UNHCR unterscheidet klar zwischen zwischen 
 
 > „Flüchtlinge werden zur Flucht gezwungen; Migranten suchen zumeist aus eigenem Antrieb, Möglichkeiten, ihren wirtschaftlichen Status zu verbessern. Auch sogenannte ‘Boatpeople’, die sich in Booten von der afrikanischen Küste nach Europa aufmachen, sind überwiegend Migranten.“
 
-Nicht alle Migranten sind Flüchtlinge. Flüchtling ist ein klar definierter Begriff; auf den Zusatz *echter* Flüchtling soll verzichtet werden. Leider weicht der Begriff *Wirtschaftsflüchtling* die begriffliche Abgrenzung auf. In erster Linie linke Parteien argumentieren, dass die Unterscheidung nach den Gründen der Migration (Flüchtling versus Migrant) künstlich sei. Wer nichts zu essen habe, wer keine wirtschaftlichen Perspektiven habe, sei genauso ein Flüchtling. Den Wirtschaftsflüchtling gibt es aber per definitionem nicht.
+Nicht alle Migranten sind Flüchtlinge. Flüchtling ist ein klar definierter Begriff; auf den Zusatz *echter* Flüchtling soll verzichtet werden. Leider weicht der Begriff *Wirtschaftsflüchtling* die begriffliche Abgrenzung auf. In erster Linie linke Parteien argumentieren, dass die Unterscheidung nach den Gründen der Migration (Flüchtling versus Migrant) künstlich sei. Wer nichts zu essen habe, wer keine wirtschaftlichen Perspektiven habe, sei genauso ein Flüchtling. Den Wirtschaftsflüchtling gibt es aber *per definitionem* nicht.
 
 Abgrenzungen sind nicht immer klar und einfach. Die klare Unterscheidung zwischen Flüchtling und Arbeitsmigrant ist aber möglich und sogar unbedingt notwenig.
 
