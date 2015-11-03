@@ -39,7 +39,7 @@ Für die Aufnahme von Flüchtlinge gelten zwei Regeln. Erstens: ein Land soll so
 ## Migranten sind Menschen, die Entscheidungen treffen
 Menschen treffen ihre Entscheidungen aufgrund von Anreizen. Den Entscheid, das eigene Land zu verlassen, wird - wegen der schwerwiegenden Konsequenzen und wegen der grossen Kosten - sicher kein Migrant leichtfertig treffen. Ein Anreiz zur Migration ist die Möglichkeit und die Wahrscheinlichkeit, in einem fremden Land Arbeit und damit ein Auskommen zu finden.
 
-Beurteilt ein Migrant die Lebensbedingungen (unter Einkalkulation der Risiken) im Auswanderungsland als besser als in seinem Heimatland, wird er die Reise wagen. Das Flüchtlingsdrama auf dem Mittelmeer mit zehntausenden von ertrinkenden Menschen hat gezeigt, wie die Anreiz nicht gesetzt sein dürfen. Es darf nicht sein, dass Menschen, die in ihrem Heimatland nicht unmittelbar bedroht und damit keine Flüchtlinge sind, auf ihrer “Flucht” in Lebensgefahr geraten und sterben. Es ist moralisch inakzeptabel, wenn Schlepper aus Gewinnsucht Menschen auf das Mittelmeer locken und im Meer elendiglich ertrinken lassen.
+Beurteilt ein Migrant die Lebensbedingungen (unter Einkalkulation der Risiken) im Auswanderungsland als besser als in seinem Heimatland, wird er die Reise wagen. Das Flüchtlingsdrama auf dem Mittelmeer mit zehntausenden von ertrinkenden Menschen hat gezeigt, wie die Anreiz nicht gesetzt sein dürfen. Es darf nicht sein, dass Menschen, die in ihrem Heimatland nicht unmittelbar bedroht und damit keine Flüchtlinge sind, auf ihrer „Flucht” in Lebensgefahr geraten und sterben. Es ist moralisch inakzeptabel, wenn Schlepper Menschen im Mittelmeer elendiglich ertrinken lassen.
 
 Menschen müssen legale Möglichkeiten zur Immigration eröffnet werden.
 
