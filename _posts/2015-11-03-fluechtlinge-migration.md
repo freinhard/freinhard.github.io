@@ -5,7 +5,7 @@ title: Wirtschaftsflüchtlinge gibt es nicht
 
 ## Wie die Schweiz mehr Flüchtlinge aufnimmt und von der Migration profitiert
 
-**Für eine humanitäre Flüchtlings- und eine liberale Migrationspolitik ist die Unterscheidung zwischen Flüchtlingen und Arbeitsmigranten dringend notwenig.**
+**Für eine humanitäre Flüchtlings- und eine liberale Migrationspolitik ist die Unterscheidung zwischen Flüchtlingen und Arbeitsmigranten unbedingt notwenig.**
 
 Die Gefahren und das grosse Leid, welchem die Menschen auf der Flucht ausgesetzt sind, macht uns alle betroffen. Besonders dramatisch ist die Lage für Menschen aus Syrien; dort herrscht brutaler Bürgerkrieg. Das UNHCR schätzt, dass mehr als neun Millionen Flüchtlinge ihr Land seit dem Ausbruch des Bürgerkriegs im Frühling 2011 verlassen mussten ([http://syrianrefugees.eu](http://syrianrefugees.eu)).
 
