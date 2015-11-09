@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Für eine Verkehrspolitik ohne Plafonierung
+title: Für eine Verkehrspolitik ohne starre Plafonierung
 ---
 
 ## Initiative „Für einen flüssigen Verkehr“
