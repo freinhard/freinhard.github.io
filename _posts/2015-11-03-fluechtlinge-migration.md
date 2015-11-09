@@ -68,5 +68,5 @@ Ist meine Kritik an den linken Parteien nicht zu einseitig? Sie wäre das, würd
 
 Mit der Unbedarftheit oder gar Lebenslüge der Linken könnte ich mich als Liberaler ja noch abfinden.  Mit den indirekten Folgen dieser Politik für die Flüchtlinge darf und will ich mich nicht abfinden. Mit ihrer „gut gemeinten” moralischen Überheblichkeit bewirken die Linken nämlich das Gegenteil dessen, was sie lauthals proklamieren. Weil die notwendige Unterscheidung von Flüchtlingen und Migranten nicht geschieht, hat die Bevölkerung (begründete) Angst vor der Aufnahme *aller*. Und so schaffen wir es nicht, so viele Flüchtlinge aufzunehmen, wie wir eigentlich könnten. Das ist eine humanitäre Tragödie!
 
-![Hallenbad]({{ site.url }}/public/assets/emigration.jpg)
+![Emigration]({{ site.url }}/public/assets/emigration.jpg)
 *MARSHALL, Thomas Falcon: Emigration - the parting day "Good Heaven! what sorrows gloom'd that parting day etc" Goldsmith (Quelle https://commons.wikimedia.org)*
