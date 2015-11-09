@@ -10,7 +10,7 @@ Robert Knobel’s [Leitartikel in der Neuen Luzerner Zeitung](https://www.luzern
 
 Die räumlichen Verhältnisse in der Stadt sind begrenzt; der Raum für Ideen und Visionen zur Weiterentwicklung der Infrastruktur der Stadt darf es aber nicht sein. Setzen wir ein Zeichen für eine zukunftsorientierte Stadt und sagen Ja zur Initiative „Für einen flüssigen Verkehr“.
 
-Komitee der Initiative: [www.flüssiger-verkehr.ch](http://www.flüssiger-verkehr.ch)
+Überparteiliches Komitee Komitee der Initiative: [www.flüssiger-verkehr.ch](http://www.flüssiger-verkehr.ch)
 
 ![Seebrücke]({{ site.url }}/public/assets/seebruecke.jpg)
 *Bild: Seebrücke Luzern*
