@@ -37,3 +37,8 @@ h2 {margin-top: 1.5rem}
 .post {
     border-bottom: 1px solid #eee;
 }
+
+.related-posts small {
+    display: block;
+    font-weight: normal;
+}
