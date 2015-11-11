@@ -35,4 +35,4 @@ Ein Mangel an Verhältnismässigkeit führt stets zu Verdrossenheit, verursacht 
 Es ist darum wichtig, immer wieder zu überprüfen, ob staatliches Handeln wirklich im öffentlichen Interesse geschieht und ob es verhältnismässig ist.
 
 ![Seebrücke]({{ site.url }}/public/assets/sonnenschirme.jpg)
-*Bild: Neue Luzerner Zeitung Online: [http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/lu/abo/Stadt-aergert-Wirte-mit-Zentimeter-Regel;art9647,403038(http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/lu/abo/Stadt-aergert-Wirte-mit-Zentimeter-Regel;art9647,403038)]*
+*Bild: Neue Luzerner Zeitung Online: [http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/lu/abo/Stadt-aergert-Wirte-mit-Zentimeter-Regel;art9647,403038](http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/lu/abo/Stadt-aergert-Wirte-mit-Zentimeter-Regel;art9647,403038)*
