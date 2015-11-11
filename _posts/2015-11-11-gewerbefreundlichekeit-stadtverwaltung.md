@@ -3,7 +3,9 @@ layout: post
 title: Gewerbefreundlichkeit der Stadtverwaltung
 ---
 
-## Interpellation: Für eine unbürokratische und gewerbefreundliche Dienstabteilung Stadtraum und Veranstaltung 
+## Für eine unbürokratische und gewerbefreundliche Dienstabteilung Stadtraum und Veranstaltung
+
+**Interpellation Fabian Reinhard names der FDP-Fraktion**
 
 Aus Kreisen des Gewerbes der Stadt Luzern wird Unmut darüber zum Ausdruck gebracht, dass sich im Zusammenhang mit der Nutzung des öffentlichen Grundes eine Überregulierung breitmache. Besonders beklagt wird, dass die Stadtverwaltung bei der Umsetzung der entsprechenden Vorschriften Augenmass, gesunden Menschenverstand und Fingerspitzengefühl vermissen lasse.
 
