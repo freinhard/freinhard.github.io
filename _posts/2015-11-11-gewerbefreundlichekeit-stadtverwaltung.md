@@ -11,9 +11,9 @@ Aus Kreisen des Gewerbes der Stadt Luzern wird Unmut darüber zum Ausdruck gebra
 
 **Beispiel A**: Ein „Brotnetz“ über dem „Mise-en-Place-Tischchen“ unter der Egg – von der Lebensmittelkontrolle aus hygienischen Gründen gefordert und für gut befunden – wird von der „Dienstabteilung Stadtraum und Veranstaltungen“ nicht toleriert.
 
-**Beispiel B**: Für eine seit vielen Jahren auf dem Trottoir vor einer Konditorei an der Bundesstrasse 7 stehende Tafel muss nun – auf umständliche Weise und mit belastenden Kosten verbunden - eine Bewilligung eingeholt werden; für die zweite Tafel ist eine Bewilligung unmöglich, da die Konditorei nur eine Eingangstüre hat. (vgl.“20minuten“ vom 16. 10.2015 / „zentralplus.ch vom 15. 10. 2015)
+**Beispiel B**: Für eine seit vielen Jahren auf dem Trottoir vor einer Konditorei an der Bundesstrasse 7 stehende Tafel muss nun – auf umständliche Weise und mit belastenden Kosten verbunden - eine Bewilligung eingeholt werden; für die zweite Tafel ist eine Bewilligung unmöglich, da die Konditorei nur eine Eingangstüre hat. (vgl. [“20minuten“ vom 16. 10.2015](http://www.20min.ch/schweiz/zentralschweiz/story/Tafel-vor-Lokal-sorgt-nach-32-Jahren-fuer-Aufregung-12396725) / [„zentralplus.ch vom 15.10. 2015](http://www.zentralplus.ch/de/news/wirtschaft/4399011/Riesiges-Theater-wegen-einer-kleinen-Tafel.htm))
 
-**Beispiel C**: Unter der Egg können die beweglichen Sonnenschirme bei gewissem Einfallswinkel der Sonnenstrahlen die bewilligte Terrassenfläche um einige Zentimeter überragen, zumal die Gäste an den Sonnenschirmen selbst hantieren können. Die „Dienstabteilung Stadtraum und Veranstaltungen“ toleriert dies nicht, obwohl die Durchgangsbreite für Rettungsfahrzeuge -gemäss Aussage des Geschäftsleiter des betroffenen Gastronomiebetriebes – immer noch gewährleistet ist und die Sonnenschirme jederzeit sofort entfernt werden können. (vgl. Neue Luzerner Zeitung 2. 8. 2014)
+**Beispiel C**: Unter der Egg können die beweglichen Sonnenschirme bei gewissem Einfallswinkel der Sonnenstrahlen die bewilligte Terrassenfläche um einige Zentimeter überragen, zumal die Gäste an den Sonnenschirmen selbst hantieren können. Die „Dienstabteilung Stadtraum und Veranstaltungen“ toleriert dies nicht, obwohl die Durchgangsbreite für Rettungsfahrzeuge -gemäss Aussage des Geschäftsleiter des betroffenen Gastronomiebetriebes – immer noch gewährleistet ist und die Sonnenschirme jederzeit sofort entfernt werden können. (vgl. [Neue Luzerner Zeitung 2.8.2014](http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/lu/abo/Stadt-aergert-Wirte-mit-Zentimeter-Regel;art9647,403038))
 
 **Beispiel D**: Einer Gelateria am Rathausquai wird verboten, in den ohnehin dezibelstarken Fastnachtstagen die Musikanlage nach aussen zu richten, nachdem während der letzten acht Jahre dies so praktiziert und nie beanstandet worden ist.
 
@@ -33,3 +33,6 @@ Im Wissen um dieses Spannungsfeld und gleichzeitig in Sorge um lebendig Gewerbe-
 Ein Mangel an Verhältnismässigkeit führt stets zu Verdrossenheit, verursacht unnötig Kosten, behindert die Entwicklung und engt die Freiheit in unzumutbarer Weise ein.
 
 Es ist darum wichtig, immer wieder zu überprüfen, ob staatliches Handeln wirklich im öffentlichen Interesse geschieht und ob es verhältnismässig ist.
+
+![Seebrücke]({{ site.url }}/public/assets/sonnenschirme.jpg)
+*Bild: Neue Luzerner Zeitung Online: [http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/lu/abo/Stadt-aergert-Wirte-mit-Zentimeter-Regel;art9647,403038(http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/lu/abo/Stadt-aergert-Wirte-mit-Zentimeter-Regel;art9647,403038)]*
