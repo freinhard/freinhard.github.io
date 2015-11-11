@@ -3,7 +3,7 @@ layout: post
 title: Gewerbefreundlichkeit der Stadtverwaltung
 ---
 
-## Für eine unbürokratische und gewerbefreundliche Dienstabteilung Stadtraum und Veranstaltung
+## Für eine unbürokratische und gewerbefreundliche Dienstabteilung Stadtraum und Veranstaltungen
 
 **Interpellation Fabian Reinhard names der FDP-Fraktion**
 
