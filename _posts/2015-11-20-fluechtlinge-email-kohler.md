@@ -7,12 +7,10 @@ Unter dem Titel „[Offene Ausgrenzungen sind keine Option](http://www.tagesanze
 
 Per E-Mail habe ich daraufhin meinem ehemaligen Professor gegenüber reagiert. Daraus hat sich ein lockerer E-Mail-Dialog entwickelt. Mit dem ausdrücklichen Einverständnis von Prof. Dr. Georg Kohler darf ich diesen spontanen Gedankenaustausch hier wiedergeben.
 
-<div class="message">
-Von: Fabian Reinhard <fabian@reinhard.ch
-Datum: 18. November 2015 um 13:12:02 MEZ
-An: Georg Kohler <kohler@philos.uzh.ch>
-Betreff: Interview im Tagesanzeiger "Wirtschaftsflüchtlinge"
-</div>
+**Von: Fabian Reinhard <fabian@reinhard.ch**
+**Datum: 18. November 2015 um 13:12:02 MEZ**
+**An: Georg Kohler <kohler@philos.uzh.ch>**
+**Betreff: Interview im Tagesanzeiger "Wirtschaftsflüchtlinge**"
 
 Sehr geehrter Herr Prof. Dr. Kohler
 
@@ -22,7 +20,7 @@ Es grüsst Sie herzlich Ihr ehemaliger Student, Schüler und liberaler Gesinnung
 
 Fabian Reinhard
 
-## Am 09.11.2015 um 20:59 schrieb Georg Kohler <kohler@philos.uzh.ch>:
+**Am 09.11.2015 um 20:59 schrieb Georg Kohler <kohler@philos.uzh.ch>**:
 
 Lieber Herr Reinhard,
 
@@ -34,7 +32,7 @@ Ihr
 
 GK
 
-## Am 09.11.2015 um 22:35 schrieb Fabian Reinhard <fabian@reinhard.ch>:
+**Am 09.11.2015 um 22:35 schrieb Fabian Reinhard <fabian@reinhard.ch>**:
 
 Sehr geehrter Herr Prof. Dr. Kohler
 
@@ -56,7 +54,7 @@ Beste Grüsse,
 
 Fabian Reinhard
 
-# Am 09.11.2015 um 23:18 schrieb Georg Kohler <kohler@philos.uzh.ch>:
+**Am 09.11.2015 um 23:18 schrieb Georg Kohler <kohler@philos.uzh.ch>**:
 
 Bin ja ganz einverstanden mit Ihnen, glaube nur, dass wir das Problem mit blosser Begriffspolitik nicht lösen können. Die Differenz "Migrant"/ "Flüchtling" ist leider immer noch zu unscharf; deshalb: Es braucht genaue Kriterien (die ich übrigens der Genfer Flüchtlingskonvention allein NICHT glaube entnehmen zu können; das ist eben eines der Probleme); zweitens braucht es eine Verständigung innerhalb Europas, wie man die Konsequenzen dieser Trennung dann auch trägt und durchsetzt. 
 
@@ -66,7 +64,7 @@ Ihr
 
 GK
 
-# Am 11.11.2015 um 07:53 schrieb Fabian Reinhard <fabian@reinhard.ch>:
+**Am 11.11.2015 um 07:53 schrieb Fabian Reinhard <fabian@reinhard.ch>**:
 
 Lieber Herr Prof. Dr. Kohler
 
@@ -84,7 +82,7 @@ Beste Grüsse,
 
 Fabian Reinhard
 
-# Am 15.11.2015 um 18:58 schrieb Georg Kohler <kohler@philos.uzh.ch>:
+**Am 15.11.2015 um 18:58 schrieb Georg Kohler <kohler@philos.uzh.ch>**:
 
 Vielen Dank für Ihre Antwort. Im Augenblick müssen wir vor allem darauf achten, dass nicht die "grossen Ängste" jede rationale Beschäftigung mit dem Problem überschwemmen...
 
