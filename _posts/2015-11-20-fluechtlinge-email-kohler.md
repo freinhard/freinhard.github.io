@@ -9,7 +9,7 @@ Per E-Mail habe ich daraufhin meinem ehemaligen Professor gegenüber reagiert. D
 
 **Von: Fabian Reinhard <fabian@reinhard.ch**  
 **Datum: 18. November 2015 um 13:12:02 MEZ**  
-**An: Georg Kohler <kohler@philos.uzh.ch>**
+**An: Georg Kohler <kohler@philos.uzh.ch>**  
 **Betreff: Interview im Tagesanzeiger "Wirtschaftsflüchtlinge**"
 
 Sehr geehrter Herr Prof. Dr. Kohler
