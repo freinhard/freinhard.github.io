@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An „Prof. Dr. Georg Kohler“ <kohler@philos.uzh.ch> Betreff „Wirtschaftsflüchtlinge“
+title: An Prof. Dr. Georg Kohler | Betreff „Wirtschaftsflüchtlinge“
 ---
 
 Unter dem Titel „[Offene Ausgrenzungen sind keine Option](http://www.tagesanzeiger.ch/kultur/diverses/offene-aussengrenzen-sind-keine-option/story/19787543)“ ist am 6. November 2015 im TAGESANZEIGER ein Interview zur Flüchtlingsthematik mit Dr. Georg Kohler, em. Professor für politische Philosophie an der Universität Zürich, erschienen.
@@ -49,7 +49,7 @@ Den Begriff „Wirtschaftsflüchtling“ halt ich schon deshalb problematisch, w
 
 Natürlich ist die Realität komplex und es gibt „intervenierende“ Variablen wie den Sozialstaat. Ich finde es sehr wichtig, dass zu dem Thema eine differenzierte liberale Denkweise formuliert wird. Darum habe ich versucht meinen Gedanken Ausdruck zu geben. Über Ihr Feedback würde ich mich ausserordentlich freuen: [http://www.fabianreinhard.ch/2015/11/03/fluechtlinge-migration/]()
 
-Beste Grüsse,  
+Herzliche Grüsse,  
 Fabian Reinhard
 
 ### Am 09.11.2015 um 23:18 schrieb Georg Kohler <kohler@philos.uzh.ch>:
@@ -75,7 +75,7 @@ Die transnationale Dimension sehe ich dank Ihres Hinweises klarer: ein Land hat 
 
 Ich bin (noch) nicht überzeugt, dass wir als föderale Schweizer einzig auf eine gemeinsame Flüchtlingspolitik auf europäischer Ebene warten sollten. Ein Land wie die Schweiz hat bereits heute unmittelbar zu gewinnen (Nutzung der positiven Effekte der Migration statt Diskussion um Masseneinwanderung) und kann seinen humanitären Ansprüchen (mehr Flüchtlinge aufnehmen) besser gerecht werden, wenn es handelt, statt zu warten. Damit meine ich keinesfalls, dass wir nur innerhalb von Nationalstaaten denken sollten. Ich hege aber die Hoffnung, dass auf nationaler Ebene rascheres Handeln möglich ist und der Prozess in diesem Rahmen politisch breiter abgestützt werden kann.
 
-Beste Grüsse,  
+Liebe Grüsse,  
 Fabian Reinhard
 
 ### Am 15.11.2015 um 18:58 schrieb Georg Kohler <kohler@philos.uzh.ch>:
