@@ -7,7 +7,7 @@ Unter dem Titel „[Offene Ausgrenzungen sind keine Option](http://www.tagesanze
 
 Per E-Mail habe ich daraufhin meinem ehemaligen Professor gegenüber reagiert. Daraus hat sich ein lockerer E-Mail-Dialog entwickelt. Mit dem ausdrücklichen Einverständnis von Prof. Dr. Georg Kohler darf ich diesen spontanen Gedankenaustausch hier wiedergeben.
 
-**Von: Fabian Reinhard <fabian@reinhard.ch**  
+**Von: Fabian Reinhard <fabian@reinhard.ch>**  
 **Datum: 18. November 2015 um 13:12:02 MEZ**  
 **An: Georg Kohler <kohler@philos.uzh.ch>**  
 **Betreff: Interview im Tagesanzeiger "Wirtschaftsflüchtlinge**"
