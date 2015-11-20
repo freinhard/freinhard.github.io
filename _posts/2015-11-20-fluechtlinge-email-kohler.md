@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Email an Prof. Dr. Georg Kohler | Betreff „Wirtschaftsflüchtlinge“
+title: E-Mail an Prof. Dr. Georg Kohler | Betreff „Wirtschaftsflüchtlinge“
 ---
 
 Unter dem Titel „[Offene Ausgrenzungen sind keine Option](http://www.tagesanzeiger.ch/kultur/diverses/offene-aussengrenzen-sind-keine-option/story/19787543)“ ist am 6. November 2015 im TAGESANZEIGER ein Interview zur Flüchtlingsthematik mit Dr. Georg Kohler, em. Professor für politische Philosophie an der Universität Zürich, erschienen.
