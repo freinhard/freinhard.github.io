@@ -7,8 +7,8 @@ Unter dem Titel „[Offene Ausgrenzungen sind keine Option](http://www.tagesanze
 
 Per E-Mail habe ich daraufhin meinem ehemaligen Professor gegenüber reagiert. Daraus hat sich ein lockerer E-Mail-Dialog entwickelt. Mit dem ausdrücklichen Einverständnis von Prof. Dr. Georg Kohler darf ich diesen spontanen Gedankenaustausch hier wiedergeben.
 
-**Von: Fabian Reinhard <fabian@reinhard.ch**
-**Datum: 18. November 2015 um 13:12:02 MEZ**
+**Von: Fabian Reinhard <fabian@reinhard.ch**  
+**Datum: 18. November 2015 um 13:12:02 MEZ**  
 **An: Georg Kohler <kohler@philos.uzh.ch>**
 **Betreff: Interview im Tagesanzeiger "Wirtschaftsflüchtlinge**"
 
@@ -20,7 +20,7 @@ Es grüsst Sie herzlich Ihr ehemaliger Student, Schüler und liberaler Gesinnung
 
 Fabian Reinhard
 
-**Am 09.11.2015 um 20:59 schrieb Georg Kohler <kohler@philos.uzh.ch>**:
+### Am 09.11.2015 um 20:59 schrieb Georg Kohler <kohler@philos.uzh.ch>:
 
 Lieber Herr Reinhard,
 
@@ -29,10 +29,9 @@ vielen Dank für Ihre Mail. Bin sehr mit Ihnen einverstanden, dass man die Kateg
 Kurz: Notwendig ist beides: Härte und der Sinn dafür, dass wir uns vor der mobilisierten Welt der Armen nicht einfach abkoppeln können. Was das genau heisst, weiss ich selber nicht. Nur, dass man sich darüber Gedanken machen muss.
 
 Ihr
-
 GK
 
-**Am 09.11.2015 um 22:35 schrieb Fabian Reinhard <fabian@reinhard.ch>**:
+### Am 09.11.2015 um 22:35 schrieb Fabian Reinhard <fabian@reinhard.ch>:
 
 Sehr geehrter Herr Prof. Dr. Kohler
 
@@ -50,21 +49,19 @@ Den Begriff „Wirtschaftsflüchtling“ halt ich schon deshalb problematisch, w
 
 Natürlich ist die Realität komplex und es gibt „intervenierende“ Variablen wie den Sozialstaat. Ich finde es sehr wichtig, dass zu dem Thema eine differenzierte liberale Denkweise formuliert wird. Darum habe ich versucht meinen Gedanken Ausdruck zu geben. Über Ihr Feedback würde ich mich ausserordentlich freuen: [http://www.fabianreinhard.ch/2015/11/03/fluechtlinge-migration/]()
 
-Beste Grüsse,
-
+Beste Grüsse,  
 Fabian Reinhard
 
-**Am 09.11.2015 um 23:18 schrieb Georg Kohler <kohler@philos.uzh.ch>**:
+### Am 09.11.2015 um 23:18 schrieb Georg Kohler <kohler@philos.uzh.ch>:
 
 Bin ja ganz einverstanden mit Ihnen, glaube nur, dass wir das Problem mit blosser Begriffspolitik nicht lösen können. Die Differenz "Migrant"/ "Flüchtling" ist leider immer noch zu unscharf; deshalb: Es braucht genaue Kriterien (die ich übrigens der Genfer Flüchtlingskonvention allein NICHT glaube entnehmen zu können; das ist eben eines der Probleme); zweitens braucht es eine Verständigung innerhalb Europas, wie man die Konsequenzen dieser Trennung dann auch trägt und durchsetzt. 
 
 Mit anderen Worten: Das Problem ist weniger die Formulierung einer abstrakten Strategie, sondern deren konkrete Verwirklichung. Und zwar auf europäischer Ebene, sonst werden die Menschen hin- und hergeschoben und im Niemandsland zwischen Nationalstaaten ihrem Elend überlassen.
 
 Ihr
-
 GK
 
-**Am 11.11.2015 um 07:53 schrieb Fabian Reinhard <fabian@reinhard.ch>**:
+### Am 11.11.2015 um 07:53 schrieb Fabian Reinhard <fabian@reinhard.ch>:
 
 Lieber Herr Prof. Dr. Kohler
 
@@ -79,14 +76,12 @@ Die transnationale Dimension sehe ich dank Ihres Hinweises klarer: ein Land hat 
 Ich bin (noch) nicht überzeugt, dass wir als föderale Schweizer einzig auf eine gemeinsame Flüchtlingspolitik auf europäischer Ebene warten sollten. Ein Land wie die Schweiz hat bereits heute unmittelbar zu gewinnen (Nutzung der positiven Effekte der Migration statt Diskussion um Masseneinwanderung) und kann seinen humanitären Ansprüchen (mehr Flüchtlinge aufnehmen) besser gerecht werden, wenn es handelt, statt zu warten. Damit meine ich keinesfalls, dass wir nur innerhalb von Nationalstaaten denken sollten. Ich hege aber die Hoffnung, dass auf nationaler Ebene rascheres Handeln möglich ist und der Prozess in diesem Rahmen politisch breiter abgestützt werden kann.
 
 Beste Grüsse,
-
 Fabian Reinhard
 
-**Am 15.11.2015 um 18:58 schrieb Georg Kohler <kohler@philos.uzh.ch>**:
+### Am 15.11.2015 um 18:58 schrieb Georg Kohler <kohler@philos.uzh.ch>:
 
 Vielen Dank für Ihre Antwort. Im Augenblick müssen wir vor allem darauf achten, dass nicht die "grossen Ängste" jede rationale Beschäftigung mit dem Problem überschwemmen...
 
-Ihr
-
+Ihr  
 GK
 
