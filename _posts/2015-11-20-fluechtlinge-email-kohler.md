@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An: Prof. Dr. Georg Kohler <kohler@philos.uzh.ch> | Betreff "Wirtschaftsflüchtlinge"
+title: An: Prof. Dr. Georg Kohler <kohler@philos.uzh.ch> Betreff: "Wirtschaftsflüchtlinge"
 ---
 
 Unter dem Titel „[Offene Ausgrenzungen sind keine Option](http://www.tagesanzeiger.ch/kultur/diverses/offene-aussengrenzen-sind-keine-option/story/19787543)“ ist am 6. November 2015 im TAGESANZEIGER ein Interview zur Flüchtlingsthematik mit Dr. Georg Kohler, em. Professor für politische Philosophie an der Universität Zürich, erschienen:
@@ -8,9 +8,9 @@ Unter dem Titel „[Offene Ausgrenzungen sind keine Option](http://www.tagesanze
 Per E-Mail habe ich daraufhin meinem ehemaligen Professor gegenüber reagiert. Daraus hat sich ein lockerer E-Mail-Dialog entwickelt. Mit dem ausdrücklichen Einverständnis von Prof. Dr. Georg Kohler darf ich diesen spontanen Gedankenaustausch hier wiedergeben.
 
 <div class="message">
-Von: Fabian Reinhard <[fabian@reinhard.ch]()
+Von: Fabian Reinhard <fabian@reinhard.ch
 Datum: 18. November 2015 um 13:12:02 MEZ
-An: Georg Kohler <[kohler@philos.uzh.ch]()>
+An: Georg Kohler <kohler@philos.uzh.ch>
 Betreff: Interview im Tagesanzeiger "Wirtschaftsflüchtlinge"
 </div>
 
@@ -22,7 +22,7 @@ Es grüsst Sie herzlich Ihr ehemaliger Student, Schüler und liberaler Gesinnung
 
 Fabian Reinhard
 
-# Am 09.11.2015 um 20:59 schrieb Georg Kohler <[kohler@philos.uzh.ch]()>:
+## Am 09.11.2015 um 20:59 schrieb Georg Kohler <kohler@philos.uzh.ch>:
 
 Lieber Herr Reinhard,
 
@@ -34,7 +34,7 @@ Ihr
 
 GK
 
-# Am 09.11.2015 um 22:35 schrieb Fabian Reinhard:
+## Am 09.11.2015 um 22:35 schrieb Fabian Reinhard <fabian@reinhard.ch>:
 
 Sehr geehrter Herr Prof. Dr. Kohler
 
@@ -42,9 +42,9 @@ Vielen Dank für Ihre email, Ihre Antwort freut mich sehr.
 
 Als Liberale sind wir grundsätzlich für freie Migration: der Ort der Geburt ist keine individuelle Leistung. Ich habe sehr viel Verständnis für die Menschen, die ihr Land aufgrund wirtschaftlicher Not verlassen. Wer aber die - zugegebenermassen nicht einfache - Unterscheidung zwischen Migrant und Flüchtling nicht macht und mit moralischen Argumenten die Aufnahme aller Migranten fordert, schafft damit menschliches Leid.
 
-1) Es darf nicht sein, dass Menschen, die in ihrem Heimatland nicht unmittelbar bedroht und damit keine Flüchtlinge (gemäss Genfer Flüchtlingskonvention) sind, auf ihrer „Flucht” in Lebensgefahr geraten und sterben. Es ist moralisch inakzeptabel, wenn Schlepper Menschen im Mittelmeer elendiglich ertrinken lassen. Stattdessen muss es legale Möglichkeiten zur Immigration geben. 
+1. Es darf nicht sein, dass Menschen, die in ihrem Heimatland nicht unmittelbar bedroht und damit keine Flüchtlinge (gemäss Genfer Flüchtlingskonvention) sind, auf ihrer „Flucht” in Lebensgefahr geraten und sterben. Es ist moralisch inakzeptabel, wenn Schlepper Menschen im Mittelmeer elendiglich ertrinken lassen. Stattdessen muss es legale Möglichkeiten zur Immigration geben. 
 
-2) Weil die notwendige Unterscheidung zwischen Flüchtlingen und Migranten nicht geschieht, hat die Bevölkerung (begründete) Angst vor der Aufnahme aller. Und darum schaffen wir es nicht, so viele Flüchtlinge aufzunehmen, wie wir eigentlich könnten.
+2. Weil die notwendige Unterscheidung zwischen Flüchtlingen und Migranten nicht geschieht, hat die Bevölkerung (begründete) Angst vor der Aufnahme aller. Und darum schaffen wir es nicht, so viele Flüchtlinge aufzunehmen, wie wir eigentlich könnten.
 
 Darum muss ein Kriterium definiert werden für die Aufnahme von Flüchtlingen (Schutzbedürftigkeit) und ein anderes Kriterium gilt für die Aufnahme von Migranten („win-win“-Prinzip). Dadurch, dass wir (als „Gutmenschen“) entsprechende Kriterien nicht definieren (wollen), schaffen wir Anreize. Diese können tödlich sein.
 
@@ -56,7 +56,7 @@ Beste Grüsse,
 
 Fabian Reinhard
 
-# Am 09.11.2015 um 23:18 schrieb Georg Kohler <[kohler@philos.uzh.ch]()>:
+# Am 09.11.2015 um 23:18 schrieb Georg Kohler <kohler@philos.uzh.ch>:
 
 Bin ja ganz einverstanden mit Ihnen, glaube nur, dass wir das Problem mit blosser Begriffspolitik nicht lösen können. Die Differenz "Migrant"/ "Flüchtling" ist leider immer noch zu unscharf; deshalb: Es braucht genaue Kriterien (die ich übrigens der Genfer Flüchtlingskonvention allein NICHT glaube entnehmen zu können; das ist eben eines der Probleme); zweitens braucht es eine Verständigung innerhalb Europas, wie man die Konsequenzen dieser Trennung dann auch trägt und durchsetzt. 
 
@@ -66,7 +66,7 @@ Ihr
 
 GK
 
-# Am 11.11.2015 um 07:53 schrieb Fabian Reinhard:
+# Am 11.11.2015 um 07:53 schrieb Fabian Reinhard <fabian@reinhard.ch>:
 
 Lieber Herr Prof. Dr. Kohler
 
@@ -84,7 +84,7 @@ Beste Grüsse,
 
 Fabian Reinhard
 
-# Am 15.11.2015 um 18:58 schrieb Georg Kohler <[kohler@philos.uzh.ch]()>:
+# Am 15.11.2015 um 18:58 schrieb Georg Kohler <kohler@philos.uzh.ch>:
 
 Vielen Dank für Ihre Antwort. Im Augenblick müssen wir vor allem darauf achten, dass nicht die "grossen Ängste" jede rationale Beschäftigung mit dem Problem überschwemmen...
 
