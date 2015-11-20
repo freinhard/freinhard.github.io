@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An: Prof. Dr. Georg Kohler <kohler@philos.uzh.ch> Betreff: "Wirtschaftsflüchtlinge"
+title: An „Prof. Dr. Georg Kohler“ <kohler@philos.uzh.ch> Betreff „Wirtschaftsflüchtlinge“
 ---
 
 Unter dem Titel „[Offene Ausgrenzungen sind keine Option](http://www.tagesanzeiger.ch/kultur/diverses/offene-aussengrenzen-sind-keine-option/story/19787543)“ ist am 6. November 2015 im TAGESANZEIGER ein Interview zur Flüchtlingsthematik mit Dr. Georg Kohler, em. Professor für politische Philosophie an der Universität Zürich, erschienen.
@@ -28,7 +28,7 @@ vielen Dank für Ihre Mail. Bin sehr mit Ihnen einverstanden, dass man die Kateg
 
 Kurz: Notwendig ist beides: Härte und der Sinn dafür, dass wir uns vor der mobilisierten Welt der Armen nicht einfach abkoppeln können. Was das genau heisst, weiss ich selber nicht. Nur, dass man sich darüber Gedanken machen muss.
 
-Ihr
+Ihr  
 GK
 
 ### Am 09.11.2015 um 22:35 schrieb Fabian Reinhard <fabian@reinhard.ch>:
@@ -58,7 +58,7 @@ Bin ja ganz einverstanden mit Ihnen, glaube nur, dass wir das Problem mit blosse
 
 Mit anderen Worten: Das Problem ist weniger die Formulierung einer abstrakten Strategie, sondern deren konkrete Verwirklichung. Und zwar auf europäischer Ebene, sonst werden die Menschen hin- und hergeschoben und im Niemandsland zwischen Nationalstaaten ihrem Elend überlassen.
 
-Ihr
+Ihr  
 GK
 
 ### Am 11.11.2015 um 07:53 schrieb Fabian Reinhard <fabian@reinhard.ch>:
@@ -75,7 +75,7 @@ Die transnationale Dimension sehe ich dank Ihres Hinweises klarer: ein Land hat 
 
 Ich bin (noch) nicht überzeugt, dass wir als föderale Schweizer einzig auf eine gemeinsame Flüchtlingspolitik auf europäischer Ebene warten sollten. Ein Land wie die Schweiz hat bereits heute unmittelbar zu gewinnen (Nutzung der positiven Effekte der Migration statt Diskussion um Masseneinwanderung) und kann seinen humanitären Ansprüchen (mehr Flüchtlinge aufnehmen) besser gerecht werden, wenn es handelt, statt zu warten. Damit meine ich keinesfalls, dass wir nur innerhalb von Nationalstaaten denken sollten. Ich hege aber die Hoffnung, dass auf nationaler Ebene rascheres Handeln möglich ist und der Prozess in diesem Rahmen politisch breiter abgestützt werden kann.
 
-Beste Grüsse,
+Beste Grüsse,  
 Fabian Reinhard
 
 ### Am 15.11.2015 um 18:58 schrieb Georg Kohler <kohler@philos.uzh.ch>:
