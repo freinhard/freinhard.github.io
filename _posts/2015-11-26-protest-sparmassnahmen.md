@@ -11,4 +11,4 @@ Die Stadt sei nicht nur der Stadtrat, schreibt Knobel. Dem ist nicht zu widerspr
 Wir Bürger wissen, dass Vertreter des Staates ihre persönlichen Interessen nicht in Uniform vertreten dürfen, weil sie damit ihre ganz besondere Stellung missbrauchen würden. In *diesem* Sinne gehe ich mit R. Knobel einig, wo er schreibt: „…wenn diese (LehrerInnen, PolizistInnen) ihre Kritik auch noch während der Ausübung ihres Dienstes anbringen, dann wird den Bürgern definitiv mulmig zu Mute.“.
 
 ![Analyse NLZ]({{ site.url }}/public/assets/tunnelblick.jpg)
-*Bild: Neue Luzerner Zeitung vom 25.11.2015: [„Luzerner Demokratie mit Tunnelblick“](http://www.20min.ch/schweiz/zentralschweiz/story/--berregulierung--aergert-Gewerbler-und-Politiker-28881063)*
+*Bild: Neue Luzerner Zeitung vom 25.11.2015: [„Luzerner Demokratie mit Tunnelblick“](https://www.luzernerzeitung.ch/importe/fupep/neue_lz/lz_stadtluzern/Luzerner-Demokratie-mit-Tunnelblick;art128775,633290)*
