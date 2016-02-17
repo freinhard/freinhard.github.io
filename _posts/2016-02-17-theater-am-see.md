@@ -4,7 +4,11 @@ title: Theater am See
 ---
 
 **Dringliche Interpellation**
+
 ## Standortwahl des künftigen Theaters („Salle modulable“)
+
+![Luzerner Theater]({{ site.url }}/public/assets/Visualisierung-Theater-am-See.png)
+*Bild: Visualisierung Theater am See. FRIEDER HISS . ARCH-IDEE . LUZERN (www.stadtamwasser.info)*
 
 Es ist uns ein grosses Anliegen, dass mit der Realisierung eines neuen Musiktheaters („Salle modulable“) eine herausragende Vision mit besonderer Strahlkraft für Luzern und weit darüber hinaus verwirklicht werden kann. Die „Salle modulable“ ist eine einmalige Chance und gleichzeitig eine nicht zu unterschätzende Herausforderung für unsere Stadt. Alle Kräfte, die dem zukunftsweisenden Projekt Schub geben können, sind zu bündeln. Gefordert ist ein konstruktiver Umgang mit möglichen Schwierigkeiten, Widerstände und Einwänden. Nur so können allfällige Hindernisse angegangen und überwunden werden.
 
@@ -44,8 +48,5 @@ Vor dem Hintergrund solcher Überlegungen stellen wir an den Stadtrat folgende F
 
 Fabian Reinhard 
 namens der FDP Fraktion
-
-![Luzerner Theater]({{ site.url }}/public/assets/Visualisierung-Theater-am-See.png)
-*Bild: Visualisierung Theater am See. FRIEDER HISS . ARCH-IDEE . LUZERN (www.stadtamwasser.info)*
 
 
