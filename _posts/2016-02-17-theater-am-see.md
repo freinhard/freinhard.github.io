@@ -51,6 +51,6 @@ namens der FDP Fraktion
 
 ## Mehr Informationen
 
-- [Dossier herunterladen (ZIP)]({{ site.url }}/public/assets/Theater-am-See.zip)
+- [Dossier herunterladen (ZIP, 45MB)]({{ site.url }}/public/assets/Theater-am-See.zip)
 - IDEEN ZUR AUFWERTUNG DER STADT AM WASSER: [http://www.stadtamwasser.info](http://www.stadtamwasser.info)
 
