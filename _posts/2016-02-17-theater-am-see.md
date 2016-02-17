@@ -19,7 +19,7 @@ Entscheidendes Kriterium bei der Standortwahl muss sein, ob an dieser Stelle in 
 Schlüsselfragen sind:	
 
 -	Ist genügend nutzbarer Raum vorhanden?
--	Wird das Landschaftsbild /Stadtbild unzumutbar beeinträchtigt?
+-	Wird das Landschaftsbild / Stadtbild unzumutbar beeinträchtigt?
 -	Gibt es eine praktikable Verkehrsgestaltung?
 -	Werden andere öffentliche Interessen zu sehr beeinträchtigt? (z.B. Verlust an Grünfläche etc.)
 -	Wird durch den Bau eines neuen Theaters an einem bestimmten Standort Geschätztes, Vertrautes und damit emotional Bedeutsames der Bevölkerung weggenommen, oder wird etwas Neues und Schönes hinzugewonnen?
@@ -29,7 +29,7 @@ Solchen Überlegungen hält unseres Erachtens der Standort „Schotterplatz Alpe
 ![Luzerner Theater]({{ site.url }}/public/assets/Luftbild-Theater-am-See.png)
 *Bild: Luftaufnahme GIS Kanton Luzern mit Arealfläche Technischer Sporn und Vorplatz. FRIEDER HISS . ARCH-IDEE . LUZERN (www.stadtamwasser.info)*
 
-Die Interpellation „Theater am See“ verweist auf die „Ideen für eine attraktive Stadt am Wasser“, die von den beiden Luzerner Architekten Frieder Hiss und Markus Heggli initiiert worden sind (http://www.stadtamwasser.info).
+Die Interpellation „Theater am See“ verweist auf die „Ideen für eine attraktive Stadt am Wasser“, die von den beiden Luzerner Architekten Frieder Hiss und Markus Heggli initiiert worden sind ([http://www.stadtamwasser.info](www.stadtamwasser.info)).
 
 -	Mit dem Einbezug des „Technischen Sporn“ (Perimeter-Erweiterung) ist Platz vorhanden. Das Areal „Technischer Sporn“ ist Eigentum der Stadt und des Kantons Luzern (Seepolizei). Ein Anteil des Geländes ist teilweise im Baurecht überbaut. Der „Technische Sporn“ liegt gemäss Zonenplan zum grösste Teil in der „Zone für Sport- und Freizeitanlagen“ und zu einem kleinen Teil in der „Arbeitszone“.
 -	 Der Platz am See ist wunderbar gelegen. Ein dort realisiertes „Theater am See“ setzt einen neuen architektonischen Akzent am Luzerner Seebecken und wertet das linke Seeufer deutlich auf. Der „Schotterplatz“ wird zu einem besonderen Anziehungspunkt. Der Alpenquai gewinnt an Wert.
@@ -49,4 +49,8 @@ Vor dem Hintergrund solcher Überlegungen stellen wir an den Stadtrat folgende F
 Fabian Reinhard 
 namens der FDP Fraktion
 
+## Mehr Informationen
+
+- [Dossier Herunterladen (ZIP)]({{ site.url }}/public/assets/Theater-am-See.zip)
+- IDEEN ZUR AUFWERTUNG DER STADT AM WASSER: [http://www.stadtamwasser.info](www.stadtamwasser.info)
 
