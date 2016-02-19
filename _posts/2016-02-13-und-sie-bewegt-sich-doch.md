@@ -9,6 +9,6 @@ Die links-grünen Parteien praktizieren seit Jahren einen Schulterschluss. Tun e
 
 Doch auch unabhängig von solchen inhaltlichen Übereinstimmungen gibt es rechnerische Sitzansprüche. Diesem Anliegen verpflichtet, hat die FDP mit der CVP und der SVP Gespräche aufgenommen. Die Parteileitung der SVP ist zu einem solchen „bürgerlichen Schulterschluss“ bereit, die Parteileitung der CVP aber (noch) nicht.
 
-Nun aber kommt doch noch Bewegung in die Sache! Zwar bewegt sich die CVP-Parteileitung noch immer nicht; aber es kommt Druck von der Basis. Starkes Zeichen dafür ist das „Komitee für ein bürgerliches Luzern“. Treibende Kraft hinter dem Komitee ist Anton F. Steffen, CVP-Alt-Kantonsrat und heute noch engagierter CVP-Politiker. Und so kommt es nun doch zu einer gemeinsamen bürgerlichen Stadtrats-Wahlliste mit Martin Merki FDP, Stefan Roth CVP und Peter Wirth SVP.
+Nun aber kommt doch noch Bewegung in die Sache! Zwar bewegt sich die CVP-Parteileitung noch immer nicht; aber es kommt Druck von der Basis. Starkes Zeichen dafür ist das „Komitee für ein bürgerliches Luzern“. Treibende Kraft hinter dem Komitee ist Anton F. Steffen, CVP-Alt-Kantonsrat und heute noch engagierter CVP-Politiker. Und so kommt es nun doch zu einer gemeinsamen bürgerlichen Stadtrats-Wahlliste mit Martin Merki FDP, Stefan Roth CVP und Peter With SVP.
 
 Und sie bewegt sich doch, die CVP!
