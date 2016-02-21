@@ -38,9 +38,6 @@ Die Interpellation „Theater am See“ verweist auf die „Ideen für eine attr
 -	Das Landschaftsbild und Städtebild wird nicht in Mitleidenschaft gezogen. Im Gegenteil: der gegenwärtige Anblick wird durch den künftigen qualitativ wesentlich erhöht. 
 -	Die Zufahrt (auch für Lastwagen) lässt sich viel unproblematischer bewerkstelligen als beim Bahnhof oder an der Reuss.
 
-![Theater am See]({{ site.url }}/public/assets/SM-See.jpg)
-*Bild: Google Earth. FRIEDER HISS . ARCH-IDEE . LUZERN (www.stadtamwasser.info)*
-
 ![Theater am See]({{ site.url }}/public/assets/SM-Stadt.jpg)
 *Bild: Google Earth. FRIEDER HISS . ARCH-IDEE . LUZERN (www.stadtamwasser.info)*
 
@@ -54,6 +51,9 @@ Vor dem Hintergrund solcher Überlegungen stellen wir an den Stadtrat folgende F
 
 Fabian Reinhard 
 namens der FDP Fraktion
+
+![Theater am See]({{ site.url }}/public/assets/SM-See.jpg)
+*Bild: Google Earth. FRIEDER HISS . ARCH-IDEE . LUZERN (www.stadtamwasser.info)*
 
 ## Mehr Informationen
 - [Dossier herunterladen (ZIP, 45MB)]({{ site.url }}/public/assets/Theater-am-See.zip)
