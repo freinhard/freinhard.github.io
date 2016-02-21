@@ -2,10 +2,8 @@
 layout: post
 title: Theater am See
 ---
-
-**Dringliche Interpellation**
-
 ## Standortwahl des künftigen Theaters („Salle modulable“)
+**Dringliche Interpellation**
 
 ![Theater am See]({{ site.url }}/public/assets/Visualisierung-Theater-am-See.png)
 *Bild: Visualisierung Theater am See. FRIEDER HISS . ARCH-IDEE . LUZERN (www.stadtamwasser.info)*
