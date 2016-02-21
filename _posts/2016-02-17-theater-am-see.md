@@ -50,7 +50,8 @@ Fabian Reinhard
 namens der FDP Fraktion
 
 ## Mehr Informationen
-
 - [Dossier herunterladen (ZIP, 45MB)]({{ site.url }}/public/assets/Theater-am-See.zip)
 - IDEEN ZUR AUFWERTUNG DER STADT AM WASSER: [http://www.stadtamwasser.info](http://www.stadtamwasser.info)
+- [Medienmitteilung Interpellation (PDF)]({{ site.url }}/public/assets/Medienmitteilung-Interpellation.pdf)
+- [Medienmitteilung „Ideen für eine attraktive Stadt am Wasser“ (PDF)]({{ site.url }}/public/assets/Medienmitteilung-Stadt-am-Wassser.pdf)
 
