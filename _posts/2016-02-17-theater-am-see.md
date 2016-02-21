@@ -7,7 +7,7 @@ title: Theater am See
 
 ## Standortwahl des künftigen Theaters („Salle modulable“)
 
-![Luzerner Theater]({{ site.url }}/public/assets/Visualisierung-Theater-am-See.png)
+![Theater am See]({{ site.url }}/public/assets/Visualisierung-Theater-am-See.png)
 *Bild: Visualisierung Theater am See. FRIEDER HISS . ARCH-IDEE . LUZERN (www.stadtamwasser.info)*
 
 Es ist uns ein grosses Anliegen, dass mit der Realisierung eines neuen Musiktheaters („Salle modulable“) eine herausragende Vision mit besonderer Strahlkraft für Luzern und weit darüber hinaus verwirklicht werden kann. Die „Salle modulable“ ist eine einmalige Chance und gleichzeitig eine nicht zu unterschätzende Herausforderung für unsere Stadt. Alle Kräfte, die dem zukunftsweisenden Projekt Schub geben können, sind zu bündeln. Gefordert ist ein konstruktiver Umgang mit möglichen Schwierigkeiten, Widerstände und Einwänden. Nur so können allfällige Hindernisse angegangen und überwunden werden.
@@ -26,7 +26,7 @@ Schlüsselfragen sind:
 
 Solchen Überlegungen hält unseres Erachtens der Standort „Schotterplatz Alpenquai“ stand, insofern das angrenzende Terrain „Technischer Sporn“ miteinbezogen wird. Mit dem Einbezug des Geländes „Technischer Sporn“ (Perimeter-Erweiterung) ist der Standort beim Motorboothafen (zwischen Werft und „Ufschötti“) äusserst attraktiv und vereinigt in sich – im Vergleich zu den anderen Standorten - entscheidende Vorteile. 
 
-![Luzerner Theater]({{ site.url }}/public/assets/Luftbild-Theater-am-See.png)
+![Theater am See]({{ site.url }}/public/assets/Luftbild-Theater-am-See.png)
 *Bild: Luftaufnahme GIS Kanton Luzern mit Arealfläche Technischer Sporn und Vorplatz. FRIEDER HISS . ARCH-IDEE . LUZERN (www.stadtamwasser.info)*
 
 Die Interpellation „Theater am See“ verweist auf die „Ideen für eine attraktive Stadt am Wasser“, die von den beiden Luzerner Architekten Frieder Hiss und Markus Heggli initiiert worden sind ([www.stadtamwasser.info](http://www.stadtamwasser.info)).
@@ -37,6 +37,12 @@ Die Interpellation „Theater am See“ verweist auf die „Ideen für eine attr
 -	Das Gebiet Bahnhof/ KKL/Universität wird nicht überbeladen und bietet weiterhin Platz (z. B. für die „Määs“) Gleichzeitig bekommt Luzern ein „Theater am See“ in gut erreichbarer Nähe zum Zentrum.
 -	Das Landschaftsbild und Städtebild wird nicht in Mitleidenschaft gezogen. Im Gegenteil: der gegenwärtige Anblick wird durch den künftigen qualitativ wesentlich erhöht. 
 -	Die Zufahrt (auch für Lastwagen) lässt sich viel unproblematischer bewerkstelligen als beim Bahnhof oder an der Reuss.
+
+![Theater am See]({{ site.url }}/public/assets/SM-See.jpg)
+*Bild: Google Earth. FRIEDER HISS . ARCH-IDEE . LUZERN (www.stadtamwasser.info)*
+
+![Theater am See]({{ site.url }}/public/assets/SM-Stadt.jpg)
+*Bild: Google Earth. FRIEDER HISS . ARCH-IDEE . LUZERN (www.stadtamwasser.info)*
 
 Vor dem Hintergrund solcher Überlegungen stellen wir an den Stadtrat folgende Fragen:
 
