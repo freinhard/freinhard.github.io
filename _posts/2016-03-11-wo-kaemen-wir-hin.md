@@ -14,10 +14,10 @@ Es ist lebensnotwendig, immer wieder anzufangen, neue Wege zu gehen; gerade auch
 
 Der Berner Schriftsteller Kurt Marti meint:
 
-> «Wo chiemte mer hi
-> wenn alli seite
-> wo chiemte mer hi
-> und niemer giengti
-> für einisch z'luege
-> wohi dass me chiem
+> «Wo chiemte mer hi  
+> wenn alli seite  
+> wo chiemte mer hi  
+> und niemer giengti  
+> für einisch z'luege  
+> wohi dass me chiem  
 > we me gieng.»
