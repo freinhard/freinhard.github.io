@@ -70,7 +70,7 @@ Im Unterschied zu den Berechnungen von Dolder stützen sich unsere Berechnungen 
 
 Bsp.: Die FDP erhöhte zwischen den Kantonsratswahlen 2011 und den Kantonsratswahlen 2015 ihren Wähleranteil im Wahlkreis Stadt von 14.24 auf 17.49 Prozent. Sie gewinnt damit also 3.25% an Wähleranteil.
 
-Weil Dolder mit den absoluten Wähler-Zahlen der Nationalratswahlen 2015 rechnet, kommt er zum (Trug-) Schluss, dass die FDP im Vergleich zu den Grossstadtrats-Wahlen 2012 bei den Wahlen 2016 4.2% des Wähleranteil verlieren wird. Diese Zahl ist sehr hoch gegriffen.
+Weil Dolder mit den absoluten Wähler-Zahlen der Nationalratswahlen 2015 rechnet, kommt er zum (Trug-)Schluss, dass die FDP im Vergleich zu den Grossstadtrats-Wahlen 2012 bei den Wahlen 2016 4.2% des Wähleranteil verlieren wird. Diese Zahl ist sehr hoch gegriffen.
 
 Wie gezeigt, lassen Trendzahlen (Delta Kantonsratswahlen 2011/5) eine andere Entwicklung (nämlich +3.25%) als nicht unplausibel erscheinen. In der Summe ergibt sich so eine Differenz von 7.45% zwischen den Berechnungen von Dolder und unserer eigenen Auslegeordnung. Diese - höchst fragwürdige - immense Differenz ist es, aufgrund der Dolder der FDP Sitzverluste prophezeit.
 
@@ -92,7 +92,7 @@ Doch wenn jemand in seiner Rolle als Sozialwissenschafter seine Schlüssen nicht
 Doch ein Politologe muss mit dem Begriff “Erkenntnis” sehr zurückhaltend umgehen, zumal er höchst fragwürdige “Erkenntnisse” nicht relativiert und nicht mit dem expliziten Warnhinweis versieht:” Mit Vorsicht zu geniessen!”
 Diesen Warnhinweis füge ich selbst diesen Zeilen an, obwohl ich hier nicht in der Rolle des Politologen schreibe. 
 
-Quellen:
+### Quellen
 
 - Olivier Dolder: Wahl des Luzerner Stadtparlaments am 1. Mai 2016: Warum SP und SVP die besten Karten haben  
 [http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/2016/01/03/9387-wahl-des-luzerner-stadtparlaments-am-1-mai-2016-warum-sp-und-svp-die-besten-karten-haben/](http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/2016/01/03/9387-wahl-des-luzerner-stadtparlaments-am-1-mai-2016-warum-sp-und-svp-die-besten-karten-haben/)
