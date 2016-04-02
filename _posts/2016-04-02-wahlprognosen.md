@@ -46,7 +46,7 @@ Quelle: [http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/
 
 Wer nämlich die Zahlenreihen der Wählerstärken über den Zeitverlauf wahrnimmt, stellt auf den ersten Blick fest:  die Wähleranteil-Entwicklung bei städtischen, kantonalen und nationalen Wahlen verläuft unterschiedlich.
 
-![Sitzverteilung Grosser Stadtrat]({{ site.url }}/public/assets/Parteistaerken.jpg) *Parteienstärken*
+![Sitzverteilung Grosser Stadtrat]({{ site.url }}/public/assets/Parteistaerken.jpg) *Parteienstärken Zahlen Stadt Luzern*
 
 Dolder gewichtet die Entwicklung der absoluten Zahlen der Wähleranteilen zu stark. Aussagekräftiger als die absoluten Zahlen der Wähleranteile wäre die prozentuale und damit relative Veränderung bei den Wähleranteilen. Auf der Grundlage dieser Veränderungen liessen sich dann allenfalls Aussagen zu Trends machen (Gewinner und Verlierer). Aber auch damit wäre ich vorsichtig.
 
@@ -76,15 +76,15 @@ Wie gezeigt, lassen Trendzahlen (Delta Kantonsratswahlen 2011/5) eine andere Ent
 
 ![Mandatsberechnung Prognose]({{ site.url }}/public/assets/Prognose.png) *Prognose Sitzverteilung*
 
-Die Chancen eines grossen bürgerliche Schulterschlusses
+## Die Chancen eines grossen bürgerliche Schulterschlusses
 Wie theoretisch zu erwarten ist, besteht bei einem Alleingang der bürgerlichen Parteien das reale Risiko eines Sitzverlustes. Die CVP riskiert damit, ihr Restmandat zu verlieren. Mit den Zahlen der Wahlen 2012 ginge dieses an die GLP. Mit prognostischen Berechnungen könnte das Mandat auch ans linke Lager gehen; in diesem Szenario würde die Links-Grüne Listen-Verbindung nicht nur ihr traditionelles erstes Restmandat, sondern zusätzlich auch noch das zweite Restmandat holen.
 
 Links-Grün zeigt anschaulich, wie Listen-Verbindungen funktionieren. Der Links-Grüne-Block holt in praktisch allen Szenarien das erste Restmandat. Wollten die bürgerlichen Partei den Links-Grünen dieses Restmandat streitig machen, so müssten sie selbst die grosse Listen-Verbindung eingehen. In diesem Fall besteht die Möglichkeit, dass für die Bürgerlichen das erste Restmandat herausschaut.
 
 # Des Pudels Kern
 Es ist Gang und Gäbe, dass man beim Small Talk, am Stammtisch und auch in politischen Debatten seine eigene – oft sehr selektive – Wahrnehmung zum besten gibt, dass man lustvoll Schnell-Schlüsse zieht und effekthaschend Schnell-Schüsse abfeuert. Es ist kein Geheimnis, dass wir alle auf dem Boden unserer Werte, unserer Erfahrungen, unserer Einstellungen und unserer Interessen die Realität(en) selektiv wahrnehmen. Die eigenen Schlussfolgerungen sind dementsprechend von eigenen Interessen (oder gar Eigeninteressen?)-gesteuert. Das lasten wir einander auch nicht an.
+
 Doch wenn jemand in seiner Rolle als Sozialwissenschafter seine Schlüssen nicht äusserst vorsichtig zieht und wenn sich seine Zahlenbasis auch noch auf Glatteis bewegt, muss er sich die Frage gefallen lassen, ob er sich tatsächlich um die geforderte wissenschaftlichen Sorgfaltspflicht (wenigstens) bemüht. Falls er sich diese Frage nicht gefallen lässt, muss er damit rechnen, dass “des Pudels Kern”, die Hintergründe und Absichten seiner Datenauswahl und Schlussfolgerungen identifiziert werden. Die Auswahl der Daten lässt sehr direkt auf die Werte, Einstellungen und Interessen dessen schliessen, der diese Auswahl trifft.
-Am Biertisch dürfen wir unsere Ideen, auch unsere “Vögel im Kopf” als “Erkenntnisse”, die unsere Welt erhellen, in die Runde werfen. 
 
 ## Sorgfaltspflicht des Politologen
 Doch ein Politologe muss mit dem Begriff “Erkenntnis” sehr zurückhaltend umgehen, zumal er höchst fragwürdige “Erkenntnisse” nicht relativiert und nicht mit dem expliziten Warnhinweis versieht:” Mit Vorsicht zu geniessen!”
