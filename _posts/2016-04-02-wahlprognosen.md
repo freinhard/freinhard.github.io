@@ -84,7 +84,7 @@ Die CVP riskiert damit, ihr Restmandat zu verlieren. Mit den Zahlen der Wahlen 2
 
 Links-Grün zeigt anschaulich, wie Listen-Verbindungen funktionieren. Der Links-Grüne-Block holt in praktisch allen Szenarien das erste Restmandat. Wollten die bürgerlichen Partei den Links-Grünen dieses Restmandat streitig machen, so müssten sie selbst die grosse Listen-Verbindung eingehen. In diesem Fall besteht die Möglichkeit, dass für die Bürgerlichen das erste Restmandat herausschaut.
 
-# Des Pudels Kern
+## Des Pudels Kern
 Es ist gang und gäbe, dass man beim Small Talk, am Stammtisch und auch in politischen Debatten seine eigene – oft sehr selektive – Wahrnehmung zum besten gibt, dass man lustvoll Schnell-Schlüsse zieht und effekthaschend Schnell-Schüsse abfeuert. Es ist kein Geheimnis, dass wir alle auf dem Boden unserer Werte, unserer Erfahrungen, unserer Einstellungen und unserer Interessen die Realität(en) selektiv wahrnehmen. Die eigenen Schlussfolgerungen sind dementsprechend von eigenen Interessen (oder gar Eigeninteressen?) gesteuert. Das lasten wir einander auch nicht an.
 
 Doch wenn jemand in seiner Rolle als Sozialwissenschafter seine Schlüssen nicht äusserst vorsichtig zieht und wenn sich seine Zahlenbasis auch noch auf Glatteis bewegt, muss er sich die Frage gefallen lassen, ob er sich tatsächlich um die geforderte wissenschaftlichen Sorgfaltspflicht (wenigstens) bemüht. Falls er sich diese Frage nicht gefallen lässt, muss er damit rechnen, dass “des Pudels Kern”, die Hintergründe und Absichten seiner Datenauswahl und Schlussfolgerungen identifiziert werden. Die Auswahl der Daten lässt sehr direkt auf die Werte, Einstellungen und Interessen dessen schliessen, der diese Auswahl trifft.
