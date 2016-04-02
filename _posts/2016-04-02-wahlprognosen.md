@@ -74,10 +74,12 @@ Weil Dolder mit den absoluten Wähler-Zahlen der Nationalratswahlen 2015 rechnet
 
 Wie gezeigt, lassen Trendzahlen (Delta Kantonsratswahlen 2011/5) eine andere Entwicklung (nämlich +3.25%) als nicht unplausibel erscheinen. In der Summe ergibt sich so eine Differenz von 7.45% zwischen den Berechnungen von Dolder und unserer eigenen Auslegeordnung. Diese - höchst fragwürdige - immense Differenz ist es, aufgrund der Dolder der FDP Sitzverluste prophezeit.
 
+## Die Chancen eines grossen bürgerliche Schulterschlusses
+Wie theoretisch zu erwarten ist, besteht bei einem Alleingang der bürgerlichen Parteien das reale Risiko eines Sitzverlustes. 
+
 ![Mandatsberechnung Prognose]({{ site.url }}/public/assets/Prognose.png) *Prognose Sitzverteilung*
 
-## Die Chancen eines grossen bürgerliche Schulterschlusses
-Wie theoretisch zu erwarten ist, besteht bei einem Alleingang der bürgerlichen Parteien das reale Risiko eines Sitzverlustes. Die CVP riskiert damit, ihr Restmandat zu verlieren. Mit den Zahlen der Wahlen 2012 ginge dieses an die GLP. Mit prognostischen Berechnungen könnte das Mandat auch ans linke Lager gehen; in diesem Szenario würde die Links-Grüne Listen-Verbindung nicht nur ihr traditionelles erstes Restmandat, sondern zusätzlich auch noch das zweite Restmandat holen.
+Die CVP riskiert damit, ihr Restmandat zu verlieren. Mit den Zahlen der Wahlen 2012 ginge dieses an die GLP. Mit prognostischen Berechnungen könnte das Mandat auch ans linke Lager gehen; in diesem Szenario würde die Links-Grüne Listen-Verbindung nicht nur ihr traditionelles erstes Restmandat, sondern zusätzlich auch noch das zweite Restmandat holen.
 
 Links-Grün zeigt anschaulich, wie Listen-Verbindungen funktionieren. Der Links-Grüne-Block holt in praktisch allen Szenarien das erste Restmandat. Wollten die bürgerlichen Partei den Links-Grünen dieses Restmandat streitig machen, so müssten sie selbst die grosse Listen-Verbindung eingehen. In diesem Fall besteht die Möglichkeit, dass für die Bürgerlichen das erste Restmandat herausschaut.
 
