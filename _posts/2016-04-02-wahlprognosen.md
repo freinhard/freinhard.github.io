@@ -9,6 +9,7 @@ Vor den Wahlen greifen Politologen und Parteistrategen zu den Taschenrechnern. S
 
 ## Listenverbindungen in der Theorie und Praxis
 Sucht man Rat in der Theorie, stösst man auf  folgenden - oft zitierten - Artikel: Listenverbindungen bei Kommunal­Wahlen — Ein Glücksspiel (Leutgab & Pukelsheim 2009).
+
 Quelle: [http://www.math.uni-augsburg.de/stochastik/pukelsheim/2009b.pdf](http://www.math.uni-augsburg.de/stochastik/pukelsheim/2009b.pdf)
 
 Der Artikel bringt klar zum Ausdruck: Prognosen zur Auswirkungen von Listen-Verbindungen haben mit Sicherheit nichts mit exakter Wissenschaft zu tun. Sogar minime – nicht prognostizierbare - Verschiebungen innerhalb der Wähleranteilen der Parteien können die Aufteilung der Restmandate verändern.
@@ -62,6 +63,7 @@ Für die folgenden prognostischen Modellbrechungen werden Zahlen der Kantonsrats
 -	Die Zahlen von 2015 vermögen einen Trend einzufangen.
 
 Im Unterschied zu den Berechnungen von Dolder stützen sich unsere Berechnungen jedoch nicht auf absolute Zahlen, sondern auf Veränderungen in ihrem relativen Ausmass.
+
 Bsp.: Die FDP erhöhte zwischen den Kantonsratswahlen 2011 und den Kantonsratswahlen 2015 ihren Wähleranteil im Wahlkreis Stadt von 14.24 auf 17.49 Prozent. Sie gewinnt damit also 3.25% an Wähleranteil.
 
 Weil Dolder mit den absoluten Wähler-Zahlen der Nationalratswahlen 2015 rechnet, kommt er zum (Trug-) Schluss, dass die FDP im Vergleich zu den Grossstadtrats-Wahlen 2012 bei den Wahlen 2016 4.2% des Wähleranteil verlieren wird. Diese Zahl ist sehr hoch gegriffen.
