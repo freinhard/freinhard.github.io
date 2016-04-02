@@ -8,11 +8,11 @@ title: Sag mir deine Wahlprognose und ich sage dir, wer du bist
 Vor den Wahlen greifen Politologen und Parteistrategen zu den Taschenrechnern. Sie berechnen die Sitzverteilung unter der Nebenbedingung von Listen-Verbindungen.
 
 ## Listenverbindungen in der Theorie und Praxis
-Sucht man Rat in der Theorie, stösst man auf  folgenden - oft zitierten - Artikel: Listenverbindungen bei Kommunal­Wahlen — Ein Glücksspiel (Leutgab & Pukelsheim 2009).
+Sucht man Rat in der Theorie, stösst man auf  folgenden - oft zitierten - Artikel: Listenverbindungen bei Kommunal­wahlen — Ein Glücksspiel (Leutgab & Pukelsheim 2009).
 
 Quelle: [http://www.math.uni-augsburg.de/stochastik/pukelsheim/2009b.pdf](http://www.math.uni-augsburg.de/stochastik/pukelsheim/2009b.pdf)
 
-Der Artikel bringt klar zum Ausdruck: Prognosen zur Auswirkungen von Listen-Verbindungen haben mit Sicherheit nichts mit exakter Wissenschaft zu tun. Sogar minime – nicht prognostizierbare - Verschiebungen innerhalb der Wähleranteilen der Parteien können die Aufteilung der Restmandate verändern.
+Der Artikel bringt klar zum Ausdruck: Prognosen zur Auswirkungen von Listen-Verbindungen haben mit Sicherheit nichts mit exakter Wissenschaft zu tun. Sogar minime – nicht prognostizierbare – Verschiebungen innerhalb der Wähleranteilen der Parteien können die Aufteilung der Restmandate verändern.
 
 Und weil man von der Theorie keine grosse Hilfe erwarten kann, verlassen sich Parteistrategen auf Faustregeln. In der Praxis ist eine Partei beim Entscheidungsprozess bezüglich Listen-Verbindungen gut beraten, folgende Fehler zu vermeiden:
 
@@ -60,7 +60,8 @@ Die FDP erreichte 2012 9 Vollmandate, die CVP deren 8. Dank der Listenverbindung
 Eine grosse bürgerliche Listenverbindung hätte dem bürgerlichen Block ebenso das zweite Restmandat gesichert. Im Ergebnis wäre es also zu keiner Sitzverschiebung gekommen.
 
 ## Wie wird es 2016 sein? (Prognostisches Modell)
-Die Wähleranteile verändern sich über den Zeitverlauf. Aus Ergebnissen kürzlich stattgefundener Wahlen können Trends abgelesen warden.
+Die Wähleranteile verändern sich über den Zeitverlauf. Aus Ergebnissen kürzlich stattgefundener Wahlen können Trends abgelesen werden.
+
 Für die folgenden prognostischen Modellbrechungen werden Zahlen der Kantonsratswahlen 2015 herangezogen. Die Auswahl dieser Datenbasis kann wie folgt begründet werden:
 
 -	Grossstadtrats- und Kantonsratswahlen finden im selben Wahlkreis statt.
@@ -70,7 +71,7 @@ Im Unterschied zu den Berechnungen von Dolder stützen sich unsere Berechnungen 
 
 Bsp.: Die FDP erhöhte zwischen den Kantonsratswahlen 2011 und den Kantonsratswahlen 2015 ihren Wähleranteil im Wahlkreis Stadt von 14.24 auf 17.49 Prozent. Sie gewinnt damit also 3.25% an Wähleranteil.
 
-Weil Dolder mit den absoluten Wähler-Zahlen der Nationalratswahlen 2015 rechnet, kommt er zum (Trug-)Schluss, dass die FDP im Vergleich zu den Grossstadtrats-Wahlen 2012 bei den Wahlen 2016 4.2% des Wähleranteil verlieren wird. Diese Zahl ist sehr hoch gegriffen.
+Weil Dolder mit den absoluten Wähler-Zahlen der Nationalratswahlen 2015 rechnet, kommt er zum (Trug-)Schluss, dass die FDP im Vergleich zu den Grossstadtrats-Wahlen 2012 bei den Wahlen 2016 4.2% des Wähleranteils verlieren wird. Diese Zahl ist sehr hoch gegriffen.
 
 Wie gezeigt, lassen Trendzahlen (Delta Kantonsratswahlen 2011/5) eine andere Entwicklung (nämlich +3.25%) als nicht unplausibel erscheinen. In der Summe ergibt sich so eine Differenz von 7.45% zwischen den Berechnungen von Dolder und unserer eigenen Auslegeordnung. Diese - höchst fragwürdige - immense Differenz ist es, aufgrund der Dolder der FDP Sitzverluste prophezeit.
 
@@ -84,22 +85,22 @@ Die CVP riskiert damit, ihr Restmandat zu verlieren. Mit den Zahlen der Wahlen 2
 Links-Grün zeigt anschaulich, wie Listen-Verbindungen funktionieren. Der Links-Grüne-Block holt in praktisch allen Szenarien das erste Restmandat. Wollten die bürgerlichen Partei den Links-Grünen dieses Restmandat streitig machen, so müssten sie selbst die grosse Listen-Verbindung eingehen. In diesem Fall besteht die Möglichkeit, dass für die Bürgerlichen das erste Restmandat herausschaut.
 
 # Des Pudels Kern
-Es ist Gang und Gäbe, dass man beim Small Talk, am Stammtisch und auch in politischen Debatten seine eigene – oft sehr selektive – Wahrnehmung zum besten gibt, dass man lustvoll Schnell-Schlüsse zieht und effekthaschend Schnell-Schüsse abfeuert. Es ist kein Geheimnis, dass wir alle auf dem Boden unserer Werte, unserer Erfahrungen, unserer Einstellungen und unserer Interessen die Realität(en) selektiv wahrnehmen. Die eigenen Schlussfolgerungen sind dementsprechend von eigenen Interessen (oder gar Eigeninteressen?)-gesteuert. Das lasten wir einander auch nicht an.
+Es ist gang und gäbe, dass man beim Small Talk, am Stammtisch und auch in politischen Debatten seine eigene – oft sehr selektive – Wahrnehmung zum besten gibt, dass man lustvoll Schnell-Schlüsse zieht und effekthaschend Schnell-Schüsse abfeuert. Es ist kein Geheimnis, dass wir alle auf dem Boden unserer Werte, unserer Erfahrungen, unserer Einstellungen und unserer Interessen die Realität(en) selektiv wahrnehmen. Die eigenen Schlussfolgerungen sind dementsprechend von eigenen Interessen (oder gar Eigeninteressen?) gesteuert. Das lasten wir einander auch nicht an.
 
 Doch wenn jemand in seiner Rolle als Sozialwissenschafter seine Schlüssen nicht äusserst vorsichtig zieht und wenn sich seine Zahlenbasis auch noch auf Glatteis bewegt, muss er sich die Frage gefallen lassen, ob er sich tatsächlich um die geforderte wissenschaftlichen Sorgfaltspflicht (wenigstens) bemüht. Falls er sich diese Frage nicht gefallen lässt, muss er damit rechnen, dass “des Pudels Kern”, die Hintergründe und Absichten seiner Datenauswahl und Schlussfolgerungen identifiziert werden. Die Auswahl der Daten lässt sehr direkt auf die Werte, Einstellungen und Interessen dessen schliessen, der diese Auswahl trifft.
 
 ## Sorgfaltspflicht des Politologen
-Doch ein Politologe muss mit dem Begriff “Erkenntnis” sehr zurückhaltend umgehen, zumal er höchst fragwürdige “Erkenntnisse” nicht relativiert und nicht mit dem expliziten Warnhinweis versieht. So schreibt Dolder.
+Ein Politologe muss mit dem Begriff “Erkenntnis” sehr zurückhaltend umgehen, zumal er höchst fragwürdige “Erkenntnisse” nicht relativiert und nicht mit einem expliziten Warnhinweis versieht. So schreibt Dolder.
 
-> Es gibt aber drei Erkenntnisse: Ist die SVP Teil der Listenverbindung, profitiert sie davon. In keinem Fall kann die FDP von einer alleinigen Listenverbindung mit der SVP profitieren. Und Listenverbindungen im bürgerlichen Lager können allenfalls einen Sitzgewinn des linken Lagers verhindern, aber keine Vergrösserung des eigenen Lagers herbeiführen.
+> «Es gibt aber drei Erkenntnisse: Ist die SVP Teil der Listenverbindung, profitiert sie davon. In keinem Fall kann die FDP von einer alleinigen Listenverbindung mit der SVP profitieren. Und Listenverbindungen im bürgerlichen Lager können allenfalls einen Sitzgewinn des linken Lagers verhindern, aber keine Vergrösserung des eigenen Lagers herbeiführen.»
 
 Quelle: [http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/2016/01/31/9519-cvp-will-fuer-den-grossen-stadtrat-keine-listenverbindung-mit-der-svp-was-sind-die-moeglichen/](http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/2016/01/31/9519-cvp-will-fuer-den-grossen-stadtrat-keine-listenverbindung-mit-der-svp-was-sind-die-moeglichen/)
 
 Fairerweise muss gesagt werden, dass Dolder in einem anderen Artikel auf die Schwächen seiner Modellberechnungen hinweist.
 
-> Selbstverständlich ist diese Berechnung mit Vorsicht zu geniessen. So bildet zwar sowohl bei den Kantonsratswahlen als auch bei den Grossstadtratswahlen die Stadt den Wahlkreis (das heisst: Städterinnen und Städter wählen Städterinnen und Städter), die «Vergleichs-Wahl» ist aber mehr ein Jahr her (29. März 2015) und zudem haben kantonale Wahlen anderen Dynamiken (und Themen!) als städtische Wahlen.
+> «Selbstverständlich ist diese Berechnung mit Vorsicht zu geniessen. So bildet zwar sowohl bei den Kantonsratswahlen als auch bei den Grossstadtratswahlen die Stadt den Wahlkreis (das heisst: Städterinnen und Städter wählen Städterinnen und Städter), die «Vergleichs-Wahl» ist aber mehr ein Jahr her (29. März 2015) und zudem haben kantonale Wahlen anderen Dynamiken (und Themen!) als städtische Wahlen.»
 
-> Auch diese Berechnungen sind natürlich nur mit Vorbehalt zu betrachten. So liegen die Nationalratswahlen zwar nur ein halbes Jahr zurück, die Mechanismen bei nationalen Wahlen sind aber selbstverständlich anders als bei städtischen Wahlen. Zudem ist der Wahlkreis bei den Nationalratswahlen kantonal und nicht städtisch.
+> «Auch diese Berechnungen sind natürlich nur mit Vorbehalt zu betrachten. So liegen die Nationalratswahlen zwar nur ein halbes Jahr zurück, die Mechanismen bei nationalen Wahlen sind aber selbstverständlich anders als bei städtischen Wahlen. Zudem ist der Wahlkreis bei den Nationalratswahlen kantonal und nicht städtisch.»
 
 Quelle: [http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/2016/01/31/9519-cvp-will-fuer-den-grossen-stadtrat-keine-listenverbindung-mit-der-svp-was-sind-die-moeglichen/](http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/2016/01/31/9519-cvp-will-fuer-den-grossen-stadtrat-keine-listenverbindung-mit-der-svp-was-sind-die-moeglichen/)
 
