@@ -42,21 +42,18 @@ Olivier Doller prognostiziert die Sitzverteilung 2016 im Stadtparlament unter an
 
 Quelle: [http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/2016/01/31/9519-cvp-will-fuer-den-grossen-stadtrat-keine-listenverbindung-mit-der-svp-was-sind-die-moeglichen/](http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/2016/01/31/9519-cvp-will-fuer-den-grossen-stadtrat-keine-listenverbindung-mit-der-svp-was-sind-die-moeglichen/)
 
-![Sitzverteilung Grosser Stadtrat]({{ site.url }}/public/assets/Sitzverteilung-Dolder.jpg)
-*Prognose Sitzverteilung Olivier Dolder*
+![Sitzverteilung Grosser Stadtrat]({{ site.url }}/public/assets/Sitzverteilung-Dolder.jpg) *Prognose Sitzverteilung Olivier Dolder*
 
 Wer nämlich die Zahlenreihen der Wählerstärken über den Zeitverlauf wahrnimmt, stellt auf den ersten Blick fest:  die Wähleranteil-Entwicklung bei städtischen, kantonalen und nationalen Wahlen verläuft unterschiedlich.
 
-![Sitzverteilung Grosser Stadtrat]({{ site.url }}/public/assets/Partienstaerken.jpg)
-*Parteienstärken*
+![Sitzverteilung Grosser Stadtrat]({{ site.url }}/public/assets/Parteistaerken.jpg) *Parteienstärken*
 
 Dolder gewichtet die Entwicklung der absoluten Zahlen der Wähleranteilen zu stark. Aussagekräftiger als die absoluten Zahlen der Wähleranteile wäre die prozentuale und damit relative Veränderung bei den Wähleranteilen. Auf der Grundlage dieser Veränderungen liessen sich dann allenfalls Aussagen zu Trends machen (Gewinner und Verlierer). Aber auch damit wäre ich vorsichtig.
 
 ## Wie wäre es gewesen, wenn …? (Retrospektives Modell)
 Berechnen wir also, was gewesen wäre, wenn … . Wir stützen uns auf die Wahlergebnisse aus dem Jahr 2012. Bei den Grossstadtratswahlen 2012 gingen - neben der traditionellen Links-Grünen-Listen-Verbindung - auch die FDP und die CVP eine Listen-Verbindung ein. 
 
-![Mandatsberechnung Grosser Stadtrat 2012]({{ site.url }}/public/assets/Retrospektiv.png)
-*Mandatsberechnung Grosser Stadtrat 2012*
+![Mandatsberechnung Grosser Stadtrat 2012]({{ site.url }}/public/assets/Retrospektiv.png) *Mandatsberechnung Grosser Stadtrat 2012*
 
 Die FDP erreichte 2012 9 Vollmandate, die CVP deren 8. Dank der Listenverbindung mit der FDP konnte sich die CVP das zweite Restmandat sichern. Ohne diese Listenverbindung hätte die CVP das Restmandat nicht erhalten; dieses wäre an die GLP gegangen.
 
@@ -77,8 +74,7 @@ Weil Dolder mit den absoluten Wähler-Zahlen der Nationalratswahlen 2015 rechnet
 
 Wie gezeigt, lassen Trendzahlen (Delta Kantonsratswahlen 2011/5) eine andere Entwicklung (nämlich +3.25%) als nicht unplausibel erscheinen. In der Summe ergibt sich so eine Differenz von 7.45% zwischen den Berechnungen von Dolder und unserer eigenen Auslegeordnung. Diese - höchst fragwürdige - immense Differenz ist es, aufgrund der Dolder der FDP Sitzverluste prophezeit.
 
-![Mandatsberechnung Prognose]({{ site.url }}/public/assets/Prognose.png)
-*Prognose Sitzverteilung*
+![Mandatsberechnung Prognose]({{ site.url }}/public/assets/Prognose.png) *Prognose Sitzverteilung*
 
 Die Chancen eines grossen bürgerliche Schulterschlusses
 Wie theoretisch zu erwarten ist, besteht bei einem Alleingang der bürgerlichen Parteien das reale Risiko eines Sitzverlustes. Die CVP riskiert damit, ihr Restmandat zu verlieren. Mit den Zahlen der Wahlen 2012 ginge dieses an die GLP. Mit prognostischen Berechnungen könnte das Mandat auch ans linke Lager gehen; in diesem Szenario würde die Links-Grüne Listen-Verbindung nicht nur ihr traditionelles erstes Restmandat, sondern zusätzlich auch noch das zweite Restmandat holen.
