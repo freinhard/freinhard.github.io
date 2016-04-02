@@ -89,7 +89,7 @@ Es ist Gang und Gäbe, dass man beim Small Talk, am Stammtisch und auch in polit
 Doch wenn jemand in seiner Rolle als Sozialwissenschafter seine Schlüssen nicht äusserst vorsichtig zieht und wenn sich seine Zahlenbasis auch noch auf Glatteis bewegt, muss er sich die Frage gefallen lassen, ob er sich tatsächlich um die geforderte wissenschaftlichen Sorgfaltspflicht (wenigstens) bemüht. Falls er sich diese Frage nicht gefallen lässt, muss er damit rechnen, dass “des Pudels Kern”, die Hintergründe und Absichten seiner Datenauswahl und Schlussfolgerungen identifiziert werden. Die Auswahl der Daten lässt sehr direkt auf die Werte, Einstellungen und Interessen dessen schliessen, der diese Auswahl trifft.
 
 ## Sorgfaltspflicht des Politologen
-Doch ein Politologe muss mit dem Begriff “Erkenntnis” sehr zurückhaltend umgehen, zumal er höchst fragwürdige “Erkenntnisse” nicht relativiert und nicht mit dem expliziten Warnhinweis versieht.
+Doch ein Politologe muss mit dem Begriff “Erkenntnis” sehr zurückhaltend umgehen, zumal er höchst fragwürdige “Erkenntnisse” nicht relativiert und nicht mit dem expliziten Warnhinweis versieht. So schreibt Dolder.
 
 > Es gibt aber drei Erkenntnisse: Ist die SVP Teil der Listenverbindung, profitiert sie davon. In keinem Fall kann die FDP von einer alleinigen Listenverbindung mit der SVP profitieren. Und Listenverbindungen im bürgerlichen Lager können allenfalls einen Sitzgewinn des linken Lagers verhindern, aber keine Vergrösserung des eigenen Lagers herbeiführen.
 
