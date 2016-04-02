@@ -89,8 +89,21 @@ Es ist Gang und Gäbe, dass man beim Small Talk, am Stammtisch und auch in polit
 Doch wenn jemand in seiner Rolle als Sozialwissenschafter seine Schlüssen nicht äusserst vorsichtig zieht und wenn sich seine Zahlenbasis auch noch auf Glatteis bewegt, muss er sich die Frage gefallen lassen, ob er sich tatsächlich um die geforderte wissenschaftlichen Sorgfaltspflicht (wenigstens) bemüht. Falls er sich diese Frage nicht gefallen lässt, muss er damit rechnen, dass “des Pudels Kern”, die Hintergründe und Absichten seiner Datenauswahl und Schlussfolgerungen identifiziert werden. Die Auswahl der Daten lässt sehr direkt auf die Werte, Einstellungen und Interessen dessen schliessen, der diese Auswahl trifft.
 
 ## Sorgfaltspflicht des Politologen
-Doch ein Politologe muss mit dem Begriff “Erkenntnis” sehr zurückhaltend umgehen, zumal er höchst fragwürdige “Erkenntnisse” nicht relativiert und nicht mit dem expliziten Warnhinweis versieht:” Mit Vorsicht zu geniessen!”
-Diesen Warnhinweis füge ich selbst diesen Zeilen an, obwohl ich hier nicht in der Rolle des Politologen schreibe. 
+Doch ein Politologe muss mit dem Begriff “Erkenntnis” sehr zurückhaltend umgehen, zumal er höchst fragwürdige “Erkenntnisse” nicht relativiert und nicht mit dem expliziten Warnhinweis versieht.
+
+> Es gibt aber drei Erkenntnisse: Ist die SVP Teil der Listenverbindung, profitiert sie davon. In keinem Fall kann die FDP von einer alleinigen Listenverbindung mit der SVP profitieren. Und Listenverbindungen im bürgerlichen Lager können allenfalls einen Sitzgewinn des linken Lagers verhindern, aber keine Vergrösserung des eigenen Lagers herbeiführen.
+
+Quelle: [http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/2016/01/31/9519-cvp-will-fuer-den-grossen-stadtrat-keine-listenverbindung-mit-der-svp-was-sind-die-moeglichen/](http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/2016/01/31/9519-cvp-will-fuer-den-grossen-stadtrat-keine-listenverbindung-mit-der-svp-was-sind-die-moeglichen/)
+
+Fairerweise muss gesagt werden, dass Dolder in einem anderen Artikel auf die Schwächen seiner Modellberechnungen hinweist.
+
+> Selbstverständlich ist diese Berechnung mit Vorsicht zu geniessen. So bildet zwar sowohl bei den Kantonsratswahlen als auch bei den Grossstadtratswahlen die Stadt den Wahlkreis (das heisst: Städterinnen und Städter wählen Städterinnen und Städter), die «Vergleichs-Wahl» ist aber mehr ein Jahr her (29. März 2015) und zudem haben kantonale Wahlen anderen Dynamiken (und Themen!) als städtische Wahlen.
+
+> Auch diese Berechnungen sind natürlich nur mit Vorbehalt zu betrachten. So liegen die Nationalratswahlen zwar nur ein halbes Jahr zurück, die Mechanismen bei nationalen Wahlen sind aber selbstverständlich anders als bei städtischen Wahlen. Zudem ist der Wahlkreis bei den Nationalratswahlen kantonal und nicht städtisch.
+
+Quelle: [http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/2016/01/31/9519-cvp-will-fuer-den-grossen-stadtrat-keine-listenverbindung-mit-der-svp-was-sind-die-moeglichen/](http://www.lu-wahlen.ch/kolumnen/heidi-duss-studer/olivier-dolder/news/2016/01/31/9519-cvp-will-fuer-den-grossen-stadtrat-keine-listenverbindung-mit-der-svp-was-sind-die-moeglichen/)
+
+Den Warnhinweis „Mit Vorsicht zu geniessen!” füge ich selbst diesen Zeilen an, obwohl ich hier nicht in der Rolle des Politologen schreibe. 
 
 ### Quellen
 
