@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Salle Modulable als einmalige Chance: Weltklasse-Projekt für Luzern
+title: Ein Weltklasse-Projekt für Luzern
 ---
+
+**Salle Modulable als einmalige Chance**
 
 Luzern hat die einmalige Möglichkeit, mit einer Schenkung von 80 Mio. Franken ein neues innovatives Haus für Darstellende Künste zu realisieren. Die zusätzlichen Investitionskosten für Stadt und Kanton Luzern sowie die jährlichen Betriebskosten sind jedoch zu hoch. Bei der Konkretisierung des Projekts müssen die Kosten optimiert werden. Nur so wird eine mehrheitsfähige Lösung möglich. Es gibt viele private Hände, die bereit sind, ein solches Luzerner Weltklasse-Projekt mitzutragen. 
 
