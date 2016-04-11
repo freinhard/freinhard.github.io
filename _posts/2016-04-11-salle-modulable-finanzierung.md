@@ -19,7 +19,7 @@ In diesem so entscheidenden Zusammenhang gelangen wir mit folgenden Fragen an de
 -	Kann der Zeitplan mit einer Volksabstimmung im November 2016 eingehalten werden, auch unter der Voraussetzung, dass bezüglich Kosten neue Überlegungen anzustellen sind und Senkungen vorgenommen werden müssen?
 -	Ist der Stadtrat gewillt, im Rahmen seiner Möglichkeiten alles zu tun, dass ein realisierbares – und eben auch finanzierbares - Projekt „Neues Theater“ eine Zukunft haben kann.
 
-Fabian Reinhard und Sonja Döbeli Stirnemann
+Fabian Reinhard und Sonja Döbeli Stirnemann  
 namens der FDP-Fraktion
 
 
