@@ -14,6 +14,9 @@ Gründer und Geschäftsführer der Luzerner Softwareschmiede [seantis gmbh](http
 ## Politisch
 Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Grossstadtrat Luzern
 
+## Netzwerk
+[Industrie- und Handelskammer Zentralschweiz IHZ](http://www.ihz.ch/home.html), [Wirtschaftsverband Stadt Luzern WVL](http://www.wvl.ch), [Info-Forum Freies Unternehmertum IFU](http://www.ifu.ch)
+
 ## Privat
 [Maskenliebhaber-Gesellschaft der Stadt Luzern](http://www.mlg.ch), [Ruppigonia Solodorensis](http://ruppigonia.ch)
 
