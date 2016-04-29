@@ -18,4 +18,8 @@
     .sidebar .portrait {
         margin: auto;
     }
+
+    .sidebar .portrait img {
+        max-width: 60%;
+    }
 }
