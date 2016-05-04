@@ -27,3 +27,4 @@ Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Gros
 - Posts auf [Github](https://github.com/freinhard/freinhard.github.io)
 - Hosting durch GitHub Pages mittels [Jekyll](https://jekyllrb.com)
 - Styling mit [Poole](http://getpoole.com)
+- Sofern nicht anders ausgewiesen, stehen Inhalte dieser Website unter [CC-BY](http://creativecommons.org/licenses/by/4.0/deed.de“)
