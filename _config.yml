@@ -5,6 +5,7 @@ permalink:           pretty
 
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Setup
 title:               'FABIAN REINHARD'
