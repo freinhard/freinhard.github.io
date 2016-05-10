@@ -3,6 +3,9 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
+gems:
+  - jekyll-seo-tag
+
 # Setup
 title:               FABIAN REINHARD
 tagline:             'IT-Unternehmer, Grossstadtrat, Präsident FDP.Die Liberalen Stadt Luzern'
