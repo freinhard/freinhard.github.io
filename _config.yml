@@ -16,9 +16,9 @@ paginate:            3
 
 # About/contact
 author:
-  name:              Fabian Reinhard
-  url:               https://twitter.com/fabianreinhard
-  email:             fabian@reinhard.ch
+  name:              'Fabian Reinhard'
+  url:               'https://twitter.com/fabianreinhard'
+  email:             'fabian@reinhard.ch'
 
 # Custom vars
 version:             1.0.0
