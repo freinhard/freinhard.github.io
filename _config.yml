@@ -7,10 +7,10 @@ gems:
   - jekyll-seo-tag
 
 # Setup
-title:               FABIAN REINHARD
+title:               'FABIAN REINHARD'
 tagline:             'IT-Unternehmer, Grossstadtrat, Präsident FDP.Die Liberalen Stadt Luzern'
 description:         'IT-Unternehmer, Grossstadtrat Luzern, Präsident FDP.Die Liberalen Stadt Luzern'
-url:                 http://www.fabianreinhard.ch
+url:                 'http://www.fabianreinhard.ch'
 baseurl:             'http://www.fabianreinhard.ch'
 paginate:            3
 
