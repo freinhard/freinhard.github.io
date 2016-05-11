@@ -1,3 +1,5 @@
+html {font-size: 18px;}
+
 .sidebar {
     background-color: #009AEA
 }
@@ -22,6 +24,6 @@
     .sidebar .portrait img {
         max-width: 60%;
         margin: auto;
-        margin-bottom: -32px;
+        margin-bottom: -40px;
     }
 }
