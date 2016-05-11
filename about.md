@@ -10,6 +10,7 @@ Nach der Matura (Typus A) an der Kantonsschule Solothurn habe ich an der Univers
 ### Kontakt
 - e-Mail: [fabian@reinhard.ch](mailto:fabian@reinhard.ch)
 - Telefon: +41 41 511 22 50
+- Twitter: [@fabianreinhard](https://www.twitter.com/fabianreinhard)
 
 ### Beruflich
 Gründer und Geschäftsführer der Luzerner Softwareschmiede [seantis gmbh](https://seantis.ch)
