@@ -12,4 +12,4 @@ Auch wenn die drei bürgerlichen Parteien das Heu nicht stets auf derselben Büh
 Wir stehen nun vor dem 2. Wahlgang des Stadtrates. Damit es dabei für die CVP nicht noch schlimmer kommt, hat sie sich nun in ihrer akuten Notlage zu einem Schulterschluss durchgerungen. «Der Not gehorchend, nicht dem eignen Trieb» (wiederum Schiller) setzt sie sich nun in einem FDP-SVP-CVP- Schulterschluss für die Wahl von Stefan Roth (CVP) zum Stadtrat und Stadtpräsidenten und für Peter With (SVP) zum Stadtrat ein. Martin Merki (FDP) ist mit einem Glanz-Resultat bereits gewählt. 
 
 Zur Einsicht gekommen ist die CVP etwas spät, aber immerhin!
-Nur das gemeinsame Ziehen am selben Strick kann den bürgerlichen Parteien zu ihrem zustehenden je eigenen Stadtrats-Sitz und Luzern zu einem bürgerlichen Stadtpräsidenten verhelfen.
+Nur das gemeinsame Ziehen am selben Strick kann den bürgerlichen Parteien zu ihrem zustehenden je eigenen Stadtrats-Sitz und Luzern und zu einem bürgerlichen Stadtpräsidenten verhelfen.
