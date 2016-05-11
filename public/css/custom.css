@@ -19,12 +19,9 @@
         margin: auto;
     }
 
-    .sidebar {
-        margin: auto;
-        margin-bottom: -32px;
-    }
-
     .sidebar .portrait img {
         max-width: 60%;
+        margin: auto;
+        margin-bottom: -32px;
     }
 }
