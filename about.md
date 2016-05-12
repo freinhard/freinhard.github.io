@@ -30,7 +30,7 @@ Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Gros
 [Maskenliebhaber-Gesellschaft der Stadt Luzern](http://www.mlg.ch), [Ruppigonia Solodorensis](http://ruppigonia.ch)
 
 ### Über diesen Blog
-- Posts auf [Github](https://github.com/freinhard/freinhard.github.io)
+- Sofern nicht anders ausgewiesen, stehen Inhalte dieser Website unter [CC-BY](http://creativecommons.org/licenses/by/4.0/deed.de)
+- Alle Posts als Markdown auf [Github](https://github.com/freinhard/freinhard.github.io)
 - Hosting durch GitHub Pages mittels [Jekyll](https://jekyllrb.com)
 - Styling mit [Poole](http://getpoole.com)
-- Sofern nicht anders ausgewiesen, stehen Inhalte dieser Website unter [CC-BY](http://creativecommons.org/licenses/by/4.0/deed.de)
