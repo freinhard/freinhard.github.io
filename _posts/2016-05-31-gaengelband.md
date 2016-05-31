@@ -14,4 +14,4 @@ Das Geheimabkommen zwischen GLP und SP wirft Fragen auf, nährt Vermutungen und 
 Müssen sie? Nein! Wir haben ja die Wahl bei der Wahl. Eine Partei am Gängelband gehört nicht in den Stadtrat.
 
 ![Peter Paul Rubens (1577–1640): Der Künstler mit seiner Frau Hélène Fourment und ihrem Sohn Peter Paul. Öl auf Leinwand, 204,2x159,1cm (um 1639, The Metropolitan Museum of Art, New York) Hélène hält ihren Sohn, der einen Fallhut trägt, am Gängelband.]({{ site.url }}/public/assets/Rubens.jpg)
-* Ein Gängelband war bis ca. 1800 eine gebräuchliche Laufhilfe für Kleinkinder. Bild: Peter Paul Rubens (1577–1640). Quelle: https://de.wikipedia.org/wiki/Gängelband*
+*Ein Gängelband war bis ca. 1800 eine gebräuchliche Laufhilfe für Kleinkinder. Bild: Peter Paul Rubens (1577–1640). Quelle: https://de.wikipedia.org/wiki/Gängelband*
