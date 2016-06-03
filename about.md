@@ -7,6 +7,9 @@ title: Über mich
 
 Nach der Matura (Typus A) an der Kantonsschule Solothurn habe ich an der Universität Zürich Politikwissenschaft, Volkswirtschaft sowie Allgemeines Staatsrecht studiert. Während meines Studiums habe ich zusammen mit meinem Bruder Tobias unsere Firma [seantis gmbh](https://seantis.ch) gegründet.
 
+[Curriculum Vitae (PDF)]({{ site.url }}/public/assets/CV-Fabian-Reinhard.pdf)
+
+
 ### Kontakt
 - e-Mail: [fabian@reinhard.ch](mailto:fabian@reinhard.ch)
 - Telefon: +41 41 511 22 50
