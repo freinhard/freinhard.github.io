@@ -25,3 +25,6 @@ namens der CVP-Fraktion
 
 Urs Zimmermann  
 namens der SVP-Fraktion
+
+![NLZ]({{ site.url }}/public/assets/Geheimdeal.png)
+*Bild: Neue Luzerner Zeitung vom 08.06.2016: „Jetzt wächst der Druck auf die SP und die GLP“*
