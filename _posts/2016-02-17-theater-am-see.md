@@ -5,6 +5,8 @@ title: Theater am See
 ## Standortwahl des künftigen Theaters („Salle modulable“)
 **Dringliche Interpellation**
 
+**Link Crowdfunding Theater am See: [www.theateramsee.ch](https://www.theateramsee.ch)**
+
 ![Theater am See]({{ site.url }}/public/assets/Visualisierung-Theater-am-See.png)
 *Bild: Visualisierung Theater am See. FRIEDER HISS . ARCH-IDEE . LUZERN (www.stadtamwasser.info)*
 
