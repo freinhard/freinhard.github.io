@@ -34,7 +34,7 @@ Luzern vertraute Persönlichkeiten, haben Luzern neuen Schwung gebracht. Sie hab
 Aber geschenkt bekommen wir eine Salle Modulable nicht. Wie damals beim KKL sind jetzt Politik, privates Engagement und Spenden gefragt. In diesem Sinne werben jetzt Private für die Salle-Modulable-Idee, und sie sammeln als Private Geld zur Unterstützung des Projektes. Das kürzlich gestartete Crowdfunding (www.theateramsee.ch) will der Stadt und dem Kanton schon in der Planungsphase des Theaters zur Seite stehen.
 Es wäre jammerschade, der Salle Modulable in der jetzigen Phase keine Chance zu geben und damit einen entscheidenden Entwicklungsschritt zu verpassen. Nur wenn der Planungskredit gesprochen wird, kann ein Projekt mit konkreten Angaben zu Konzept, Architektur, Investitions- und Betriebskosten erarbeitet werden. Da sind nun die Parlamente in die Verantwortung gerufen. Gemäss demokratischem Verständnis werden die Stimmbürger, wenn die offenen Fragen geklärt sind, im Mai 2019 entscheiden können, ob sie ein neues Theater wollen oder nicht.
 
-**Crowdfunding Theater am See: [www.theateramsee.ch](https.//www.theateramsee.ch)**
+**Crowdfunding Theater am See: [www.theateramsee.ch](https://www.theateramsee.ch)**
 
 ![NLZ]({{ site.url }}/public/assets/Crowdfunding.png)
 *Bild: Crowdfunding theateramsee.ch*
