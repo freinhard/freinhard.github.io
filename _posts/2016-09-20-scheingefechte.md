@@ -3,6 +3,8 @@ layout: post
 title: Scheingefechte schiessen am Ziel vorbei 
 ---
 
+*Luzerner Rundschau vom 22. September 2016*
+
 In der Politik – aber nicht nur dort – werden auf allen Ebenen immer wieder Scheingefechte ausgetragen. Mit beeindruckendem Feuereifer stürzen sich Einzelkämpfer, Minderheiten oder Interessengruppen zuweilen in einen Schatten-Boxkampf. Ein echtes Problem und wirkliche Gegner gibt es dabei nicht. Der Kampf gegen Windmühlen ist oft reines Ablenkungsmanöver, und dies mit lautstarkem theatralischem Kampfgeschrei. Echte Diskussionen und zielführende Auseinandersetzungen lassen diese nutzlosen Geplänkel gar nicht zu. Noch schlimmer: sie verschleiern Hintergründe oder rücken unbedeutende Einzelaspekte ins Zentrum; dadurch verhindern sie echte Lösungen.
 
 Wer die „hohe Kunst“ des Schattenboxens beherrscht, dem gelingt es durchaus, begeisterungsfähige Kreise zu motivieren, in die medienwirksam angestimmten Lamento-Gesänge mit einzustimmen, vorausgesetzt; das Thema trifft ihren Nerv. Ist das Mediengewitter vorbei, versandet das Thema jeweils ohne Resultat. 
