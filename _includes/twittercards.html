@@ -1,20 +1,20 @@
-<meta name="twitter:site" content="@site_username">
-<meta name="twitter:creator" content="@creator_username">
-{% if page.title %}
-  <meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:site" content="@fabianreinhard">
+<meta name="twitter:creator" content="@fabianreinhard">
+{% if post.title %}
+  <meta name="twitter:title" content="{{ post.title }}">
 {% else %}
   <meta name="twitter:title" content="{{ site.title }}">
 {% endif %}
-{% if page.url %}
-  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+{% if post.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ post.url }}">
 {% endif %}
-{% if page.description %}
-  <meta name="twitter:description" content="{{ page.description }}">
+{% if post.description %}
+  <meta name="twitter:description" content="{{ post.description }}">
 {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
-{% if page.thumbnail %}
-  <meta name="twitter:image:src" content="{{ site.url }}/public/assets/{{ page.thumbnail }}">
+{% if post.thumbnail %}
+  <meta name="twitter:image:src" content="{{ site.url }}/public/assets/{{ post.thumbnail }}">
 {% else %}
   <meta name="twitter:image:src" content="{{ site.url }}/public/assets/card.png">
 {% endif %}
