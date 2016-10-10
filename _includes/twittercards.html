@@ -1,0 +1,20 @@
+<meta name="twitter:site" content="@fabianreinhard">
+<meta name="twitter:creator" content="@fabianreinhard">
+{% if post.title %}
+  <meta name="twitter:title" content="{{ post.title }}">
+{% else %}
+  <meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+{% if post.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ post.url }}">
+{% endif %}
+{% if post.description %}
+  <meta name="twitter:description" content="{{ post.description }}">
+{% else %}
+  <meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+{% if post.thumbnail %}
+  <meta name="twitter:image:src" content="{{ site.url }}/public/assets/{{ post.thumbnail }}">
+{% else %}
+  <meta name="twitter:image:src" content="{{ site.url }}/public/assets/card.png">
+{% endif %}
