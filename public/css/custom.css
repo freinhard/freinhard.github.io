@@ -32,7 +32,7 @@ html {font-size: 18px;}
     }
 }
 
-p h1, h2, h3, h4 {
+p, h1, h2, h3, h4 {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto;
