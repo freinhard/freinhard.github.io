@@ -5,7 +5,7 @@ title: Über mich
 
 **Unternehmer, lic. phil., M A [UZH](http://www.uzh.ch)**
 
-Nach der Matura (Typus A) an der Kantonsschule Solothurn habe ich an der Universität Zürich Politikwissenschaft, Volkswirtschaft sowie Allgemeines Staatsrecht studiert. Während meines Studiums habe ich zusammen mit meinem Bruder Tobias unsere Firma [seantis gmbh](https://seantis.ch) gegründet.
+Nach der Matura (Typus A) an der Kantonsschule Solothurn habe ich an der Universität Zürich Politikwissenschaft, Volkswirtschaft sowie Allgemeines Staatsrecht studiert. Während meines Studiums habe ich zusammen mit meinem Bruder Tobias unsere Firma [seantis gmbh](https://www.seantis.ch) gegründet.
 
 → [Curriculum Vitae (PDF)]({{ site.url }}/public/assets/CV-Fabian-Reinhard.pdf)
 
@@ -16,7 +16,7 @@ Nach der Matura (Typus A) an der Kantonsschule Solothurn habe ich an der Univers
 - Twitter: [@fabianreinhard](https://www.twitter.com/fabianreinhard)
 
 ### Beruflich
-Gründer und Geschäftsführer der Luzerner Softwareschmiede [seantis gmbh](https://seantis.ch)
+Gründer und Geschäftsführer der Luzerner Softwareschmiede [seantis gmbh](https://www.seantis.ch)
 
 seantis gmbh entwickelt Webapplikationen für komplexe Daten. Unsere Kunden kommen aus der medizinischen Forschung, der öffentlichen Verwaltung, der Industrie sowie aus der Aviatik.
 Bei unseren Projekten geht es um die Verarbeitung und Aufbereitung komplexer Daten. Wir sorgen für die einfache und korrekte Erfassung der Daten, deren statistische Auswertung und Visualisierung.
