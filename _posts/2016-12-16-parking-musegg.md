@@ -10,4 +10,4 @@ Mit dem dringlichen Postulat (warum denn wohl so dringlich?) will man die Luzern
 „Die Meinungen sind gemacht.“ Ja, offenbar bei den Postulanten. Bei den Luzerner Stimmberechtigten können die Meinungen ─ „unabhängig der konkreten Projektausgestaltung“ ─ noch gar nicht gemacht sein. Die Stimmberechtigten sollen zu gegebener Zeit (nicht unverzüglich!) ihre dann gemachte Meinung an der Urne kundtun. Das hat ziemlich viel mit Demokratie zu tun. Und genau darum darf das Musegg-Projekt nicht am Volk vorbei „vorsorglich“ gebodigt werden.
 
 ![Schwanenplatz]({{ site.url }}/public/assets/schwanenplatz.jpg)
-*Bild: Radio Pilatus: Tommy Durrer*
+*Bild: Radio Pilatus (Tommy Durrer)*
