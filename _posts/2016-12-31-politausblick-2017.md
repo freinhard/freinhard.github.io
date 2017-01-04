@@ -3,7 +3,7 @@ layout: post
 title: Ausblick ins Politjahr 2017 
 ---
 
-## Links-Grüne Gewitterwolken
+**Luzern braucht dringend einen Entwicklungsschub**
 
 Seit dem Beginn der neuen Legislatur im Herbst hat sich gezeigt, dass sich die neuen Mehrheitsverhältnisse ungünstig auf die Stadtentwicklung auswirken. Links-Grün hat bereits zwei zukunftsweisende Projekte verunmöglicht: die Salle Modulable und das Parkhaus Musegg. Alternative Lösungen haben wir leider keine gesehen. 
 
