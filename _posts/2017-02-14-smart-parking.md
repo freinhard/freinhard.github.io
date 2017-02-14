@@ -25,5 +25,5 @@ Im Zusammenhang mit «Smart Parking» gelangen wir mit folgenden Fragen an den S
 7. 	Gibt es Überlegungen, die Preise für Parkplätze abhängig von der Nachfrage dynamisch zu gestalten?
 
 
-Fabian Reinhard
+Fabian Reinhard  
 namens der FDP Fraktion
