@@ -12,3 +12,6 @@ Der gesunde Menschenverstand und die ökonomische Vernunft fordern einen effizie
 Was liegt näher, als auch dieses Problem mit Hilfe neuer Technologien zu lösen. In vielen Städte gibt es sogenannte  Parkplatzbörsen. Über eine Vermittlungsplattform, eine Smart Parking App, können gemietete Parkplätze in Zeiten, in welchen diese leer stehen, untervermietet werden. Suchende werden über die App in Echtzeit zu einem freien Platz geleitet. Ein solches System hat nicht nur das Potential, dass die knappe Ressource Parkplatz effizienter genutzt wird und damit gesamthaft weniger Siedlungsfläche für Parkfläche verbraucht wird, sie hat auch das Potential, dass der nach ökonomischen und ökologischen Kriterien schädliche Suchverkehr abnimmt. Über das gleiche System liesse sich auch die Bezahlung regeln.
 
 Ich bin überzeugt, dass Luzern mit Smart Parking nur profitieren könnte.
+
+![Bild 20min Smart Parking]({{ site.url }}/public/assets/20min-smart-parking.png)
+*[20 Minuten vom 20. Februar 2017: FDP will intelligentes Parkplatz-System für Luzern](http://www.20min.ch/schweiz/zentralschweiz/story/FDP-will-intelligentes-Parkplatz-System-fuer-Luzern-17308799)*
