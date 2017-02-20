@@ -13,5 +13,5 @@ Was liegt näher, als auch dieses Problem mit Hilfe neuer Technologien zu lösen
 
 Ich bin überzeugt, dass Luzern mit Smart Parking nur profitieren könnte.
 
-![Bild 20min Smart Parking]({{ site.url }}/public/assets/20min-smart-parking.png)
+![Bild 20min Smart Parking]({{ site.url }}/public/assets/20min-smart-parking.jpg)
 *[20 Minuten vom 20. Februar 2017: FDP will intelligentes Parkplatz-System für Luzern](http://www.20min.ch/schweiz/zentralschweiz/story/FDP-will-intelligentes-Parkplatz-System-fuer-Luzern-17308799)*
