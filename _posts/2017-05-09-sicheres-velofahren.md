@@ -16,3 +16,6 @@ Der Stadtrat wird gebeten, folgende Fragen zu beantworten:
 -	Wie weit gelten die Aussagen und Zahlen der SUVA für die Stadt Luzern?
 -	Gibt es eine Ursachen-Analyse der Fahrradunfälle in der Stadt Luzern? Wird bei der Verkehrs-Massnahme-Planung den Ursachen Rechnung getragen? Geschieht dies über bauliche Massnahmen hinaus?
 -	Berücksichtigt die Luzerner Strassenplanung den [E-Bike-Boom und die damit einhergehenden neuen Erkenntnisse und Entwicklungen](http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/luzern/Das-E-Bike-faehrt-den-Planern-davon;art9647,1018990)?
+
+Fabian Reinhard  
+namens der FDP Fraktion
