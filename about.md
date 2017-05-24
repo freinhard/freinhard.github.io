@@ -5,6 +5,8 @@ title: Über mich
 
 **Unternehmer, lic. phil., M A [UZH](http://www.uzh.ch)**
 
+![Foto: Bruno Eberli]({{ site.url }}/public/assets/FR-Interview.jpg) *Foto: Bruno Eberli*
+
 Nach der Matura (Typus A) an der Kantonsschule Solothurn habe ich an der Universität Zürich Politikwissenschaft, Volkswirtschaft sowie Allgemeines Staatsrecht studiert. Während meines Studiums habe ich zusammen mit meinem Bruder Tobias unsere Firma [seantis gmbh](https://www.seantis.ch) gegründet.
 
 → [Curriculum Vitae (PDF)]({{ site.url }}/public/assets/CV-Fabian-Reinhard.pdf)
@@ -38,5 +40,3 @@ Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Gros
 - Alle Posts als Markdown auf [Github](https://github.com/freinhard/freinhard.github.io)
 - Hosting durch GitHub Pages mittels [Jekyll](https://jekyllrb.com)
 - Styling mit [Poole](http://getpoole.com)
-
-![Foto Bruno Eberli]({{ site.url }}/public/assets/FR-Interview.jpg) *Foto Bruno Eberli*
