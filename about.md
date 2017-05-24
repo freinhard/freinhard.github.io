@@ -9,9 +9,6 @@ Nach der Matura (Typus A) an der Kantonsschule Solothurn habe ich an der Univers
 
 → [Curriculum Vitae (PDF)]({{ site.url }}/public/assets/CV-Fabian-Reinhard.pdf)
 
-![Foto Bruno Eberli]({{ site.url }}/public/assets/FR-Interview.jpg)
-*[Foto Bruno Eberli](http://www.eberli.ch)*
-
 ### Kontakt
 - e-Mail: [fabian@reinhard.ch](mailto:fabian@reinhard.ch)
 - Telefon: +41 41 511 22 50
@@ -41,3 +38,5 @@ Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Gros
 - Alle Posts als Markdown auf [Github](https://github.com/freinhard/freinhard.github.io)
 - Hosting durch GitHub Pages mittels [Jekyll](https://jekyllrb.com)
 - Styling mit [Poole](http://getpoole.com)
+
+![Foto Bruno Eberli]({{ site.url }}/public/assets/FR-Interview.jpg) *Foto Bruno Eberli*
