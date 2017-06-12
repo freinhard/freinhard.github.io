@@ -33,7 +33,7 @@ Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Gros
 [Industrie- und Handelskammer Zentralschweiz IHZ](http://www.ihz.ch/home.html), [Wirtschaftsverband Stadt Luzern WVL](http://www.wvl.ch), [Info-Forum Freies Unternehmertum IFU](http://www.ifu.ch), [City Vereinigung Luzern](https://www.city-luzern.ch)
 
 ### Privat
-[Maskenliebhaber-Gesellschaft der Stadt Luzern](http://www.mlg.ch), [Ruppigonia Solodorensis](http://ruppigonia.ch)
+[Rotary Club Luzern](http://www.rotaryclubluzern.ch), [Maskenliebhaber-Gesellschaft der Stadt Luzern](http://www.mlg.ch), [Ruppigonia Solodorensis](http://ruppigonia.ch)
 
 ### Über diesen Blog
 - Sofern nicht anders ausgewiesen, stehen Inhalte dieser Website unter [CC-BY](http://creativecommons.org/licenses/by/4.0/deed.de)
