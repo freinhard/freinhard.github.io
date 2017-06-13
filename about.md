@@ -29,6 +29,14 @@ Für unsere Webapplikationen durften wir [Preise und Auszeichnungen](https://www
 ### Politisch
 Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Grossstadtrat Luzern
 
+- **2015 - heute** Präsident FDP.Die Liberalen Stadt Luzern
+- **2015 - heute** Grosser Stadtrat Luzern
+- **2015 - heute** Erweiterte Geschäftsleitung FDP.Die Liberalen Kanton Luzern
+- **2014** Wahlteamchef FDP.Die Liberalen Stadt Luzern
+- **2013 - heute** Nationaler Delegierter FDP.Die Liberalen Kanton Luzern 
+- **2012 - heute** Vorstand FDP.Die Liberalen Stadt Luzern 
+- **2011 - 2014** Vorstand Jungfreisinnige Stadt Luzern   
+
 ### Netzwerk
 [Industrie- und Handelskammer Zentralschweiz IHZ](http://www.ihz.ch/home.html), [Wirtschaftsverband Stadt Luzern WVL](http://www.wvl.ch), [Info-Forum Freies Unternehmertum IFU](http://www.ifu.ch), [City Vereinigung Luzern](https://www.city-luzern.ch)
 
