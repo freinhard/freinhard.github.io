@@ -51,7 +51,7 @@ Meine politischen Vorstösse im Grossen Stadtrat der Stadt Luzern: [Grossstadtra
 - Hosting durch GitHub Pages mittels [Jekyll](https://jekyllrb.com)
 - Styling mit [Poole](http://getpoole.com)
 
-### Bücher
+### Prägende Bücher
 - Joshua Foer (2011). Moonwalking with Einstein: The Art and Science of Remembering Everything. New York: Penguin Press
 - Iwan Gontscharow. Oblomow. Übersetzt durch Josef Hahn (2012). Deutscher Taschenbuch Verlag
 - Fjodor M. Dostojewskij. Verbrechen und Strafe: Roman. Übersetzt durch Swetlana Geier (1996). FISCHER Taschenbuch
