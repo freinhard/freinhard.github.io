@@ -50,3 +50,15 @@ Meine politischen Vorstösse im Grossen Stadtrat der Stadt Luzern: [Grossstadtra
 - Alle Posts als Markdown auf [Github](https://github.com/freinhard/freinhard.github.io)
 - Hosting durch GitHub Pages mittels [Jekyll](https://jekyllrb.com)
 - Styling mit [Poole](http://getpoole.com)
+
+### Bücher
+- Joshua Foer (2011). Moonwalking with Einstein: The Art and Science of Remembering Everything. New York: Penguin Press
+- Iwan Gontscharow. Oblomow. Übersetzt durch Josef Hahn (2012). Deutscher Taschenbuch Verlag
+- Fjodor M. Dostojewskij. Verbrechen und Strafe: Roman. Übersetzt durch Swetlana Geier (1996). FISCHER Taschenbuch
+- Fjodor M. Dostojewskij. Der Spieler: Roman. Übersetzt durch Swetlana Geier (2011). FISCHER Taschenbuch
+- Peter Thiel, Blake Masters (2014). Zero to One: Notes on Startups, or How to Build the Future. Crown Business
+- Eric Ries (2011). The Lean Startup: How Constant Innovation Creates Radically Successful Businesses. Portfolio Penguin
+- Jake Knapp, John Zeratsky, Braden Kowitz (2016). Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days. Simon & Schuster
+- David Heinemeier Hanss (2010). ReWork: Change the Way You Work Forever. Vermilion
+- Ben Horowitz (2014). The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers. HarperBusiness
+- Gary Smith (2016). Standard Deviations: Flawed Assumptions, Tortured Data, and Other Ways to Lie with Statistics. Gerald Duckworth & Co
