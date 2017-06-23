@@ -62,3 +62,11 @@ Meine politischen Vorstösse im Grossen Stadtrat der Stadt Luzern: [Grossstadtra
 - David Heinemeier Hanss (2010). ReWork: Change the Way You Work Forever. Vermilion
 - Ben Horowitz (2014). The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers. HarperBusiness
 - Gary Smith (2016). Standard Deviations: Flawed Assumptions, Tortured Data, and Other Ways to Lie with Statistics. Gerald Duckworth & Co
+- Fred Brooks (1986). No Silver Bullet — Essence and Accidents of Software Engineering
+- Fred Brooks (1995). The Mythical Man-Month: Essays on Software Engineering
+- Pekka Himanen (2001). The Hacker Ethic and the Spirit of the Information Age
+- Andrew Hunt, David Thomas (1999): The Pragmatic Programmer: From Journeyman to Master
+- Zed Shaw (2013). Learn Python the Hard Way
+- Andrew Stellman, Jennifer Greene (2014). Learning Agile
+- Plato. Politeia. Übersetzt durch Friedrich Schleiermachers (1991). Insel-Verlag
+- Friedrich August von Hayek (2004). Der Weg zur Knechtschaft. Mohr Siebeck
