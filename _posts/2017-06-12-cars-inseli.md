@@ -23,3 +23,6 @@ Für den Tourismus in der Zentralschweiz und die regionale Wertschöpfung ist di
 
 Fabian Reinhard  
 namens der FDP Fraktion
+
+![Bericht Anzeiger Luzern]({{ site.url }}/public/assets/cars-inseli.png)
+*[Bild: Bericht im Anzeiger Luzern vom 21. Juni 2017](http://www.anzeiger.ch)*
