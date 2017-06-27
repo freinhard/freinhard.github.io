@@ -25,4 +25,4 @@ Fabian Reinhard
 namens der FDP Fraktion
 
 ![Bericht Anzeiger Luzern]({{ site.url }}/public/assets/cars-inseli.png)
-*[Bild: Bericht im Anzeiger Luzern vom 21. Juni 2017](http://www.anzeiger.ch)*
+*[Bild: Bericht im Anzeiger Luzern vom 21. Juni 2017](http://www.anzeiger-luzern.ch)*
