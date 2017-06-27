@@ -51,6 +51,10 @@ Meine politischen Vorstösse im Grossen Stadtrat der Stadt Luzern: [Grossstadtra
 - Hosting durch GitHub Pages mittels [Jekyll](https://jekyllrb.com)
 - Styling mit [Poole](http://getpoole.com)
 
+### Fotos
+- Foto mit Hintergrund [[JPEG, 10.8 MB]]({{ site.url }}/public/assets/Fabian-Reinhard-Hintergrund.jpg)
+- Foto freigestellt [[JPEG, 7.7 MB]]({{ site.url }}/public/assets/Fabian-Reinhard-Freigestellt.jpg)
+
 ### Prägende Bücher
 - Joshua Foer (2011). Moonwalking with Einstein: The Art and Science of Remembering Everything. New York: Penguin Press
 - Iwan Gontscharow. Oblomow. Übersetzt durch Josef Hahn (2012). Deutscher Taschenbuch Verlag
