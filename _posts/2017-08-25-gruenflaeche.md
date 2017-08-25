@@ -12,5 +12,5 @@ Ein Schotterplatz ist aber – nicht nur farblich – keine Grünfläche. Er wü
 
 Spass beiseite! Die Umsetzung von Initiativen hat in jüngster Zeit zu grossen Demokratie-Belastungen geführt. Demokratie steht auf dem Spiel, wenn angenommene Initiativen nicht umgesetzt werden und wenn Initiativen angenommen werden, die nicht umsetzbar sind. Wenn im Inseli-Fall niemand (auch nicht die Initianten) diese Initiative umgesetzt haben wollen, weil niemand die Määs vom Inseli verbannen will, wer soll dann für diese Initiative stimmen?
 
-[Wird «heile Määs-Welt» durch ein grünes Inseli zerstört?](http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/luzern/wird-heile-maeaes-welt-zerstoert;art9647,1088007)
+[Wird «heile Määs-Welt» durch ein grünes Inseli zerstört?](http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/luzern/wird-heile-maeaes-welt-zerstoert;art9647,1088007)  
 Luzerner Zeitung vom 22. August 2017
