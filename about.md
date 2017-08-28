@@ -37,7 +37,7 @@ Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Gros
 - **2012 - heute** Vorstand FDP.Die Liberalen Stadt Luzern 
 - **2011 - 2014** Vorstand Jungfreisinnige Stadt Luzern  
 
-Meine politischen Vorstösse im Grossen Stadtrat der Stadt Luzern: [Grossstadtratsdokumente](http://www.stadtluzern.ch/de/politik/ggr/polgeschaefte/welcome.php?nr=&title=&dat1=&dat2=&dat3=&dat4=&art=&stat=&sq=&uz=FABIAN+REINHARD&frk=&saction=Suchen)
+Meine politischen Vorstösse im Grossen Stadtrat der Stadt Luzern: [Grossstadtratsdokumente](https://www.stadtluzern.ch/politikverwaltung/grosserstadtrat/dokumente)
 
 ### Netzwerk
 [Industrie- und Handelskammer Zentralschweiz IHZ](http://www.ihz.ch/home.html), [Wirtschaftsverband Stadt Luzern WVL](http://www.wvl.ch), [Info-Forum Freies Unternehmertum IFU](http://www.ifu.ch), [City Vereinigung Luzern](https://www.city-luzern.ch)
@@ -55,7 +55,8 @@ Meine politischen Vorstösse im Grossen Stadtrat der Stadt Luzern: [Grossstadtra
 - Foto mit Hintergrund [[JPEG, 10.8 MB]]({{ site.url }}/public/assets/Fabian-Reinhard-Hintergrund.jpg)
 - Foto freigestellt [[JPEG, 7.7 MB]]({{ site.url }}/public/assets/Fabian-Reinhard-Freigestellt.jpg)
 
-### Prägende Bücher
+### Lieblingsbücher
+- Walter Isaacson (2014). The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution. Simon & Schuster
 - Joshua Foer (2011). Moonwalking with Einstein: The Art and Science of Remembering Everything. New York: Penguin Press
 - Iwan Gontscharow. Oblomow. Übersetzt durch Josef Hahn (2012). Deutscher Taschenbuch Verlag
 - Fjodor M. Dostojewskij. Verbrechen und Strafe: Roman. Übersetzt durch Swetlana Geier (1996). FISCHER Taschenbuch
