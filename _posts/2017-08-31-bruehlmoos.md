@@ -1,9 +1,13 @@
 ---
 layout: post
-title: Interpellation: Wie weiter mit dem Carparkplatz im Brüelmoos?
+title: Die Stadt baut heimlich neue Carparkplätze
 ---
 
 **Die Stadt baut heimlich neue Carparkplätze und setzt sich über den Willen des Parlamentes hinweg. Der Stadtrat verliert seine Glaubwürdigkeit.**
+
+[Stadt Luzern baut heimlich neue Carparkplätze](http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/luzern/stadt-legalisiert-falsche-parkplaetze;art9647,1093267), Luzerner Zeitung vom 31.08.2017
+
+## Interpellation: Wie weiter mit dem Carparkplatz im Brüelmoos?
 
 Im Bericht 2/2017 Carparkierung Stadt Luzern hatte der Stadtrat vorgeschlagen, den bestehenden Carparkplatz Brüelmoos zu erweitern. Zu den bereits vorhandenen 12 Carparkplätzen sollten ca. 20 zusätzliche Carparkplätze geschaffen werden. Der Grosse Stadtrat hat diesen Plänen eine deutliche Absage erteilt, indem er mit grosser Mehrheit eine Protokollbemerkung überwiesen hat, welche forderte: „Auf die Erweiterung der Carparkplätze im Brüelmoos ist zu verzichten“.
 
@@ -22,5 +26,3 @@ Wir bitten den Stadtrat in diesem Zusammenhang um die Beantwortung der folgenden
 7.	Anwohnerinnen und Anwohner berichten, dass der Carparkplatz regelmässig massiv überbelegt sei. Hat der Stadtrat Kenntnis davon und falls ja, was unternimmt er dagegen?
 
 Rieska Dommann und Fabian Reinhard, namens der FDP-Fraktion
-
-[Stadt Luzern baut heimlich neue Carparkplätze](http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/luzern/stadt-legalisiert-falsche-parkplaetze;art9647,1093267), Luzerner Zeitung vom 31.08.2017
