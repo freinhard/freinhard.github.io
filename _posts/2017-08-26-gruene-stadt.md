@@ -3,7 +3,7 @@ layout: post
 title: Die Grüne und die Stadt
 ---
 
-Warum es im Grünen keine Grünen gibt.
+**Warum es im Grünen keine Grünen gibt.**
 
 Ich frage mich immer wieder wie sich eine politisch grüne Grundhaltung mitten im städtischen Trubel glaubhaft vertreten lässt. Rund um einen herum blüht der Konsum, der Verkehr spriesst, und die dominierende Farbe ist eher beton- oder asphaltgrau statt sattes Grün. Insgesamt also ein Ambiente, das weit entfernt ist von der grünen Wiese. Kein Wunder, kommen da Leute aus grünen und linken Kreisen (was ja oft fast identisch ist) auf die Idee, die grüne Wiese in die städtischen Innenhöfe zu holen. Und natürlich will man Hausbesitzern auch gleich noch sagen, wie es geht. Auch diese Art, ‚Anweisungen‘ zu geben, kommt einem nicht ganz unbekannt vor, entspricht es doch einem typischen Muster: Wissen, was für die anderen gut ist, Mahnfinger erheben, schulmeistern.
 
