@@ -37,7 +37,7 @@ Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Gros
 - **2012 - heute** Vorstand FDP.Die Liberalen Stadt Luzern 
 - **2011 - 2014** Vorstand Jungfreisinnige Stadt Luzern  
 
-Meine politischen Vorstösse im Grossen Stadtrat der Stadt Luzern: [Grossstadtratsdokumente](https://www.stadtluzern.ch/politikverwaltung/grosserstadtrat/dokumente)
+Meine politischen Vorstösse im Grossen Stadtrat der Stadt Luzern: [Grossstadtratsdokumente](https://www.stadtluzern.ch/politikverwaltung/grosserstadtrat/dokumente?filters%5Bunterzeichner%5D=FABIAN%20REINHARD)
 
 ### Netzwerk
 [Industrie- und Handelskammer Zentralschweiz IHZ](http://www.ihz.ch/home.html), [Wirtschaftsverband Stadt Luzern WVL](http://www.wvl.ch), [Info-Forum Freies Unternehmertum IFU](http://www.ifu.ch), [City Vereinigung Luzern](https://www.city-luzern.ch)
