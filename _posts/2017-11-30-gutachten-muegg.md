@@ -18,7 +18,7 @@ In diesem Zusammenhang erwarten wir vom Stadtrat die Beantwortung folgender Frag
 1.	Waren dem Stadtrat die entsprechenden bautechnischen Expertenberichte/Gutachten zum Zeitpunkt der Beantwortung von Motion 92 bekannt?
 2.	Hat der Stadtrat in der Beantwortung von Motion 92 seine Aussagen bezüglich der Stabilität der Museggmauer auf diese bautechnischen Expertenberichte/Gutachten gestützt?
 3.	Decken sich die Aussagen des Stadtrates bezüglich der Stabilität der Museggmauer (Antwort Motion 92) mit diesen  bautechnischen Expertenberichten/Gutachten?
-4.	Welche Fragen haben diese bautechnischen Expertenberichte/Gutachten beantwortet, welches die EBK und welche Grundlagen dienten zur Einschätzung des Stabilitätsrisikos?
+4.	Welche Fragen haben diese bautechnischen Expertenberichte/Gutachten beantwortet und welche Grundlagen dienten zur Einschätzung des Stabilitätsrisikos?
 5.	Warum wurde in der Antwort auf Motion 5 und 92 nur die kritische Haltung der Eidgenössische Kommission für Denkmalpflege erwähnt, nicht aber die  Ergebnisse der bautechnischen Expertenberichte/Gutachten?
 6.	Wer hat diese bautechnische Expertenberichte/Gutachten in Auftrag gegeben?
 7.	Welchen Stellen wurden die Ergebnisse der bautechnischen Expertenberichte/Gutachten weitergeleitet?
