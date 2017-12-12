@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/freinhard
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.fabianreinhard.ch
+  * I am freinhard (https://keybase.io/freinhard) on keybase.
+  * I have a public key ASBAJcUavn5Fg_6KT2d0PcWrceZXVKpTF4SKegLT4cpbbgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204025c51abe7e4583fe8a4f67743dc5ab71e65754aa5317848a7a02d3e1ca5b6e0a",
+      "host": "keybase.io",
+      "kid": "01204025c51abe7e4583fe8a4f67743dc5ab71e65754aa5317848a7a02d3e1ca5b6e0a",
+      "uid": "f32a681fbefa90d4e701334fda2c5c19",
+      "username": "freinhard"
+    },
+    "merkle_root": {
+      "ctime": 1513079357,
+      "hash": "6e50a4685f6533ffa2ae432c66eefd3e47efd2bdcc7e238ec4dea2717bdb7281f02e713fbcddd326d8fe743591a9ece184f00f6592b82f22381ab3451d280d7e",
+      "hash_meta": "31c60ea3e2aca7fe483c0c83bdb4ec75319d105f13ca65e91507cc90c68e95f5",
+      "seqno": 1807143
+    },
+    "service": {
+      "hostname": "www.fabianreinhard.ch",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1513079382,
+  "expire_in": 504576000,
+  "prev": "8a6e24cc8c7e3529eb15c347c9e2fa326de488224fed2d4ebae8b092de89bc4e",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQCXFGr5+RYP+ik9ndD3Fq3HmV1SqUxeEinoC0+HKW24Kp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDAyNWM1MWFiZTdlNDU4M2ZlOGE0ZjY3NzQzZGM1YWI3MWU2NTc1NGFhNTMxNzg0OGE3YTAyZDNlMWNhNWI2ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDAyNWM1MWFiZTdlNDU4M2ZlOGE0ZjY3NzQzZGM1YWI3MWU2NTc1NGFhNTMxNzg0OGE3YTAyZDNlMWNhNWI2ZTBhIiwidWlkIjoiZjMyYTY4MWZiZWZhOTBkNGU3MDEzMzRmZGEyYzVjMTkiLCJ1c2VybmFtZSI6ImZyZWluaGFyZCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMzA3OTM1NywiaGFzaCI6IjZlNTBhNDY4NWY2NTMzZmZhMmFlNDMyYzY2ZWVmZDNlNDdlZmQyYmRjYzdlMjM4ZWM0ZGVhMjcxN2JkYjcyODFmMDJlNzEzZmJjZGRkMzI2ZDhmZTc0MzU5MWE5ZWNlMTg0ZjAwZjY1OTJiODJmMjIzODFhYjM0NTFkMjgwZDdlIiwiaGFzaF9tZXRhIjoiMzFjNjBlYTNlMmFjYTdmZTQ4M2MwYzgzYmRiNGVjNzUzMTlkMTA1ZjEzY2E2NWU5MTUwN2NjOTBjNjhlOTVmNSIsInNlcW5vIjoxODA3MTQzfSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5mYWJpYW5yZWluaGFyZC5jaCIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzcifSwiY3RpbWUiOjE1MTMwNzkzODIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiOGE2ZTI0Y2M4YzdlMzUyOWViMTVjMzQ3YzllMmZhMzI2ZGU0ODgyMjRmZWQyZDRlYmFlOGIwOTJkZTg5YmM0ZSIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQBC+0spISrykn7boZo2G6792NxIeZhTxkWk71PrPhLPdH2alizV9Elm6hk7ckD6EZRG1oKkOXsefA3bFfAe4Ngyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAolL5+2Q8WYpFwckC/X199j8nVDaEd/35IAZRZBjaEeKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/freinhard
+
+==================================================================
