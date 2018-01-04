@@ -1,6 +1,7 @@
 html {
 	font-size: 18px; 
 	font-family: Lora, Palatino, Times, "Times New Roman", serif;
+	text-rendering: optimizeLegibility;
 }
 
 body {color: rgb(34, 34, 34)}
