@@ -1,7 +1,8 @@
 html {
-	font-size: 18px; 
+	font-size: 17px; 
 	font-family: Lora, Palatino, Times, "Times New Roman", serif;
 	text-rendering: optimizeLegibility;
+	line-height: 27px;
 }
 
 body {color: rgb(34, 34, 34)}
@@ -46,4 +47,8 @@ p, h1, h2, h3, h4 {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto;
+}
+
+.pagination {
+	font-family: "Source Sans Pro", arial, helvetica, sans-serif;
 }
