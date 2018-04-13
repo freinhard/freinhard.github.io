@@ -7,7 +7,11 @@ title: Über mich
 
 ![Foto: Bruno Eberli]({{ site.url }}/public/assets/FR-Interview.jpg) *Foto: Bruno Eberli*
 
-Nach der Matura (Typus A) an der Kantonsschule Solothurn habe ich an der Universität Zürich Politikwissenschaft, Volkswirtschaft sowie Allgemeines Staatsrecht studiert. Während meines Studiums habe ich zusammen mit meinem Bruder Tobias unsere Firma [seantis gmbh](https://www.seantis.ch) gegründet.
+Gründer und seit mehr als zehn Jahren Managing Partner der [seantis gmbh](http://www.seantis.ch). Geschäfts- und Softwareentwicklung mit hohem Qualitätsanspruch nach Agiler Methodik.
+ 	
+Politisch engagiert als Mitglied des [Grossen Stadtrates der Stadt Luzern](https://www.stadtluzern.ch/politikverwaltung/grosserstadtrat/5973) und als Parteipräsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch).
+ 	
+Studium der Internationalen Beziehungen, der Volkswirtschaftslehre und des Allgemeinen Staatsrechtes an der [Universität Zürich](http://www.uzh.ch). Weiterbildung an der [Harvard University](https://www.harvard.edu).
 
 → [Curriculum Vitae (PDF)]({{ site.url }}/public/assets/CV-Fabian-Reinhard.pdf)
 
@@ -34,7 +38,7 @@ Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Gros
 - **2015 - heute** Grosser Stadtrat Luzern
 - **2015 - heute** Erweiterte Geschäftsleitung FDP.Die Liberalen Kanton Luzern
 - **2014** Wahlteamchef FDP.Die Liberalen Stadt Luzern
-- **2013 - heute** Nationaler Delegierter FDP.Die Liberalen Kanton Luzern 
+- **2013 - 2018** Nationaler Delegierter FDP.Die Liberalen Kanton Luzern 
 - **2012 - heute** Vorstand FDP.Die Liberalen Stadt Luzern 
 - **2011 - 2014** Vorstand Jungfreisinnige Stadt Luzern  
 
