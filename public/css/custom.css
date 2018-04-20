@@ -1,5 +1,5 @@
 html {
-	font-size: 17px; 
+	font-size: 17px;
 	font-family: Lora, Palatino, Times, "Times New Roman", serif;
 	text-rendering: optimizeLegibility;
 	line-height: 27px;
@@ -35,6 +35,10 @@ body {color: rgb(34, 34, 34)}
 
 .social-media a {
     color: rgba(255, 255, 255, .5);
+}
+
+.social-media i {
+	margin-right: 12px;
 }
 
 @media (max-width: 48em) {
