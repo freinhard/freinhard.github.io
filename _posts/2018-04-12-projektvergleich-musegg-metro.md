@@ -23,5 +23,5 @@ Peter With
 namens der SVP-Fraktion
 
 <sup>1</sup> «Neue Ansätze für das Parkieren von Reisecars?» Übersichtspapier zur lokalen Ausgangslage  
-<sup>2</sup> http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/luzern/die-fakten-zum-parkhaus-musegg;art9647,1191805  
-<sup>3</sup> https://www.zentralplus.ch/de/news/politik/5551648/Das-gescheiterte-Comeback-der-Luzerner-Metro-Idee.htm 
+<sup>2</sup> [http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/luzern/die-fakten-zum-parkhaus-musegg;art9647,1191805](Luzerner Zeitung vom 31. Januar 2018)  
+<sup>3</sup> [https://www.zentralplus.ch/de/news/politik/5551648/Das-gescheiterte-Comeback-der-Luzerner-Metro-Idee.htm](zentralplus vom 03. November 2017) 
