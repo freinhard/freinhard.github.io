@@ -61,6 +61,7 @@ Meine politischen Vorstösse im Grossen Stadtrat der Stadt Luzern: [Grossstadtra
 - Foto freigestellt [[JPEG, 7.7 MB]]({{ site.url }}/public/assets/Fabian-Reinhard-Freigestellt.jpg)
 
 ### Lieblingsbücher
+- Hector J. Levesque (2017). Common Sense, the Turing Test, and the Quest for Real AI. The MIT Press
 - Walter Isaacson (2005). Kissinger: A Biography. Simon & Schuster
 - Walter Isaacson (2014). The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution. Simon & Schuster
 - Joshua Foer (2011). Moonwalking with Einstein: The Art and Science of Remembering Everything. New York: Penguin Press
