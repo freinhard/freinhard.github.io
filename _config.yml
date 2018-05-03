@@ -11,7 +11,7 @@ gems:
 title:               'FABIAN REINHARD'
 tagline:             'IT-Unternehmer, Grossstadtrat, Präsident FDP.Die Liberalen Stadt Luzern'
 description:         'IT-Unternehmer, Grossstadtrat Luzern, Präsident FDP.Die Liberalen Stadt Luzern'
-baseurl:             'http://www.fabianreinhard.ch'
+baseurl:             'https://www.fabianreinhard.ch'
 paginate:            3
 
 # About/contact
