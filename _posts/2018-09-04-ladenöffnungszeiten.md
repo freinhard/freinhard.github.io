@@ -14,10 +14,10 @@ Den Unterzeichnenden fällt es schwer, sich vom aktuellen Stand der Verhandlunge
 
 Die Unterzeichnenden bitten den Stadtrat, im Rahmen der rechtlichen Möglichkeiten in konstruktiver Zusammenarbeit mit allen Beteiligten zum Thema Ladenöffnungszeiten eine tragbare Lösung auszuarbeiten, den Grossen Stadtrat über die Bemühungen des Stadtrates und die Fortschritte im Prozess zu informieren und das Rechtsgutachten zu veröffentlichen.
 
-Fabian Reinhard und Sonja Döbeli  
+Fabian Reinhard und Sonja Döbeli Stirnemann 
 namens der FDP-Fraktion
 
-Stirnemann Judith Wyrsch und Stefan Sägesser  
+Judith Wyrsch und Stefan Sägesser  
 namens der GLP-Fraktion
  
 Mirjam Fries und Albert Schwarzenbach  
