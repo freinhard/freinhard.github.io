@@ -27,5 +27,7 @@ Thomas Gfeller
 namens der SVP-Fraktion
 
 <sup>1</sup> https://www.luzernerzeitung.ch/zentralschweiz/luzern/oeffnungszeiten-laenger-einkaufen-in-der-luzerner-altstadt-ld.94337
+
 <sup>1</sup> http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/luzern/laengere-ladenoeffnungszeiten-gewerkschaft-haelt-diese-forderung-fuer-pure-zwaengerei;art9647,1244568
+
 <sup>3</sup> http://www.luzernerzeitung.ch/nachrichten/zentralschweiz/luzern/es-braucht-eine-staedtische-loesung
