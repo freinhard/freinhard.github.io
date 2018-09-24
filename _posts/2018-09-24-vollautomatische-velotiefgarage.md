@@ -31,9 +31,13 @@ Im Zusammenhang mit dem der geplanten unteririschen Velogarage bitten wir den St
 Fabian Reinhard und Rieska Dommann
 namens der FDP Fraktion
 
+—
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jt40Tp0u7aY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[https://nationaler-radverkehrsplan.de/de/aktuell/nachrichten/groesste-automatische-fahrradgarage-der-welt-japan](https://www.20min.ch/schweiz/zentralschweiz/story/Luzern-soll-automatisches-Veloparking-erhalten-21978269)
+—
+
+Abstell-Karusselle für 6.480 Velos in Tokio: [https://nationaler-radverkehrsplan.de/de/aktuell/nachrichten/groesste-automatische-fahrradgarage-der-welt-japan](https://www.20min.ch/schweiz/zentralschweiz/story/Luzern-soll-automatisches-Veloparking-erhalten-21978269)
 
 Bericht 20 Minuten: [https://www.20min.ch/schweiz/zentralschweiz/story/Luzern-soll-automatisches-Veloparking-erhalten-21978269](https://www.20min.ch/schweiz/zentralschweiz/story/Luzern-soll-automatisches-Veloparking-erhalten-21978269)
 
