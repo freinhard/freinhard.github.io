@@ -21,9 +21,9 @@ Solche unterirdischen, vollautomatischen Anlagen könnten gegenüber der geplant
 -	Einfachere Bauweise
 -	Vereinfachte Abrechnung und Bezahlung
 
-Im Zusammenhang mit dem der geplanten unteririschen Velogarage bitten wir den Stadtrat folgende Fragen zu beantworten:
+Im Zusammenhang mit dem der geplanten unterirdischen Velogarage bitten wir den Stadtrat folgende Fragen zu beantworten:
 
-1. Hat der Stadtrat die Möglichkeit von vollautomatischen unteririschen Veloparkierungslösungen geprüft?
+1. Hat der Stadtrat die Möglichkeit von vollautomatischen unterirdischen Veloparkierungslösungen geprüft?
 2. Ist es sinnvoll Veloparkplätze aus stadtgestalterischen Gründen vermehrt unterirdisch zu realisieren?
 3. Wie beurteilt der Stadtrat die Möglichkeit dank einer modernen Parkierungstechnologie kleine und dezentrale Parkierungsmöglichkeiten im Zufahrtsbereich zum Bahnhof und verteilt in der Stadt zu realisieren?
 4. Haben die Verzögerungen in der Umsetzung der autofreien Bahnhofstrasse etwas mit dem geplanten Bau zu tun?
