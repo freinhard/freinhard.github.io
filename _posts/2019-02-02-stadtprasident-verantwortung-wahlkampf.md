@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Der Stadtpräsident nimmt seine Verantwortung nicht wahr und macht stattdessen Wahlkampf
+title: Der Stadtpräsident und seine «persönliche Meinung»
 ---
+
+**Stadtpräsident Züsli nimmt seine Verantwortung nicht wahr und macht stattdessen Wahlkampf für seine Partei, zum Nachteil der Stadt.**
 
 Wie wir aus der Zeitung ([Luzerner Zeitung vom 30.1.2019](https://www.luzernerzeitung.ch/zentralschweiz/luzern/stadtluzerner-sp-sagt-deutlich-ja-zur-lancierung-der-spange-nord-initiative-ld.1089674)) erfahren mussten, gehörte Stadtpräsident Beat Züsli in der Versammlung der SP zu jenen Stimmen, welche die Partei für die Volksinitiative gegen die Spange Nord anstachelten. Eine Initiative, die zur Unzeit kommt und die kontraproduktiv ist, weil sie die Gräben zwischen Stadt und Kanton weiter vertieft. Dies ist denn auch der Grund, warum die SP mit ihrer Initiative alleine dasteht; Grüne, Grünliberale und der VCS wollten die SP von ihrem Ansinnen abbringen und haben die Initiative der SP als reinen Wahlkampf klassifiziert.
 
