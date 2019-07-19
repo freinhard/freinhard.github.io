@@ -13,8 +13,6 @@ Politisch engagiert als Mitglied des [Grossen Stadtrates der Stadt Luzern](https
  	
 Studium der Internationalen Beziehungen, der Volkswirtschaftslehre und des Allgemeinen Staatsrechtes an der [Universität Zürich](http://www.uzh.ch). Weiterbildung an der [Harvard University](https://www.harvard.edu).
 
-→ [Curriculum Vitae (PDF)]({{ site.url }}/public/assets/CV-Fabian-Reinhard.pdf)
-
 ### Kontakt
 - e-Mail: [fabian@reinhard.ch](mailto:fabian@reinhard.ch)
 - Telefon: +41 41 511 22 50
