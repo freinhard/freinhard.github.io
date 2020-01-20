@@ -7,7 +7,7 @@ title: Seinen Stimmzettel auf Social Media zu posten, ist nicht cool!
 
 Nationalrat Michael Töngi stellt ein Foto seines ausgefüllten Abstimmungszettels auf Facebook und schreibt dazu „zur Nachahmung“. Offenbar will er seine Facebook-Freunde dazu motivieren, gleich zu stimmen wie er. Aber zur Nachahmung zu empfehlen ist seine Aktion ganz und gar nicht. Nationalrat Töngi verletzt mit seiner Aktion nämlich das Stimmgeheimnis. Das Stimmgeheimnis ist eine zentrale Voraussetzung der rechtsstaatlichen Demokratie.
 
-![FB-Stimmgeheimnis](/Users/fabian/Library/Mobile Documents/com~apple~CloudDocs/Politik/Blog/FB-Stimmgeheimnis.png)
+![FB-Stimmgeheimnis]({{ site.url }}/public/assets/FB-Stimmgeheimnis.png)
 
 Das Stimmgeheimnis hat gemäss Robert Wolf mehrere Funktionen (vgl. [http://www.ch77.ch/e-vote/einleitung/anforderungen/stimmgeheimnis](http://www.ch77.ch/e-vote/einleitung/anforderungen/stimmgeheimnis/)):
 
