@@ -5,7 +5,10 @@ html {
 	line-height: 27px;
 }
 
-body {color: rgb(34, 34, 34)}
+body {
+	color: rgb(34, 34, 34);
+	background: #F7FAFC
+}
 
 .sidebar {
     background-color: #009AEA;
@@ -65,4 +68,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .pagination {
 	font-family: "Source Sans Pro", arial, helvetica, sans-serif;
+}
+
+#flyer {
+	margin-bottom: 60px;
 }
