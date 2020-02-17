@@ -3,7 +3,9 @@ layout: page
 title: Über mich
 ---
 
-**Unternehmer, lic. phil., M A [UZH](http://www.uzh.ch)**
+![Foto: Bruno Eberli]({{ site.url }}/public/assets/Flyer-2020.jpg)
+
+**Fabian Reinhard, Unternehmer, lic. phil., M A [UZH](http://www.uzh.ch)**
 
 ![Foto: Bruno Eberli]({{ site.url }}/public/assets/FR-Interview.jpg) *Foto: Bruno Eberli*
 
