@@ -19,6 +19,11 @@ Studium der Internationalen Beziehungen, der Volkswirtschaftslehre und des Allge
 - Twitter: [@fabianreinhard](https://www.twitter.com/fabianreinhard)
 - Keybase: [https://keybase.io/freinhard](https://keybase.io/freinhard)
 
+### Gastartikel
+- [Der digitale Gegenangriff ist keine brauchbare Strategie für die Cyber-Verteidigung](https://www.nzz.ch/schweiz/der-digitale-gegenangriff-ist-keine-gute-verteidigungsstrategie-ld.1568757), Gastkommentar Neue Zürcher Zeitung vom 1. August 2020
+- [Einfach tun!](https://hrtoday.ch/de/article/einfach-tun-knowing-learning-doing-gap), Interview HR Today vom 5. November 2019
+- [OneGov Cloud – Government as a Platform](https://www.oss-studie.ch/open-source-studie-2018.pdf), Fachbeitrag Open Source Studie Schweiz 2018
+
 ### Beruflich
 Gründer und Geschäftsführer der Luzerner Softwareschmiede [seantis gmbh](https://www.seantis.ch)
 
