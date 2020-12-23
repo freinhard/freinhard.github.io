@@ -17,9 +17,9 @@ Eine ganz zentrale Bedeutung des Parlamentsbetriebs kommt Abstimmungen zu. Digit
 
 In seiner Antwort zu Dringlichen Motion 31 (Möglichkeit zur digitalen Teilnahme an Sitzungen in Ausnahmefällen) schreibt der Stadtrat, dass er die Entwicklung auf Bundesebene abwarten möchte. Der Nationalrat hat mittlerweile einer Parlamentarischen Initiative der Staatspolitischen Kommission zugestimmt, welche eine Teilnahme an Abstimmungen für Nationalratsmitglieder, die wegen der Covid-19-Krise verhindert sind, ermöglichen soll (vgl. [https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20200483](https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20200483)).
 
-Fabian Reinhard namens der FDP Fraktion  
-Jules Gut namens der GLP Fraktion  
-Regula Müller namens der SP Fraktion  
-Irina Studhalter namens G/JG-Fraktion  
-Mirjam Fries namens der CVP Fraktion	 
-Thomas Gfeller namens der SVP Fraktion  
+- Fabian Reinhard namens der FDP Fraktion
+- Jules Gut namens der GLP Fraktion
+- Regula Müller namens der SP Fraktion
+- Irina Studhalter namens G/JG-Fraktion
+- Mirjam Fries namens der CVP Fraktion
+- Thomas Gfeller namens der SVP Fraktion  
