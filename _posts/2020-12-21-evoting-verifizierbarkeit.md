@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Die andere Sicht: Vertrauen in E-Voting ist mehr als ein Verschlüs­selungs­protokoll
+title: Vertrauen in E-Voting ist mehr als ein Verschlüs­selungs­protokoll
 ---
 
 **Erschienen als Gastbeitrag auf Inside IT: [https://www.inside-it.ch/de/post/die-andere-sicht-vertrauen-in-e-voting-ist-mehr-als-ein-verschluesselungsprotokoll-20201221](https://www.inside-it.ch/de/post/die-andere-sicht-vertrauen-in-e-voting-ist-mehr-als-ein-verschluesselungsprotokoll-20201221)**
