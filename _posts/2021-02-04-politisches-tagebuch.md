@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Aus meinem politischen Tagebuch: 4. Februar 2021
+title: Aus meinem politischen Tagebuch
 ---
 
 **Erschienen im LIBERAL JOURNAL 2021/1: [https://www.fdp-stadtluzern.ch/liberal-journal](https://www.fdp-stadtluzern.ch/liberal-journal)**
+
+*4. Februar 2021*
 
 Vor dem Parlamentsgebäude haben sich fünf Personen mit einem Transparent für das Eichwäldli aufgestellt. Ich sage freundlich «guten Morgen»; keine Reaktion.
 
