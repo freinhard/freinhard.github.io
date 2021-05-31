@@ -9,6 +9,8 @@ title: Über mich
 
 Gründer und seit mehr als zehn Jahren Managing Partner der [seantis gmbh](http://www.seantis.ch). Geschäfts- und Softwareentwicklung mit hohem Qualitätsanspruch nach Agiler Methodik.
 
+Mitglied des Verwaltungsrates der [galledia group ag](https://www.galledia-group.ch/unternehmen/fuehrung)
+
 Politisch engagiert als Mitglied des [Grossen Stadtrates der Stadt Luzern](https://www.stadtluzern.ch/politikverwaltung/grosserstadtrat/5973) und als Parteipräsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch).
 
 Studium der Internationalen Beziehungen, der Volkswirtschaftslehre und des Allgemeinen Staatsrechtes an der [Universität Zürich](http://www.uzh.ch). Weiterbildung an der [Harvard University](https://www.harvard.edu).
