@@ -11,7 +11,7 @@ Gründer und seit mehr als zehn Jahren Managing Partner der [seantis gmbh](http:
 
 Mitglied des Verwaltungsrates der [galledia group ag](https://www.galledia-group.ch/unternehmen/fuehrung)
 
-Politisch engagiert als Mitglied des [Grossen Stadtrates der Stadt Luzern](https://www.stadtluzern.ch/politikverwaltung/grosserstadtrat/5973) und als Parteipräsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch).
+Politisch engagiert als Mitglied des [Grossen Stadtrates der Stadt Luzern](https://www.stadtluzern.ch/politikverwaltung/grosserstadtrat/5973).
 
 Studium der Internationalen Beziehungen, der Volkswirtschaftslehre und des Allgemeinen Staatsrechtes an der [Universität Zürich](http://www.uzh.ch). Weiterbildung an der [Harvard University](https://www.harvard.edu).
 
@@ -64,26 +64,3 @@ Meine politischen Vorstösse im Grossen Stadtrat der Stadt Luzern: [Grossstadtra
 <!-- ### Fotos
 - Foto mit Hintergrund [[JPEG, 10.8 MB]]({{ site.url }}/public/assets/Fabian-Reinhard-Hintergrund.jpg)
 - Foto freigestellt [[JPEG, 7.7 MB]]({{ site.url }}/public/assets/Fabian-Reinhard-Freigestellt.jpg) -->
-
-<!-- ### Lieblingsbücher
-- Hector J. Levesque (2017). Common Sense, the Turing Test, and the Quest for Real AI. The MIT Press
-- Walter Isaacson (2005). Kissinger: A Biography. Simon & Schuster
-- Walter Isaacson (2014). The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution. Simon & Schuster
-- Joshua Foer (2011). Moonwalking with Einstein: The Art and Science of Remembering Everything. New York: Penguin Press
-- Iwan Gontscharow. Oblomow. Übersetzt durch Josef Hahn (2012). Deutscher Taschenbuch Verlag
-- Fjodor M. Dostojewskij. Verbrechen und Strafe: Roman. Übersetzt durch Swetlana Geier (1996). FISCHER Taschenbuch
-- Fjodor M. Dostojewskij. Der Spieler: Roman. Übersetzt durch Swetlana Geier (2011). FISCHER Taschenbuch
-- Peter Thiel, Blake Masters (2014). Zero to One: Notes on Startups, or How to Build the Future. Crown Business
-- Eric Ries (2011). The Lean Startup: How Constant Innovation Creates Radically Successful Businesses. Portfolio Penguin
-- Jake Knapp, John Zeratsky, Braden Kowitz (2016). Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days. Simon & Schuster
-- David Heinemeier Hanss (2010). ReWork: Change the Way You Work Forever. Vermilion
-- Ben Horowitz (2014). The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers. HarperBusiness
-- Gary Smith (2016). Standard Deviations: Flawed Assumptions, Tortured Data, and Other Ways to Lie with Statistics. Gerald Duckworth & Co
-- Fred Brooks (1986). No Silver Bullet — Essence and Accidents of Software Engineering
-- Fred Brooks (1995). The Mythical Man-Month: Essays on Software Engineering
-- Pekka Himanen (2001). The Hacker Ethic and the Spirit of the Information Age
-- Andrew Hunt, David Thomas (1999): The Pragmatic Programmer: From Journeyman to Master
-- Zed Shaw (2013). Learn Python the Hard Way
-- Andrew Stellman, Jennifer Greene (2014). Learning Agile
-- Plato. Politeia. Übersetzt durch Friedrich Schleiermachers (1991). Insel-Verlag
-- Friedrich August von Hayek (2004). Der Weg zur Knechtschaft. Mohr Siebeck -->
