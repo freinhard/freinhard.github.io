@@ -7,7 +7,7 @@ title: Der Stadtrat will eine undemokratische Revanche zum Parkplatzkompromiss
 
 *11. Oktober 2021*
 
-Wir können gerne noch einmal über den Parkplatzkompromiss abstimmen. Im Jahr 2031!
+Wir können gerne noch einmal über den Parkplatzkompromiss abstimmen. Frühestens im Jahr 2031!
 
 Diesen Sommer hat die Stimmbevölkerung der Stadt Luzern über den Parkplatzkompromiss abgestimmt. Siegreich waren wir mit einem breiten Komitee von FDP, CVP, SVP und GLP sowie Wirtschafts- und Verkehrsverbänden. Wir haben uns erfolgreich gegen die einseitigen Verschärfungen durch SP und Grüne im Parlament zur Wehr gesetzt. Die bürgerlichen Gegenvorschläge zum Parkplatzreglement und zum Parkkartenreglement wurden mit 56,5 beziehungsweise 55,7 Prozent Ja-Stimmen relativ deutlich angenommen.
 
