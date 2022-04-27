@@ -9,7 +9,7 @@ title: Über mich
 
 Gründer und seit mehr als zehn Jahren Managing Partner der [seantis gmbh](http://www.seantis.ch). Geschäfts- und Softwareentwicklung mit hohem Qualitätsanspruch nach Agiler Methodik.
 
-Mitglied des Verwaltungsrates der [galledia group ag](https://www.galledia-group.ch/unternehmen/fuehrung)
+Mitglied des Verwaltungsrates der [galledia group ag](https://www.galledia-group.ch/unternehmen/fuehrung) sowie der [Emch+Berger WSB AG](https://www.emchberger.ch/de/emchberger-wsb-ag)
 
 Politisch engagiert als Mitglied des [Grossen Stadtrates der Stadt Luzern](https://www.stadtluzern.ch/politikverwaltung/grosserstadtrat/5973).
 
