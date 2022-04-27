@@ -40,9 +40,9 @@ Für unsere Webapplikationen durften wir [Preise und Auszeichnungen](https://www
 ### Politisch
 Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Grossstadtrat Luzern
 
-- **2015 - heute** Präsident FDP.Die Liberalen Stadt Luzern
 - **2015 - heute** Grosser Stadtrat Luzern
-- **2015 - heute** Erweiterte Geschäftsleitung FDP.Die Liberalen Kanton Luzern
+- **2015 - 2021** Präsident FDP.Die Liberalen Stadt Luzern
+- **2015 - 2021** Erweiterte Geschäftsleitung FDP.Die Liberalen Kanton Luzern
 - **2014** Wahlteamchef FDP.Die Liberalen Stadt Luzern
 - **2013 - 2018** Nationaler Delegierter FDP.Die Liberalen Kanton Luzern
 - **2012 - heute** Vorstand FDP.Die Liberalen Stadt Luzern
