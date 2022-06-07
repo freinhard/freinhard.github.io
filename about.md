@@ -38,7 +38,7 @@ Wir arbeiten seit mehr als zehn Jahren mit Open Source Software und sind aktiv i
 Für unsere Webapplikationen durften wir [Preise und Auszeichnungen](https://www.seantis.ch/portrait/awards/) entgegennehmen.
 
 ### Politisch
-Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch), Grossstadtrat Luzern
+Grossstadtrat [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch)
 
 - **2015 - heute** Grosser Stadtrat Luzern
 - **2015 - 2021** Präsident FDP.Die Liberalen Stadt Luzern
