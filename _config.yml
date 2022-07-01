@@ -9,8 +9,8 @@ gems:
 
 # Setup
 title:               'FABIAN REINHARD'
-tagline:             'IT-Unternehmer, Verwaltungsrat, Grossstadtrat Luzern'
-description:         'IT-Unternehmer, Verwaltungsrat, Grossstadtrat Luzern'
+tagline:             'IT-Unternehmer, Verwaltungsrat'
+description:         'IT-Unternehmer, Verwaltungsrat'
 baseurl:             'https://www.fabianreinhard.ch'
 paginate:            1
 

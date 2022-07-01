@@ -11,7 +11,7 @@ Gründer und seit mehr als zehn Jahren Managing Partner der [seantis gmbh](http:
 
 Mitglied des Verwaltungsrates der [galledia group ag](https://www.galledia-group.ch/unternehmen/fuehrung) sowie der [Emch+Berger WSB AG](https://www.emchberger.ch/de/emchberger-wsb-ag)
 
-Politisch engagiert als Mitglied des [Grossen Stadtrates der Stadt Luzern](https://www.stadtluzern.ch/politikverwaltung/grosserstadtrat/5973).
+Engagiert im Vorstand des [Info-Forum Freies Unternehmertum](https://www.ifu.ch)
 
 Studium der Internationalen Beziehungen, der Volkswirtschaftslehre und des Allgemeinen Staatsrechtes an der [Universität Zürich](http://www.uzh.ch). Weiterbildung an der [Harvard University](https://www.harvard.edu).
 
@@ -38,9 +38,9 @@ Wir arbeiten seit mehr als zehn Jahren mit Open Source Software und sind aktiv i
 Für unsere Webapplikationen durften wir [Preise und Auszeichnungen](https://www.seantis.ch/portrait/awards/) entgegennehmen.
 
 ### Politisch
-Grossstadtrat [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch)
+Ehemals Grossstadtrat und Präsident [FDP.Die Liberalen Stadt Luzern](http://www.fdp-stadtluzern.ch)
 
-- **2015 - heute** Grosser Stadtrat Luzern
+- **2015 - 2022** Grosser Stadtrat Luzern
 - **2015 - 2021** Präsident FDP.Die Liberalen Stadt Luzern
 - **2015 - 2021** Erweiterte Geschäftsleitung FDP.Die Liberalen Kanton Luzern
 - **2014** Wahlteamchef FDP.Die Liberalen Stadt Luzern
